@@ -1,0 +1,109 @@
+{
+  "section": "science",
+  "passage": {
+    "position": 6,
+    "title": "Air Trapped in Time: A 240,000-Year Ice Core Record",
+    "kind": "data_representation",
+    "body_md": "Ice sheets form as yearly layers of snow are buried and compressed into ice. Scientists drilled a 1,900 m ice core from an ice sheet and analyzed samples from 7 depths to reconstruct past climate. Deeper ice is older ice, so each depth corresponds to an *ice age*, expressed in thousands of years before present (kyr BP).\n\nTwo properties of each sample were used to study past climate:\n\n1. **δD** (delta-deuterium) is a measure of the ratio of heavy hydrogen to ordinary hydrogen in the ice, expressed in parts per thousand (‰). Snow that falls during warmer periods has a *less negative* δD. From δD, researchers calculated **ΔT**, the difference between the site's average air temperature when the snow fell and its present-day average air temperature.\n2. As buried snow (called *firn*) compacts into ice, small bubbles of air are sealed inside. The concentration of carbon dioxide (CO<sub>2</sub>), in parts per million (ppm), was measured in the air extracted from these bubbles.\n\nBecause air continues to mix through the open pores of the firn until the bubbles seal off, the gas inside a bubble is *younger* than the ice that surrounds it. The difference between the ice age and the gas age at a given depth is called **Δage**. Sites where snow accumulates slowly take longer to seal off bubbles.\n\n**Table 1**\n\n| Depth (m) | Ice age (kyr BP) | CO<sub>2</sub> (ppm) | δD (‰) | ΔT (°C) |\n|---|---|---|---|---|\n| 120 | 4 | 279 | −442 | −0.2 |\n| 410 | 20 | 189 | −496 | −9.2 |\n| 730 | 60 | 209 | −484 | −7.2 |\n| 1,060 | 105 | 242 | −462 | −3.5 |\n| 1,320 | 128 | 287 | −438 | +0.5 |\n| 1,650 | 200 | 195 | −490 | −8.2 |\n| 1,900 | 240 | 279 | −441 | −0.1 |\n\nAt 4 of the depths, the researchers also determined the average snow accumulation rate (in centimeters of ice per year) at the time the ice formed and the corresponding Δage (see Table 2).\n\n**Table 2**\n\n| Depth (m) | Accumulation rate (cm of ice per year) | Δage (yr) |\n|---|---|---|\n| 120 | 3.2 | 2,100 |\n| 410 | 1.6 | 4,300 |\n| 1,060 | 2.4 | 2,900 |\n| 1,650 | 1.5 | 4,500 |"
+  },
+  "questions": [
+    {
+      "position": 34,
+      "stem_md": "According to Table 1, the CO<sub>2</sub> concentration in the air bubbles from the sample taken at a depth of 410 m was:",
+      "choices": [
+        "189 ppm.",
+        "209 ppm.",
+        "242 ppm.",
+        "279 ppm."
+      ],
+      "correct_index": 0,
+      "explanation_md": "In Table 1, the row for a depth of 410 m lists a CO<sub>2</sub> concentration of 189 ppm. The values 209 ppm, 242 ppm, and 279 ppm belong to the samples from 730 m, 1,060 m, and 120 m (or 1,900 m), respectively, so each distractor comes from reading the wrong row.",
+      "difficulty": "easy",
+      "topic": "table lookup"
+    },
+    {
+      "position": 35,
+      "stem_md": "Based on Table 1, as the depth of the samples increased from 120 m to 1,900 m, the ice age of the samples:",
+      "choices": [
+        "increased only.",
+        "decreased only.",
+        "increased, then decreased.",
+        "decreased, then increased."
+      ],
+      "correct_index": 0,
+      "explanation_md": "Reading down the ice age column, the values rise steadily from 4 kyr BP to 240 kyr BP with no reversals, so age increased only. The other choices describe a decrease or a change in direction, neither of which appears anywhere in the column; note that CO<sub>2</sub> and ΔT do rise and fall with depth, but the question asks only about age.",
+      "difficulty": "easy",
+      "topic": "trends"
+    },
+    {
+      "position": 36,
+      "stem_md": "A *glacial period* is an interval during which a site's average air temperature was much colder than it is at present. Based on Table 1, which of the following samples most likely formed during a glacial period?",
+      "choices": [
+        "The sample from 120 m",
+        "The sample from 410 m",
+        "The sample from 1,320 m",
+        "The sample from 1,900 m"
+      ],
+      "correct_index": 1,
+      "explanation_md": "The sample from 410 m has the lowest ΔT in Table 1 (−9.2°C), meaning the site was about 9°C colder than at present, consistent with a glacial period. The samples from 120 m, 1,320 m, and 1,900 m have ΔT values of −0.2°C, +0.5°C, and −0.1°C, respectively — temperatures close to or above the present-day value — so they formed during relatively warm intervals.",
+      "difficulty": "medium",
+      "topic": "data interpretation"
+    },
+    {
+      "position": 37,
+      "stem_md": "Based on Table 1, the CO<sub>2</sub> concentration in air bubbles from a sample taken at a depth of 900 m would most likely have been:",
+      "choices": [
+        "less than 189 ppm.",
+        "between 189 ppm and 209 ppm.",
+        "between 209 ppm and 242 ppm.",
+        "greater than 242 ppm."
+      ],
+      "correct_index": 2,
+      "explanation_md": "A depth of 900 m lies between the sampled depths of 730 m (209 ppm) and 1,060 m (242 ppm), so an interpolated CO<sub>2</sub> value should fall between 209 ppm and 242 ppm. Values below 189 ppm fall outside the entire data set, and the other two ranges correspond to bracketing the wrong pair of depths.",
+      "difficulty": "medium",
+      "topic": "interpolation"
+    },
+    {
+      "position": 38,
+      "stem_md": "A student claimed that snow falling during warmer periods produces ice with less negative δD values. Do the data in Table 1 support this claim?",
+      "choices": [
+        "Yes; the sample with the least negative δD (−438‰) has the highest ΔT, and the sample with the most negative δD (−496‰) has the lowest ΔT.",
+        "Yes; the sample with the least negative δD (−438‰) has the lowest ΔT, and the sample with the most negative δD (−496‰) has the highest ΔT.",
+        "No; the sample with the least negative δD (−438‰) has the highest ΔT, and the sample with the most negative δD (−496‰) has the lowest ΔT.",
+        "No; δD in Table 1 shows no consistent relationship with ΔT."
+      ],
+      "correct_index": 0,
+      "explanation_md": "In Table 1, the least negative δD (−438‰, at 1,320 m) pairs with the warmest ΔT (+0.5°C), and the most negative δD (−496‰, at 410 m) pairs with the coldest ΔT (−9.2°C), so the data support the claim. The second choice reverses the pairing, and both \"No\" choices contradict the consistent pattern in which less negative δD always accompanies warmer ΔT.",
+      "difficulty": "medium",
+      "topic": "evaluating claims"
+    },
+    {
+      "position": 39,
+      "stem_md": "Suppose ice at a fifth depth in the core formed when the snow accumulation rate was 2.0 cm of ice per year. Based on Table 2, the Δage at that depth would most likely be:",
+      "choices": [
+        "less than 2,100 yr.",
+        "between 2,100 yr and 2,900 yr.",
+        "between 2,900 yr and 4,300 yr.",
+        "greater than 4,500 yr."
+      ],
+      "correct_index": 2,
+      "explanation_md": "Table 2 shows that Δage increases as accumulation rate decreases: 3.2 cm/yr gives 2,100 yr, 2.4 cm/yr gives 2,900 yr, 1.6 cm/yr gives 4,300 yr, and 1.5 cm/yr gives 4,500 yr. A rate of 2.0 cm/yr lies between 2.4 and 1.6 cm/yr, so its Δage should fall between 2,900 yr and 4,300 yr. The other choices would require accumulation rates faster than 3.2 cm/yr, between 3.2 and 2.4 cm/yr, or slower than 1.5 cm/yr, respectively.",
+      "difficulty": "hard",
+      "topic": "inverse relationships"
+    },
+    {
+      "position": 40,
+      "stem_md": "Based on the passage and Tables 1 and 2, the age of the gas in the air bubbles at a depth of 410 m is closest to:",
+      "choices": [
+        "4,300 yr.",
+        "15,700 yr.",
+        "20,000 yr.",
+        "24,300 yr."
+      ],
+      "correct_index": 1,
+      "explanation_md": "The passage states that trapped gas is younger than the surrounding ice by Δage. At 410 m, the ice age is 20 kyr BP (20,000 yr; Table 1) and Δage is 4,300 yr (Table 2), so the gas age is about 20,000 − 4,300 = 15,700 yr. Choosing 20,000 yr ignores Δage, 24,300 yr incorrectly adds Δage (making the gas older than the ice), and 4,300 yr is Δage itself rather than the gas age.",
+      "difficulty": "hard",
+      "topic": "combining data sources"
+    }
+  ]
+}

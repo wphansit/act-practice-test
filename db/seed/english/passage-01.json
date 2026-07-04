@@ -1,0 +1,221 @@
+{
+  "section": "english",
+  "passage": {
+    "position": 1,
+    "title": "Sunday Mornings with Masa",
+    "kind": null,
+    "body_md": "My grandmother never wrote down her recipe for tamales. When I asked her once why she didn't, she laughed and said that a recipe written on paper was a recipe that had stopped listening. <u data-q=\"1\">I was twelve years old, and I had no idea what she meant.</u>\n\nEvery December, my family gathered in her kitchen in Tucson for the tamalada, <u data-q=\"2\">the daylong assembly of dozens of tamales</u> that we would eat through the holidays and give away to neighbors. My job, for years, was the least glamorous <u data-q=\"3\">one: soaking</u> the dried corn husks in warm water until they turned soft and pliable. I resented the task. <u data-q=\"4\">My cousins got to shred the pork, my aunts got to argue over the chile sauce, and my grandmother alone got to mix the masa, the corn dough that was the heart of the whole operation.</u>\n\nThe masa was where her refusal to write things down mattered most. She measured nothing. She added broth by the ladleful, <u data-q=\"5\">lard by the handful</u>, and salt by instinct, pausing between additions to press a fingertip into the dough. When a small piece of masa floated in a glass of water, she <u data-q=\"6\">declared</u> it ready. If it sank, she went back to beating it, her wooden spoon moving in steady circles.\n\n<u data-q=\"7\">The year I turned sixteen, she called me over from my station at the sink.</u> My hands were wrinkled from the husk water, and I dried them on my jeans as I crossed the kitchen. <u data-q=\"8\">Without ceremony</u>, she handed me the spoon. \"Your turn,\" she said. \"The masa will tell you when it's right, but only if you pay attention.\"\n\nI beat the dough until my shoulder burned. <u data-q=\"9\">Three times I dropped a pinch into the water glass; three times it sank.</u> My grandmother watched without comment, <u data-q=\"10\">offering neither criticism nor rescue</u>. On the fourth try, the masa bobbed to the surface <u data-q=\"11\">like a small boat</u>, and the whole kitchen cheered as if I had won a race.\n\n<u data-q=\"12\">Now, years later and two thousand miles from Tucson, I host my own tamalada each December in a cramped apartment kitchen.</u> <u data-q=\"13\">My friends soak the husks, shred the meat, and argue over the sauce, and I mix the masa.</u> I still measure nothing. <u data-q=\"14\">Somewhere in my hands</u> lives the memory of that first floating pinch of dough, and when new guests ask me for the recipe, I laugh the way my grandmother did. Then I hand them the spoon."
+  },
+  "questions": [
+    {
+      "position": 1,
+      "stem_md": "Given that all the choices are true, which one most effectively concludes the first paragraph by emphasizing the narrator's initial confusion?",
+      "choices": [
+        "NO CHANGE",
+        "Tamales have been made in the Americas for thousands of years.",
+        "My grandmother had lived in Tucson for most of her life.",
+        "Paper recipes are actually quite common in most families."
+      ],
+      "correct_index": 0,
+      "explanation_md": "Keeping the underlined sentence directly states the young narrator's bewilderment, setting up the passage's arc of gradual understanding. The sentence about tamale history introduces irrelevant background, the detail about Tucson shifts focus away from the narrator's reaction, and the general claim about paper recipes disputes the paragraph's point rather than expressing confusion.",
+      "difficulty": "easy",
+      "topic": "rhetorical skills: writer's goal"
+    },
+    {
+      "position": 2,
+      "stem_md": "Which of the following alternatives to the underlined portion would NOT be acceptable?",
+      "choices": [
+        "an all-day event during which we assembled dozens of tamales",
+        "a daylong session of assembling dozens of tamales",
+        "the assembling, daylong, of tamales by the dozens",
+        "a full day spent assembling dozens of tamales"
+      ],
+      "correct_index": 2,
+      "explanation_md": "The phrase \"the assembling, daylong, of tamales by the dozens\" is awkwardly constructed, with the adjective \"daylong\" interrupting the phrase unnaturally. The other three options are grammatically sound rewordings that preserve the original meaning of a full day devoted to making many tamales, so they would all be acceptable replacements.",
+      "difficulty": "medium",
+      "topic": "usage: acceptable alternatives"
+    },
+    {
+      "position": 3,
+      "stem_md": "Which choice provides the best punctuation for the underlined portion?",
+      "choices": [
+        "NO CHANGE",
+        "one; soaking",
+        "one. Soaking",
+        "one soaking"
+      ],
+      "correct_index": 0,
+      "explanation_md": "The colon correctly introduces the explanation of what \"the least glamorous one\" was — the job of soaking the husks. A semicolon must join two independent clauses, and what follows is not one; a period strands the soaking phrase as a sentence fragment; and omitting punctuation runs the explanatory phrase into the main clause with no signal at all.",
+      "difficulty": "easy",
+      "topic": "punctuation: colons"
+    },
+    {
+      "position": 4,
+      "stem_md": "The primary rhetorical effect of repeating the phrase \"got to\" in the underlined sentence is to:",
+      "choices": [
+        "emphasize the narrator's sense that everyone else's task was a privilege denied to her.",
+        "suggest that the family members were forced to perform their tasks unwillingly.",
+        "indicate that the tasks rotated among family members each year.",
+        "highlight how quickly the family completed the tamalada."
+      ],
+      "correct_index": 0,
+      "explanation_md": "The repetition of \"got to,\" following the statement \"I resented the task,\" frames the others' jobs as enviable privileges, underscoring the narrator's exclusion. Nothing suggests unwillingness or rotation of tasks, and the sentence describes assignments, not the speed of the work.",
+      "difficulty": "medium",
+      "topic": "rhetorical skills: style and effect"
+    },
+    {
+      "position": 5,
+      "stem_md": "Which choice best maintains the parallel pattern established earlier in the sentence?",
+      "choices": [
+        "NO CHANGE",
+        "lard, which she added by the handful",
+        "adding lard by the handful",
+        "and lard was added by the handful"
+      ],
+      "correct_index": 0,
+      "explanation_md": "The underlined phrase keeps the compact parallel pattern of noun phrases in the form \"X by the Y\" established by \"broth by the ladleful\" and continued by \"salt by instinct.\" Inserting the relative clause \"which she added by the handful\" disrupts the rhythm of the series, the participial \"adding lard by the handful\" breaks the noun-phrase pattern, and \"and lard was added by the handful\" shifts abruptly into a passive clause in the middle of the list.",
+      "difficulty": "hard",
+      "topic": "sentence structure: parallelism"
+    },
+    {
+      "position": 6,
+      "stem_md": "The underlined word primarily conveys that the grandmother:",
+      "choices": [
+        "announced her judgment with confident authority.",
+        "was uncertain whether the dough was finished.",
+        "spoke in an unusually quiet voice.",
+        "disagreed with the rest of the family."
+      ],
+      "correct_index": 0,
+      "explanation_md": "\"Declared\" connotes a firm, authoritative pronouncement, fitting the grandmother's role as the unquestioned expert on the masa. It does not suggest uncertainty, quietness, or disagreement; if anything, it conveys the opposite of hesitation.",
+      "difficulty": "easy",
+      "topic": "word choice: connotation"
+    },
+    {
+      "position": 7,
+      "stem_md": "Given that all the choices are accurate, which one provides the most effective transition from the description of the grandmother's methods to the account of the narrator's first attempt at mixing the masa?",
+      "choices": [
+        "NO CHANGE",
+        "Tucson winters are mild compared to those in other parts of the country.",
+        "Corn husks must be soaked for at least thirty minutes before use.",
+        "My grandmother owned several wooden spoons of different sizes."
+      ],
+      "correct_index": 0,
+      "explanation_md": "The underlined sentence moves the narrative forward in time and shifts the focus from the grandmother's technique to the narrator's initiation, linking the two sections, so it should be kept. The choices about Tucson weather, soaking times, and spoon collections are stray details that do not connect the grandmother's methods to the narrator's turn at the bowl.",
+      "difficulty": "medium",
+      "topic": "organization: transitions"
+    },
+    {
+      "position": 8,
+      "stem_md": "The writer is considering deleting the underlined phrase (adjusting the capitalization of the following word accordingly). If the writer were to make this deletion, the sentence would primarily lose:",
+      "choices": [
+        "a detail suggesting that the grandmother treated this significant moment as a plain, everyday act.",
+        "an explanation of how the grandmother learned to make tamales.",
+        "a description of the physical appearance of the spoon.",
+        "evidence that the narrator was reluctant to accept the spoon."
+      ],
+      "correct_index": 0,
+      "explanation_md": "\"Without ceremony\" signals that the grandmother passed on this important responsibility matter-of-factly, which contrasts meaningfully with the moment's significance to the narrator. The phrase says nothing about the grandmother's own training, the spoon's appearance, or the narrator's willingness.",
+      "difficulty": "medium",
+      "topic": "rhetorical skills: deletion effect"
+    },
+    {
+      "position": 9,
+      "stem_md": "Which choice provides the best punctuation for the underlined portion?",
+      "choices": [
+        "NO CHANGE",
+        "Three times I dropped a pinch into the water glass, three times it sank.",
+        "Three times I dropped a pinch into the water glass three times it sank.",
+        "Three times, I dropped, a pinch into the water glass and three times, it sank."
+      ],
+      "correct_index": 0,
+      "explanation_md": "The semicolon correctly joins two closely related independent clauses and preserves the deliberate parallel rhythm, so the sentence should be kept as is. A comma alone creates a comma splice, omitting punctuation entirely creates a run-on, and the final option scatters commas between subjects, verbs, and objects where none belong.",
+      "difficulty": "easy",
+      "topic": "punctuation: semicolons and comma splices"
+    },
+    {
+      "position": 10,
+      "stem_md": "The underlined description most strongly suggests that the grandmother:",
+      "choices": [
+        "trusted the narrator to learn by struggling through the process independently.",
+        "had lost interest in whether the tamales turned out well.",
+        "believed the narrator would never master the masa.",
+        "was too tired from the day's work to intervene."
+      ],
+      "correct_index": 0,
+      "explanation_md": "Her silent watching, followed by the kitchen's celebration when the masa finally floats, shows deliberate restraint meant to let the narrator learn through attentive trial and error — consistent with her earlier advice to \"pay attention.\" Nothing in the passage suggests indifference, doubt about the narrator's ability, or fatigue.",
+      "difficulty": "medium",
+      "topic": "rhetorical skills: interpreting detail"
+    },
+    {
+      "position": 11,
+      "stem_md": "The underlined comparison serves primarily to:",
+      "choices": [
+        "create a vivid image of the dough's buoyancy at the moment of success.",
+        "suggest that the narrator was thinking about traveling far from home.",
+        "imply that the masa was too watery to use in the tamales.",
+        "indicate the actual size of the pinch of dough."
+      ],
+      "correct_index": 0,
+      "explanation_md": "The simile paints a lively picture of the dough floating triumphantly, marking the narrator's long-awaited success. It carries no literal information about travel or the dough's exact size, and floating signals that the masa was correctly prepared, not too watery.",
+      "difficulty": "easy",
+      "topic": "rhetorical skills: figurative language"
+    },
+    {
+      "position": 12,
+      "stem_md": "Which choice provides the clearest and most grammatically sound version of the underlined sentence?",
+      "choices": [
+        "NO CHANGE",
+        "Now, years later and two thousand miles from Tucson, my own tamalada is hosted each December by me in a cramped apartment kitchen.",
+        "Hosting my own tamalada each December, two thousand miles from Tucson is where my cramped apartment kitchen is now, years later.",
+        "Years later, in a cramped apartment kitchen two thousand miles from Tucson is hosting my own tamalada each December."
+      ],
+      "correct_index": 0,
+      "explanation_md": "The original sentence places the modifying phrase next to \"I,\" the person it describes, and uses clear active voice. The second option is needlessly passive, the third is a tangled construction that makes the kitchen the focus of the sentence, and the fourth lacks a logical subject, making the kitchen seem to host the event.",
+      "difficulty": "medium",
+      "topic": "sentence structure: modifiers and clarity"
+    },
+    {
+      "position": 13,
+      "stem_md": "The writer wants to add a sentence after the underlined sentence to reinforce the passage's theme of tradition being passed on through practice rather than written instruction. Which sentence best accomplishes this goal?",
+      "choices": [
+        "Just as my grandmother taught me, I show them with my hands what no recipe card could hold.",
+        "Most of my friends prefer store-bought tamales because they are more convenient.",
+        "My apartment kitchen has granite countertops and a gas stove.",
+        "Some cooks use vegetable shortening instead of lard in their masa."
+      ],
+      "correct_index": 0,
+      "explanation_md": "The correct choice explicitly echoes the grandmother's hands-on teaching and the passage's central idea that the tradition cannot be captured on paper. The choice about store-bought tamales undercuts the theme, and the details about countertops and shortening substitutes are irrelevant to how the tradition is transmitted.",
+      "difficulty": "medium",
+      "topic": "rhetorical skills: adding a sentence"
+    },
+    {
+      "position": 14,
+      "stem_md": "The writer's placement of the underlined phrase at the beginning of the sentence primarily serves to:",
+      "choices": [
+        "emphasize that the narrator's knowledge is physical and embodied rather than written down.",
+        "suggest that the narrator has injured her hands while cooking.",
+        "indicate that the narrator cannot remember the tamalada clearly.",
+        "show that the narrator prefers modern kitchen tools to old ones."
+      ],
+      "correct_index": 0,
+      "explanation_md": "Fronting \"Somewhere in my hands\" foregrounds the idea that the recipe survives as bodily knowledge, directly supporting the passage's theme of unwritten tradition. The sentence describes memory living in the hands, not injury, forgetfulness, or any preference about kitchen tools.",
+      "difficulty": "hard",
+      "topic": "rhetorical skills: sentence emphasis"
+    },
+    {
+      "position": 15,
+      "stem_md": "Suppose the writer's goal had been to show how a family tradition is preserved and passed to a new generation. Would the passage as a whole accomplish that goal?",
+      "choices": [
+        "Yes, because the passage traces the tamalada from the narrator's childhood role through the moment she takes over mixing the masa and later hands the spoon to her own guests.",
+        "Yes, because the passage provides step-by-step instructions that readers can follow to make tamales at home.",
+        "No, because the passage focuses primarily on the geography and climate of Tucson.",
+        "No, because the narrator ultimately abandons the tradition after moving away from her family."
+      ],
+      "correct_index": 0,
+      "explanation_md": "The passage follows the tradition across generations — from the narrator soaking husks as a child, to inheriting the spoon at sixteen, to hosting her own tamalada and handing the spoon to newcomers — so it clearly fulfills the goal. It never gives step-by-step instructions, Tucson's geography is only a backdrop, and the final paragraph shows the narrator continuing the tradition, not abandoning it.",
+      "difficulty": "hard",
+      "topic": "rhetorical skills: writer's purpose"
+    }
+  ]
+}

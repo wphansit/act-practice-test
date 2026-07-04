@@ -1,0 +1,109 @@
+{
+  "section": "science",
+  "passage": {
+    "position": 3,
+    "title": "The Clock in the String",
+    "kind": "data_representation",
+    "body_md": "A simple pendulum consists of a small weight, called a *bob*, attached to the end of a lightweight string that is fixed at its upper end. When the bob is pulled to one side through a small angle and released, it swings back and forth. The *period* (T) of a pendulum is the time required for one complete back-and-forth swing.\n\nThe tables below present measured periods of simple pendulums swinging through small angles at a location where the acceleration due to gravity (g) is 9.8 m/sec<sup>2</sup>.\n\nTable 1 shows the measured period T, and the corresponding value of T<sup>2</sup>, for pendulums made by attaching a steel bob with a mass of 100 g to strings of various lengths (L).\n\n**Table 1**\n\n| L (m) | T (sec) | T<sup>2</sup> (sec<sup>2</sup>) |\n|---|---|---|\n| 0.25 | 1.00 | 1.00 |\n| 0.50 | 1.42 | 2.02 |\n| 0.75 | 1.74 | 3.03 |\n| 1.00 | 2.01 | 4.04 |\n| 1.50 | 2.46 | 6.05 |\n| 2.00 | 2.84 | 8.07 |\n\nTable 2 shows the measured period T for pendulums made by attaching bobs of various masses (m), one at a time, to a string with a length of 1.00 m.\n\n**Table 2**\n\n| m (g) | T (sec) |\n|---|---|\n| 50 | 2.00 |\n| 100 | 2.01 |\n| 150 | 2.00 |\n| 200 | 2.01 |\n| 250 | 2.00 |\n| 300 | 2.01 |\n\nAccording to a physics textbook, the period of a simple pendulum swinging at small angles is given by the equation T = 2π√(L/g), where g is the acceleration due to gravity."
+  },
+  "questions": [
+    {
+      "position": 14,
+      "stem_md": "According to Table 1, as the length of the string increased from 0.25 m to 2.00 m, the period of the pendulum:",
+      "choices": [
+        "increased only.",
+        "decreased only.",
+        "increased, then decreased.",
+        "remained the same."
+      ],
+      "correct_index": 0,
+      "explanation_md": "In Table 1, T rises steadily from 1.00 sec at L = 0.25 m to 2.84 sec at L = 2.00 m, so the period increased only. It never decreased at any point (ruling out the second and third choices), and the values clearly change, so it did not remain the same.",
+      "difficulty": "easy",
+      "topic": "data trends"
+    },
+    {
+      "position": 15,
+      "stem_md": "Based on Table 2, which of the following statements best describes the effect of bob mass on the period of a pendulum with a string length of 1.00 m?",
+      "choices": [
+        "Doubling the mass approximately doubles the period.",
+        "Doubling the mass approximately halves the period.",
+        "Increasing the mass has little or no effect on the period.",
+        "Increasing the mass increases the period, but by less than a factor of 2."
+      ],
+      "correct_index": 2,
+      "explanation_md": "Across masses from 50 g to 300 g, T stays essentially constant at 2.00–2.01 sec, so mass has little or no effect on the period. The period neither doubles nor halves when mass doubles (for example, T at 100 g and 200 g is essentially identical), and there is no consistent increase of any size.",
+      "difficulty": "easy",
+      "topic": "data interpretation"
+    },
+    {
+      "position": 16,
+      "stem_md": "Based on Table 1, a pendulum with a string length of 1.25 m would most likely have a period:",
+      "choices": [
+        "less than 2.01 sec.",
+        "between 2.01 sec and 2.46 sec.",
+        "between 2.46 sec and 2.84 sec.",
+        "greater than 2.84 sec."
+      ],
+      "correct_index": 1,
+      "explanation_md": "A length of 1.25 m falls between the listed lengths of 1.00 m (T = 2.01 sec) and 1.50 m (T = 2.46 sec), and Table 1 shows T increasing steadily with L, so T would fall between 2.01 sec and 2.46 sec. A value below 2.01 sec would correspond to L less than 1.00 m, and values above 2.46 sec would correspond to L greater than 1.50 m.",
+      "difficulty": "medium",
+      "topic": "interpolation"
+    },
+    {
+      "position": 17,
+      "stem_md": "Which of the following graphs best represents the relationship between T<sup>2</sup> and L shown in Table 1?",
+      "choices": [
+        "A straight line with a positive slope passing near the origin",
+        "A straight line with a negative slope",
+        "A curve that rises steeply at first and then levels off",
+        "A horizontal line"
+      ],
+      "correct_index": 0,
+      "explanation_md": "In Table 1, T<sup>2</sup> is directly proportional to L: each value of T<sup>2</sup> is approximately 4 times the corresponding L (1.00 for 0.25 m, 4.04 for 1.00 m, 8.07 for 2.00 m), producing a straight line through the origin with a positive slope. A negative slope would mean T<sup>2</sup> decreases as L increases, a leveling curve would mean the increase slows at larger L, and a horizontal line would mean T<sup>2</sup> is constant — none of these match the data.",
+      "difficulty": "medium",
+      "topic": "graphing relationships"
+    },
+    {
+      "position": 18,
+      "stem_md": "Based on the trend in Table 1, a pendulum with a string length of 4.00 m would most likely have a period closest to:",
+      "choices": [
+        "3.2 sec.",
+        "4.0 sec.",
+        "5.7 sec.",
+        "8.1 sec."
+      ],
+      "correct_index": 1,
+      "explanation_md": "Table 1 shows that when L is quadrupled (for example, from 0.25 m to 1.00 m, or 0.50 m to 2.00 m), T doubles (1.00 → 2.01 sec; 1.42 → 2.84 sec). Quadrupling L from 1.00 m to 4.00 m should therefore double T from about 2.0 sec to about 4.0 sec. A value of 3.2 sec is too small, 8.1 sec would require quadrupling the period (a 16-fold length increase), and 5.7 sec would correspond to a length of about 8 m.",
+      "difficulty": "hard",
+      "topic": "extrapolation"
+    },
+    {
+      "position": 19,
+      "stem_md": "The data in Table 2 are most consistent with the textbook equation T = 2π√(L/g) because the equation:",
+      "choices": [
+        "does not include the mass of the bob as a variable.",
+        "shows that the period is directly proportional to the mass of the bob.",
+        "shows that the period is inversely proportional to the mass of the bob.",
+        "includes the acceleration due to gravity, which depends on the mass of the bob."
+      ],
+      "correct_index": 0,
+      "explanation_md": "The equation contains only L and g — mass does not appear — which predicts that changing the bob's mass will not change T, exactly what Table 2 shows. Direct or inverse proportionality to mass would predict T changing with mass, which contradicts Table 2, and g is a property of Earth's gravity, not of the bob's mass.",
+      "difficulty": "medium",
+      "topic": "models and equations"
+    },
+    {
+      "position": 20,
+      "stem_md": "A grandfather clock keeps correct time when its pendulum has a period of exactly 2.00 sec. A clock of this type was found to be running too fast, completing each swing in slightly less than 2.00 sec. Based on Table 1, which of the following adjustments would most likely correct the problem?",
+      "choices": [
+        "Slightly increasing the effective length of the pendulum",
+        "Slightly decreasing the effective length of the pendulum",
+        "Increasing the mass of the pendulum bob",
+        "Decreasing the mass of the pendulum bob"
+      ],
+      "correct_index": 0,
+      "explanation_md": "Table 1 shows that a longer pendulum has a longer period, so lengthening the pendulum would slow the swing from less than 2.00 sec back up to 2.00 sec. Decreasing the length would shorten the period further and make the clock run even faster. Table 2 shows that changing the bob's mass has essentially no effect on the period, so neither mass adjustment would help.",
+      "difficulty": "hard",
+      "topic": "applying results"
+    }
+  ]
+}

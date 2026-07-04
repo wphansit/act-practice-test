@@ -1,0 +1,151 @@
+{
+  "section": "reading",
+  "passage": {
+    "position": 1,
+    "title": "The Thousand-Watt Summer",
+    "kind": "prose_fiction",
+    "body_md": "The summer I turned sixteen, everyone in Halloway assumed I would spend it behind the register at Prewitt & Sons Hardware, the way my father had, and his father before him, and a whole procession of Prewitts stretching back to when the store still sold kerosene by the dipperful. There was no formal announcement of this expectation. It simply hung in our house like the smell of sawdust my father carried home on his sleeves—familiar, permanent, not up for discussion.\n\nSo when I took a job at WHLW instead, the thousand-watt AM station out on County Road 9, my grandmother stopped speaking to me for eleven days, and my father developed a habit of saying \"the radio station\" the way other people said \"the moon.\"\n\nWHLW broadcast out of a low cinder-block building with a transmitter tower behind it that blinked red against the dark like a patient heartbeat. Inside, the carpet was the color of weak coffee, and every flat surface held stacks of cartridge tapes labeled in a handwriting I would later learn belonged to Marguerite Vance, the station manager, who told me on my first morning to call her Mo and to never, under any circumstances, touch the coffeemaker, which she alone understood.\n\nMo was sixty-something and moved through the station like weather. She had been a disc jockey in Kansas City for two decades before buying WHLW, and she seemed to know everything worth knowing: which county commissioner would actually return a call, how to splice tape with a razor blade and a steady breath, why you always read a script out loud once before the light went on. \"Radio is the most intimate thing there is,\" she told me that first week, tapping the microphone's windscreen. \"You're not talking to a town, Delia. You're talking to one person doing their dishes.\"\n\nMy duties, at first, were humble: filing the music library, logging transmitter readings every three hours, and answering the phone, which mostly meant fielding requests for polkas and settling arguments about high school baseball. I loved all of it with an intensity that embarrassed me. At the hardware store, I had always felt like a smudged copy of my father—competent enough at the register but forever asking where things were kept. At the station, nobody expected me to already know anything, which meant that everything I learned felt like mine.\n\nAt home, my father asked polite, careful questions over dinner. How much did filing records pay? Did the station offer anything a person could build a life on? He never raised his voice. That was the hard part. His disappointment was quiet and well-carpentered, like everything he made, and it fit into the silences between us so exactly that I couldn't find an edge to pry against. My mother, who had married into the Prewitts and their store, watched us both from the far end of the table with an expression I couldn't read then. Only later did it occur to me that she might have recognized something.\n\nIn July, the afternoon announcer quit without notice, and Mo found me in the record library. \"Weather and farm markets, top of the hour,\" she said, as though asking me to fetch a mop. \"You've heard it done four hundred times.\" I had never once spoken on the air. My hands shook so badly I laid the script flat on the desk so the paper wouldn't rattle into the microphone. When the ON AIR bulb lit, something odd happened: the panic simply stood aside, the way a crowd parts for a stretcher, and I heard my own voice—steadier than I had any right to expect—telling Halloway that soybeans were up, that rain was likely by Friday, that the county fair board would meet at seven.\n\nAfterward, Mo didn't congratulate me. She looked at me over her glasses and said, \"Same time tomorrow,\" which from her was a coronation.\n\nI didn't tell my family. I told myself it was because the segment was small, three minutes of grain prices and barometric pressure, but the truth was I couldn't bear to see my father listen politely and then ask what it paid. Then, one evening near the end of August, he sent me to the store after closing to fetch a bank envelope from the office. I let myself in the back, past the racks of paintbrushes and coiled garden hose, and stopped. On the shelf behind the register, where the store radio had played the same Waterloo talk station since before I was born, the dial glowed at 1340—WHLW. A strip of masking tape ran along the top of the radio in my father's blocky carpenter's lettering: DO NOT TOUCH THE DIAL. WEATHER AT 4.\n\nI stood in the dark store for a long time, holding the envelope, listening to the small sounds of the building settling around me. My father has never been a man who says things. But he is, and has always been, a man who leaves the dial where it matters."
+  },
+  "questions": [
+    {
+      "position": 1,
+      "stem_md": "The passage as a whole can best be described as a narrator's account of:",
+      "choices": [
+        "a summer during which she stepped outside a family tradition and discovered work that felt like her own",
+        "a conflict with a station manager that taught her to respect authority",
+        "the decline of a family hardware store in a small farming town",
+        "her decision to abandon radio and return to the family business"
+      ],
+      "correct_index": 0,
+      "explanation_md": "The narrator defies the expectation that she work at Prewitt & Sons, takes a job at WHLW, and finds that \"everything I learned felt like mine,\" ending with a quiet sign of her father's acceptance. She never clashes with Mo, who is a supportive mentor. The store is never described as declining, and the narrator never abandons radio—the passage ends with her still broadcasting.",
+      "difficulty": "easy",
+      "topic": "main idea"
+    },
+    {
+      "position": 2,
+      "stem_md": "According to the passage, the narrator's initial responsibilities at WHLW included all of the following EXCEPT:",
+      "choices": [
+        "filing the music library",
+        "logging transmitter readings",
+        "answering the station's phone",
+        "reading the weather and farm markets on the air"
+      ],
+      "correct_index": 3,
+      "explanation_md": "The narrator lists her first duties as \"filing the music library, logging transmitter readings every three hours, and answering the phone.\" Reading weather and farm markets on the air came later, in July, only after the afternoon announcer quit—so it was not one of her initial responsibilities.",
+      "difficulty": "easy",
+      "topic": "detail"
+    },
+    {
+      "position": 3,
+      "stem_md": "The statement that the narrator's father said \"the radio station\" the way other people said \"the moon\" most strongly suggests that he regarded the station as:",
+      "choices": [
+        "a scientific institution he secretly admired",
+        "something remote and foreign to the life he understood",
+        "a temporary fad that would soon disappear from Halloway",
+        "a dangerous place unsuitable for a sixteen-year-old"
+      ],
+      "correct_index": 1,
+      "explanation_md": "Comparing the station to \"the moon\" casts it as distant and alien—far outside the familiar world of the hardware store. Nothing indicates admiration; his questions register skepticism, not secret approval. He never predicts the station will vanish, and his concern is with whether the work can \"build a life,\" not with physical danger.",
+      "difficulty": "medium",
+      "topic": "inference"
+    },
+    {
+      "position": 4,
+      "stem_md": "In the context of the passage, the narrator's description of her father's disappointment as \"quiet and well-carpentered\" most nearly means that his disappointment was:",
+      "choices": [
+        "loudly expressed but quickly forgotten",
+        "hidden so completely that she doubted it existed",
+        "carefully constructed and fitted so precisely that she could not argue against it",
+        "directed at his own failures as a craftsman rather than at her"
+      ],
+      "correct_index": 2,
+      "explanation_md": "The carpentry metaphor extends into the next clause: his disappointment \"fit into the silences between us so exactly that I couldn't find an edge to pry against,\" meaning it was precisely built and left her no opening to challenge it. It was not loud—he \"never raised his voice.\" She clearly perceives the disappointment, so it is not doubted, and it is aimed at her choice, not at his own craftsmanship.",
+      "difficulty": "medium",
+      "topic": "vocabulary in context"
+    },
+    {
+      "position": 5,
+      "stem_md": "Mo's remark that \"You're not talking to a town, Delia. You're talking to one person doing their dishes\" primarily serves to convey her belief that radio is:",
+      "choices": [
+        "a dying medium kept alive by loyal rural listeners",
+        "an intimate form of communication addressed to individual listeners",
+        "less demanding than performing before a live audience",
+        "most effective when it focuses on household advice"
+      ],
+      "correct_index": 1,
+      "explanation_md": "The remark directly follows Mo's claim that \"Radio is the most intimate thing there is,\" and the image of one person at the sink illustrates that intimacy. She says nothing about radio dying or about its difficulty relative to live performance. The dishes are an image of a single, ordinary listener, not a suggestion about programming content.",
+      "difficulty": "medium",
+      "topic": "character purpose"
+    },
+    {
+      "position": 6,
+      "stem_md": "According to the passage, the narrator was first given the chance to speak on the air because:",
+      "choices": [
+        "her father arranged the opportunity with Mo",
+        "she repeatedly asked Mo for a broadcast slot",
+        "the afternoon announcer left the station without warning",
+        "WHLW added a new segment on high school baseball"
+      ],
+      "correct_index": 2,
+      "explanation_md": "The passage states that \"In July, the afternoon announcer quit without notice,\" after which Mo assigned the narrator the weather and farm markets. The narrator had \"never once spoken on the air\" and does not describe requesting the slot. Her father was unaware of her broadcasts until later, and no new baseball segment is mentioned—baseball comes up only in phone calls she fielded.",
+      "difficulty": "easy",
+      "topic": "detail"
+    },
+    {
+      "position": 7,
+      "stem_md": "The narrator's later realization that her mother \"might have recognized something\" most strongly suggests that the mother:",
+      "choices": [
+        "identified with the experience of standing apart from the Prewitt family's expectations",
+        "suspected that the narrator was already broadcasting on the air",
+        "disapproved of the narrator's job even more strongly than the father did",
+        "regretted that she had never worked at the radio station herself"
+      ],
+      "correct_index": 0,
+      "explanation_md": "The mother is pointedly identified as someone \"who had married into the Prewitts and their store,\" so she, too, entered the family tradition from the outside; the narrator implies her mother recognized in the dinner-table standoff a feeling she knew herself. At that point the narrator had not yet been on the air, so there was nothing to suspect. The mother expresses no disapproval, and the passage never connects her to the radio station specifically.",
+      "difficulty": "hard",
+      "topic": "inference"
+    },
+    {
+      "position": 8,
+      "stem_md": "The narrator's statement that \"the panic simply stood aside, the way a crowd parts for a stretcher\" primarily emphasizes:",
+      "choices": [
+        "her belief that the broadcast was a medical emergency for the station",
+        "the crowd of coworkers who gathered to watch her first broadcast",
+        "her lingering terror, which nearly prevented her from speaking at all",
+        "how sudden and involuntary the retreat of her fear felt once the broadcast began"
+      ],
+      "correct_index": 3,
+      "explanation_md": "A crowd parting for a stretcher yields abruptly and automatically, without being asked; the simile conveys how her panic gave way on its own the moment the ON AIR bulb lit, letting her voice come out \"steadier than I had any right to expect.\" The stretcher is figurative, not a literal emergency, and no coworkers are described watching. The image marks the moment fear receded, not fear that persisted and nearly silenced her.",
+      "difficulty": "medium",
+      "topic": "figurative language"
+    },
+    {
+      "position": 9,
+      "stem_md": "The narrator characterizes Mo's comment \"Same time tomorrow\" as \"a coronation\" most likely to indicate that:",
+      "choices": [
+        "Mo was formally promoting the narrator to station manager",
+        "coming from someone as sparing with praise as Mo, the brief remark amounted to high approval",
+        "Mo intended the remark sarcastically, and the narrator misunderstood it",
+        "the narrator felt the remark fell far short of the congratulations she deserved"
+      ],
+      "correct_index": 1,
+      "explanation_md": "Mo \"didn't congratulate\" the narrator directly, so the offhand invitation to return—effectively keeping her on the air—carried the weight of a crowning honor \"from her.\" No promotion to management occurs, and the narrator treats the remark as genuine rather than sarcastic. Calling it a coronation shows the narrator prized the remark, not that she felt shortchanged.",
+      "difficulty": "medium",
+      "topic": "tone"
+    },
+    {
+      "position": 10,
+      "stem_md": "In the context of the passage as a whole, the masking-tape note reading \"DO NOT TOUCH THE DIAL. WEATHER AT 4\" primarily functions to reveal that the father:",
+      "choices": [
+        "still insists on controlling every detail of the store, including its radio",
+        "has decided the store should advertise on WHLW to attract customers",
+        "expresses pride in his daughter through actions rather than words",
+        "has forgotten which station the store radio traditionally played"
+      ],
+      "correct_index": 2,
+      "explanation_md": "The father has retuned the store radio—unchanged \"since before I was born\"—to WHLW and protected his daughter's segment in writing, which the narrator reads as the gesture of \"a man who leaves the dial where it matters.\" The note's bossiness is incidental; its content shows he listens to her broadcast daily. Nothing suggests advertising plans, and deliberately changing the dial to 1340 is the opposite of forgetting the old station.",
+      "difficulty": "hard",
+      "topic": "theme and function"
+    }
+  ]
+}

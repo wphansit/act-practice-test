@@ -1,0 +1,221 @@
+{
+  "section": "english",
+  "passage": {
+    "position": 2,
+    "title": "Iron Over the Kessler",
+    "kind": null,
+    "body_md": "For nearly forty years, the town of Marrow Falls depended on a rope ferry to cross the Kessler River. The ferry, a flat-bottomed barge hauled along a submerged cable, <u data-q=\"16\">it carried</u> wagons, livestock, and passengers between the mill district on the western bank and the farms on the eastern one. Each winter, though, ice choked the channel, and for weeks at a time the two halves of the town <u data-q=\"17\">was</u> cut off from each other.\n\nIn January 1887, a storm stranded the town's only doctor on the far side of the river during an outbreak of scarlet fever. That spring, the council voted unanimously to build a permanent bridge. <u data-q=\"18\">Raising the money proved harder than passing the vote.</u> The council issued bonds, hosted subscription dinners, and auctioned the naming rights to the bridge's four stone piers. Even farmers who had grumbled for years about ferry tolls <u data-q=\"19\">bought bonds anyway, they reasoned</u> that a crossing open in every season was worth the cost.\n\nTo design the bridge, the council hired Adelaide Voss, a young engineer <u data-q=\"20\">whom</u> had apprenticed on railroad trestles in Pennsylvania. Voss rejected the cheaper wooden designs favored by several council members. Timber spans on the Kessler, she reminded them, <u data-q=\"21\">had a dismal record: three</u> had been carried off by ice floes since 1850. She proposed instead an iron truss bridge set on limestone piers sunk deep into the riverbed.\n\nConstruction began in the spring of 1889. Workers first built cofferdams, temporary watertight <u data-q=\"22\">enclosures, that</u> let masons excavate the riverbed while standing on nearly dry ground. Inside each one, they laid courses of limestone quarried six miles upstream. By midsummer the piers had risen above the waterline. <u data-q=\"23\">Therefore,</u> the ironwork had to wait until the mortar between the stones had fully cured. When assembly finally began, the work proved slow, dangerous, and <u data-q=\"24\">it demanded precision</u>: every rivet had to be heated cherry-red, tossed to a catcher, and hammered tight before it cooled. The trusses had been shipped <u data-q=\"25\">from a distant city</u>, and Voss checked each piece against her drawings before it was hoisted into place. Voss's chief <u data-q=\"26\">riveter a former shipyard worker named Ida Brann trained</u> local crews until their seams passed her inspection.\n\n(1) By the time the last rivet was driven in September 1890, the project <u data-q=\"27\">has cost</u> nearly twice its original estimate, yet few residents complained. (2) Schoolchildren perched on the railings tossed asters onto the procession, and the mill whistle blew for a full minute. (3) The finished bridge opened with a daylong celebration on October 18. (4) A procession of wagons, brass bands, and bicycles crossed from the mill district to the eastern bank and back again. (5) <u data-q=\"29\">The town celebrated late into the night.</u>"
+  },
+  "questions": [
+    {
+      "position": 16,
+      "stem_md": "Choose the best alternative for the underlined portion.",
+      "choices": [
+        "NO CHANGE",
+        "carried",
+        "carrying",
+        "which carried"
+      ],
+      "correct_index": 1,
+      "explanation_md": "The subject of the sentence is \"The ferry,\" so the verb \"carried\" should follow the appositive directly; adding \"it\" creates a redundant double subject. \"Carrying\" and \"which carried\" both leave the sentence without a main verb, turning it into a fragment.",
+      "difficulty": "easy",
+      "topic": "sentence structure"
+    },
+    {
+      "position": 17,
+      "stem_md": "Choose the best alternative for the underlined portion.",
+      "choices": [
+        "NO CHANGE",
+        "were",
+        "is",
+        "has been"
+      ],
+      "correct_index": 1,
+      "explanation_md": "The subject is the plural noun \"halves,\" not the singular \"town,\" so the plural past-tense verb \"were\" is required. \"Was\" and \"has been\" are singular, and \"is\" is both singular and in the wrong tense for this historical narrative.",
+      "difficulty": "easy",
+      "topic": "subject-verb agreement"
+    },
+    {
+      "position": 18,
+      "stem_md": "The writer is considering deleting the underlined sentence. Should the sentence be kept or deleted?",
+      "choices": [
+        "Kept, because it introduces the fundraising efforts described in the rest of the paragraph.",
+        "Kept, because it explains why the doctor was stranded across the river.",
+        "Deleted, because it repeats information stated earlier in the paragraph.",
+        "Deleted, because it interrupts the paragraph's description of the bridge's design."
+      ],
+      "correct_index": 0,
+      "explanation_md": "The sentence sets up the paragraph's shift from the vote to the difficulty of funding, which the following sentences about bonds, dinners, and naming rights then illustrate. It has nothing to do with the stranded doctor, it repeats no earlier information, and the paragraph discusses fundraising rather than design, so both \"deleted\" options misdescribe the paragraph.",
+      "difficulty": "hard",
+      "topic": "rhetorical strategy"
+    },
+    {
+      "position": 19,
+      "stem_md": "Choose the best alternative for the underlined portion.",
+      "choices": [
+        "NO CHANGE",
+        "bought bonds anyway, reasoning",
+        "bought bonds anyway; reasoning",
+        "bought bonds anyway they reasoned"
+      ],
+      "correct_index": 1,
+      "explanation_md": "The original joins two independent clauses with only a comma, creating a comma splice; the participial phrase \"reasoning that...\" correctly attaches the farmers' logic to the main clause. The semicolon version wrongly places a semicolon before a phrase that cannot stand alone, and removing the comma entirely produces a fused sentence.",
+      "difficulty": "medium",
+      "topic": "comma splice"
+    },
+    {
+      "position": 20,
+      "stem_md": "Choose the best alternative for the underlined portion.",
+      "choices": [
+        "NO CHANGE",
+        "who",
+        "which",
+        "she"
+      ],
+      "correct_index": 1,
+      "explanation_md": "The pronoun serves as the subject of the verb \"had apprenticed,\" so the subject form \"who\" is correct. \"Whom\" is an object pronoun, \"which\" cannot refer to a person, and \"she\" would create a comma splice by starting a new independent clause after the comma.",
+      "difficulty": "easy",
+      "topic": "who vs. whom"
+    },
+    {
+      "position": 21,
+      "stem_md": "Choose the best alternative for the underlined portion.",
+      "choices": [
+        "NO CHANGE",
+        "had a dismal record, three",
+        "had a dismal record; because three",
+        "had a dismal record three"
+      ],
+      "correct_index": 0,
+      "explanation_md": "A colon correctly follows the independent clause and introduces the evidence that explains the \"dismal record.\" A comma alone would splice two independent clauses, a semicolon followed by \"because\" attaches a fragment that cannot stand alone, and omitting punctuation altogether fuses the clauses.",
+      "difficulty": "medium",
+      "topic": "colon usage"
+    },
+    {
+      "position": 22,
+      "stem_md": "Choose the best alternative for the underlined portion.",
+      "choices": [
+        "NO CHANGE",
+        "enclosures that",
+        "enclosures; that",
+        "enclosures. That"
+      ],
+      "correct_index": 1,
+      "explanation_md": "The clause beginning with \"that\" is restrictive—it defines what the enclosures did—so no comma should separate it from \"enclosures.\" A comma before a restrictive \"that\" clause is incorrect, a semicolon must join two independent clauses, and a period strands \"That let masons...\" as a fragment.",
+      "difficulty": "easy",
+      "topic": "restrictive clauses"
+    },
+    {
+      "position": 23,
+      "stem_md": "Which transition works best in the underlined portion?",
+      "choices": [
+        "NO CHANGE",
+        "Even so,",
+        "For example,",
+        "In other words,"
+      ],
+      "correct_index": 1,
+      "explanation_md": "The second sentence contrasts with the first: despite the visible progress on the piers, the ironwork still had to wait, so the concessive \"Even so\" fits. \"Therefore\" wrongly implies the progress caused the delay, \"For example\" signals an illustration that does not follow, and \"In other words\" signals a restatement, which the sentence is not.",
+      "difficulty": "medium",
+      "topic": "transitions"
+    },
+    {
+      "position": 24,
+      "stem_md": "Choose the best alternative for the underlined portion.",
+      "choices": [
+        "NO CHANGE",
+        "demanding",
+        "it was demanding",
+        "demanded precision"
+      ],
+      "correct_index": 1,
+      "explanation_md": "The series requires three parallel adjectives: \"slow, dangerous, and demanding.\" The original and \"it was demanding\" insert a clause into a list of adjectives, breaking parallelism, and \"demanded precision\" is a verb phrase that likewise fails to match the two adjectives before it.",
+      "difficulty": "medium",
+      "topic": "parallelism"
+    },
+    {
+      "position": 25,
+      "stem_md": "Which choice for the underlined portion provides the most specific information about the origin of the trusses?",
+      "choices": [
+        "NO CHANGE",
+        "from a foundry in Wheeling, West Virginia, in numbered sections",
+        "from a place quite far from Marrow Falls",
+        "from somewhere well outside the county"
+      ],
+      "correct_index": 1,
+      "explanation_md": "Naming the foundry's city and state and noting that the sections were numbered gives concrete, specific detail about where the trusses came from. The other three options are vague, telling readers only that the source was far away without identifying it.",
+      "difficulty": "medium",
+      "topic": "adding specific detail"
+    },
+    {
+      "position": 26,
+      "stem_md": "Choose the best alternative for the underlined portion.",
+      "choices": [
+        "NO CHANGE",
+        "riveter, a former shipyard worker named Ida Brann, trained",
+        "riveter, a former shipyard worker named Ida Brann trained",
+        "riveter a former shipyard worker named Ida Brann, trained"
+      ],
+      "correct_index": 1,
+      "explanation_md": "The phrase \"a former shipyard worker named Ida Brann\" is a nonessential appositive describing the riveter, so it must be set off by a pair of commas. The original omits both commas, and the other two options each supply only one comma, leaving the appositive incorrectly attached on one side.",
+      "difficulty": "medium",
+      "topic": "appositive punctuation"
+    },
+    {
+      "position": 27,
+      "stem_md": "Choose the best alternative for the underlined portion.",
+      "choices": [
+        "NO CHANGE",
+        "had cost",
+        "costs",
+        "will have cost"
+      ],
+      "correct_index": 1,
+      "explanation_md": "The phrase \"By the time the last rivet was driven\" establishes a point in the past before which the spending occurred, so the past perfect \"had cost\" is required. \"Has cost\" and \"costs\" wrongly shift to the present, and \"will have cost\" wrongly points to the future.",
+      "difficulty": "medium",
+      "topic": "verb tense"
+    },
+    {
+      "position": 28,
+      "stem_md": "The sentences of the final paragraph are numbered (1) through (5). For the sake of the logic and cohesion of the final paragraph and the passage as a whole, Sentence 2 (\"Schoolchildren perched on the railings tossed asters onto the procession...\") should be placed:",
+      "choices": [
+        "where it is now.",
+        "before Sentence 1.",
+        "after Sentence 3.",
+        "after Sentence 4."
+      ],
+      "correct_index": 3,
+      "explanation_md": "Sentence 2 refers to \"the procession,\" which is not introduced until Sentence 4, so it must follow Sentence 4 to make sense. In its current spot or before Sentence 1, the reference to the procession is unexplained, and after Sentence 3 the procession still has not yet been mentioned.",
+      "difficulty": "hard",
+      "topic": "sentence placement"
+    },
+    {
+      "position": 29,
+      "stem_md": "The writer wants the underlined sentence to connect the bridge's opening back to the passage's opening discussion of the ferry. Which choice best accomplishes that goal?",
+      "choices": [
+        "NO CHANGE",
+        "Tied up on the western bank, the old ferry barge sat idle at last, its cable slack for good.",
+        "Voss went on to design two more bridges elsewhere in the county.",
+        "Iron truss bridges remained common across the region for decades afterward."
+      ],
+      "correct_index": 1,
+      "explanation_md": "The image of the retired ferry barge with its slack cable directly recalls the rope ferry described in the passage's first paragraph, framing the bridge as its replacement. The original sentence merely extends the celebration, while the options about Voss's later career and regional bridge trends introduce new subjects instead of circling back to the ferry.",
+      "difficulty": "hard",
+      "topic": "concluding sentence"
+    },
+    {
+      "position": 30,
+      "stem_md": "Suppose the writer's main purpose had been to describe how a community overcame a long-standing practical obstacle. Would the passage as a whole accomplish that purpose?",
+      "choices": [
+        "Yes, because it traces the town's seasonal isolation from its origins through the completion of the bridge that ended it.",
+        "Yes, because it explains the engineering principles of iron truss construction in technical detail.",
+        "No, because it focuses primarily on Adelaide Voss's later career as a railroad engineer.",
+        "No, because it never establishes why the townspeople needed to cross the river."
+      ],
+      "correct_index": 0,
+      "explanation_md": "The passage presents the obstacle (winter ice cutting the town in half), the decision and fundraising, and the construction that solved the problem, so it fulfills the stated purpose. It offers only light technical detail rather than an engineering treatise, mentions Voss's background only briefly and says nothing of her later career, and the opening paragraph clearly establishes why crossing the river mattered.",
+      "difficulty": "hard",
+      "topic": "writer's purpose"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "section": "english",
+  "passage": {
+    "position": 5,
+    "title": "Where the Pavement Ends",
+    "kind": null,
+    "body_md": "Last October, my sister Dana and I arrived at Ocotillo Flats National Park an hour before sunrise, when the desert still held the night's chill. The ranger at the entrance station, <u data-q=\"61\">a cheerful woman in a wide-brimmed hat,</u> handed us a map and advised us to carry a gallon of water apiece. Dana, who <u data-q=\"62\">have hiked</u> in mountain country for years, rolled her eyes at the warning. By noon, she would admit the ranger had been right.\n\nThe Rim Trail begins where the pavement ends, unspooling toward a horizon <u data-q=\"63\">that is serrated and jagged</u> with volcanic rock. <u data-q=\"64\">Therefore,</u> the first mile felt deceptively easy: the path was flat, the air was cool, and the light lay soft and gray across the basin. Hikers heading back toward the trailhead lifted <u data-q=\"65\">his or her</u> trekking poles in greeting as they passed.\n\nBy midmorning, the sun had cleared the eastern ridge, and the desert began to show <u data-q=\"66\">it's</u> true colors: rust, bone, sage, and—where a spring seeped from a shaded canyon wall far below—a startling thread of green. The temperature climbed <u data-q=\"67\">quickly, we</u> stopped every twenty minutes to sip water in the thin shade of the ocotillos. At an overlook halfway along the rim, <u data-q=\"68\">perched on a flat boulder, our sandwiches tasted better than any restaurant meal I can remember</u>. A canyon wren sang somewhere below us, its call spiraling down the scale into a silence so <u data-q=\"69\">humongous</u> that I could hear my own pulse. <u data-q=\"70\">Due to the fact that</u> shade disappears from the rim by early afternoon, we packed up quickly and began the long walk down.\n\nOn the descent, we detoured to the spring we had spotted from above. Dana knelt and refilled our bottles through a filter while I watched dragonflies stitch the air. <u data-q=\"72\">The pool it fed was no bigger than a bathtub, yet tracks in the mud—javelina, coyote, something feline—recorded a nightly parade of visitors.</u> <u data-q=\"71\">Water in the desert is never just scenery; it is infrastructure, and every creature within miles knows its address.</u>\n\nBy the time we reached the trailhead, the western cliffs had turned the color of embers, and bats were sifting out of a crevice above the parking area. The desert, I understood then, is not empty but patient—a landscape capable <u data-q=\"73\">to humble</u> anyone who walks into it unprepared. My legs ached for two days afterward, and my boots never recovered. <u data-q=\"74\">Similarly,</u> the park's trail map now hangs above my desk, a reminder that the best days often begin where the pavement ends.\n\n*Question 75 asks about the passage as a whole.*"
+  },
+  "questions": [
+    {
+      "position": 61,
+      "stem_md": "Choose the best version of the underlined portion in the sentence: \"The ranger at the entrance station, <u>a cheerful woman in a wide-brimmed hat,</u> handed us a map and advised us to carry a gallon of water apiece.\"",
+      "choices": [
+        "NO CHANGE",
+        "a cheerful woman, in a wide-brimmed hat,",
+        "a cheerful woman in a wide-brimmed hat",
+        "a cheerful woman in, a wide-brimmed hat,"
+      ],
+      "correct_index": 0,
+      "explanation_md": "The phrase \"a cheerful woman in a wide-brimmed hat\" is an appositive renaming the ranger, so it must be set off by a comma on each side, as written. The second and fourth options insert commas that split the phrase \"in a wide-brimmed hat\" from what it modifies, and the third option omits the required closing comma before \"handed.\"",
+      "difficulty": "easy",
+      "topic": "punctuation: appositives"
+    },
+    {
+      "position": 62,
+      "stem_md": "Choose the best version of the underlined portion in the sentence: \"Dana, who <u>have hiked</u> in mountain country for years, rolled her eyes at the warning.\"",
+      "choices": [
+        "NO CHANGE",
+        "has hiked",
+        "have been hiking",
+        "having hiked"
+      ],
+      "correct_index": 1,
+      "explanation_md": "The relative pronoun \"who\" refers to Dana, a singular subject, so the verb must be singular: \"has hiked.\" \"Have hiked\" and \"have been hiking\" are plural forms that do not agree with the singular antecedent, and \"having hiked\" leaves the clause without a main verb.",
+      "difficulty": "easy",
+      "topic": "subject-verb agreement"
+    },
+    {
+      "position": 63,
+      "stem_md": "Choose the best version of the underlined portion in the sentence: \"The Rim Trail begins where the pavement ends, unspooling toward a horizon <u>that is serrated and jagged</u> with volcanic rock.\"",
+      "choices": [
+        "NO CHANGE",
+        "serrated",
+        "that is jagged, with serrated edges,",
+        "serrated as well as jagged"
+      ],
+      "correct_index": 1,
+      "explanation_md": "\"Serrated\" and \"jagged\" mean essentially the same thing, so pairing them is redundant; the single word \"serrated\" conveys the idea most concisely. The original and the fourth option repeat the same idea in two words, and the third option adds wordiness and awkward punctuation without adding meaning.",
+      "difficulty": "medium",
+      "topic": "redundancy and concision"
+    },
+    {
+      "position": 64,
+      "stem_md": "Which transition provides the most logical opening for the sentence: \"<u>Therefore,</u> the first mile felt deceptively easy: the path was flat, the air was cool, and the light lay soft and gray across the basin.\"?",
+      "choices": [
+        "NO CHANGE",
+        "Yet",
+        "For example,",
+        "In other words,"
+      ],
+      "correct_index": 1,
+      "explanation_md": "The previous sentence describes a forbidding, serrated horizon, while this sentence says the first mile felt easy—a contrast, which \"Yet\" signals correctly. \"Therefore\" wrongly implies the easy mile resulted from the jagged horizon, \"For example\" wrongly presents the easy mile as an illustration of ruggedness, and \"In other words\" wrongly presents it as a restatement.",
+      "difficulty": "medium",
+      "topic": "transitions"
+    },
+    {
+      "position": 65,
+      "stem_md": "Choose the best version of the underlined portion in the sentence: \"Hikers heading back toward the trailhead lifted <u>his or her</u> trekking poles in greeting as they passed.\"",
+      "choices": [
+        "NO CHANGE",
+        "their",
+        "its",
+        "his"
+      ],
+      "correct_index": 1,
+      "explanation_md": "The antecedent \"Hikers\" is plural, so the plural pronoun \"their\" is required. \"His or her\" and \"his\" are singular and do not agree with the plural antecedent, and \"its\" refers to things rather than people.",
+      "difficulty": "easy",
+      "topic": "pronoun agreement"
+    },
+    {
+      "position": 66,
+      "stem_md": "Choose the best version of the underlined portion in the sentence: \"By midmorning, the sun had cleared the eastern ridge, and the desert began to show <u>it's</u> true colors.\"",
+      "choices": [
+        "NO CHANGE",
+        "its",
+        "its'",
+        "their"
+      ],
+      "correct_index": 1,
+      "explanation_md": "The possessive form of \"it\" is \"its,\" with no apostrophe. \"It's\" is a contraction of \"it is,\" which makes no sense here; \"its'\" is not a word; and \"their\" is plural, failing to agree with the singular antecedent \"the desert.\"",
+      "difficulty": "easy",
+      "topic": "apostrophes and possessives"
+    },
+    {
+      "position": 67,
+      "stem_md": "Choose the best version of the underlined portion in the sentence: \"The temperature climbed <u>quickly, we</u> stopped every twenty minutes to sip water in the thin shade of the ocotillos.\"",
+      "choices": [
+        "NO CHANGE",
+        "quickly; we",
+        "quickly we",
+        "quickly. Because we"
+      ],
+      "correct_index": 1,
+      "explanation_md": "Two independent clauses cannot be joined by a comma alone, so the semicolon in \"quickly; we\" is correct. The original creates a comma splice, \"quickly we\" creates a fused sentence with no punctuation at all, and \"quickly. Because we\" turns the second clause into a sentence fragment.",
+      "difficulty": "medium",
+      "topic": "punctuation: comma splices"
+    },
+    {
+      "position": 68,
+      "stem_md": "Choose the best version of the underlined portion in the sentence: \"At an overlook halfway along the rim, <u>perched on a flat boulder, our sandwiches tasted better than any restaurant meal I can remember</u>.\"",
+      "choices": [
+        "NO CHANGE",
+        "perched on a flat boulder, we ate sandwiches that tasted better than any restaurant meal I can remember",
+        "our sandwiches, perched on a flat boulder, tasted better than any restaurant meal I can remember",
+        "perched on a flat boulder, the taste of our sandwiches beat any restaurant meal I can remember"
+      ],
+      "correct_index": 1,
+      "explanation_md": "The introductory modifier \"perched on a flat boulder\" must describe the people who were actually sitting on the boulder, so the subject \"we\" must immediately follow it. In the original and the fourth option, the modifier absurdly describes the sandwiches or their taste; the third option keeps the sandwiches perched on the boulder, preserving the same illogical image.",
+      "difficulty": "hard",
+      "topic": "misplaced modifiers"
+    },
+    {
+      "position": 69,
+      "stem_md": "Which choice best maintains the tone established in the essay? \"A canyon wren sang somewhere below us, its call spiraling down the scale into a silence so <u>humongous</u> that I could hear my own pulse.\"",
+      "choices": [
+        "NO CHANGE",
+        "immense",
+        "crazy",
+        "jumbo-sized"
+      ],
+      "correct_index": 1,
+      "explanation_md": "The essay's voice is reflective and lyrical, and \"immense\" matches that register while conveying the vastness of the silence. \"Humongous,\" \"crazy,\" and \"jumbo-sized\" are all informal or slangy terms that clash with the essay's measured, descriptive tone.",
+      "difficulty": "medium",
+      "topic": "word choice and tone"
+    },
+    {
+      "position": 70,
+      "stem_md": "Choose the best version of the underlined portion in the sentence: \"<u>Due to the fact that</u> shade disappears from the rim by early afternoon, we packed up quickly and began the long walk down.\"",
+      "choices": [
+        "NO CHANGE",
+        "Because",
+        "Owing to the fact that",
+        "Being that"
+      ],
+      "correct_index": 1,
+      "explanation_md": "\"Because\" expresses the causal relationship in a single word, making it the most concise and direct choice. \"Due to the fact that\" and \"Owing to the fact that\" are wordy constructions that say nothing \"because\" does not, and \"Being that\" is a nonstandard, colloquial substitute for \"because.\"",
+      "difficulty": "medium",
+      "topic": "wordiness"
+    },
+    {
+      "position": 71,
+      "stem_md": "The writer is considering adding the following sentence immediately after the underlined sentence \"Water in the desert is never just scenery; it is infrastructure, and every creature within miles knows its address\": \"Last June, the park recorded fourteen consecutive days above 105 degrees, its longest such streak on record.\" Should the writer make this addition?",
+      "choices": [
+        "Yes, because it explains why the ranger advised the hikers to carry extra water.",
+        "Yes, because it provides statistical evidence for the paragraph's claim about animal tracks.",
+        "No, because it interrupts the paragraph's focus on the spring and the animals that depend on it.",
+        "No, because it contradicts the essay's earlier description of the desert's morning chill."
+      ],
+      "correct_index": 2,
+      "explanation_md": "The paragraph centers on the spring, the pool, and the wildlife that relies on that water; a heat statistic from the previous June would pull the reader away from that focus, so the sentence should not be added. The ranger's advice appears three paragraphs earlier and does not need support here, the statistic says nothing about animal tracks, and a hot June does not contradict a chilly October morning.",
+      "difficulty": "hard",
+      "topic": "adding or deleting information"
+    },
+    {
+      "position": 72,
+      "stem_md": "For the sake of the logic and cohesion of the fourth paragraph, the underlined sentence \"The pool it fed was no bigger than a bathtub, yet tracks in the mud—javelina, coyote, something feline—recorded a nightly parade of visitors\" should be placed:",
+      "choices": [
+        "where it is now.",
+        "before the sentence beginning \"On the descent.\"",
+        "immediately after the sentence beginning \"On the descent.\"",
+        "after the sentence beginning \"Water in the desert.\""
+      ],
+      "correct_index": 2,
+      "explanation_md": "The pronoun \"it\" in \"The pool it fed\" refers to the spring, which is introduced in the sentence beginning \"On the descent,\" so the underlined sentence reads most clearly immediately after that mention; the pool should also be described before Dana refills the bottles at it. In its current position, \"it\" is separated from its antecedent by the sentence about Dana and the filter; placed before the paragraph's opening sentence, the pronoun would have no antecedent at all; and placed after the sentence beginning \"Water in the desert,\" the concrete description would awkwardly follow the paragraph's concluding generalization.",
+      "difficulty": "hard",
+      "topic": "sentence placement"
+    },
+    {
+      "position": 73,
+      "stem_md": "Choose the best version of the underlined portion in the sentence: \"The desert, I understood then, is not empty but patient—a landscape capable <u>to humble</u> anyone who walks into it unprepared.\"",
+      "choices": [
+        "NO CHANGE",
+        "of humbling",
+        "to humbling",
+        "of humble"
+      ],
+      "correct_index": 1,
+      "explanation_md": "Standard English idiom requires \"capable of\" followed by a gerund: \"capable of humbling.\" \"Capable to humble\" and \"capable to humbling\" use the wrong preposition, and \"capable of humble\" pairs the preposition with an adjective instead of the required gerund.",
+      "difficulty": "medium",
+      "topic": "idiom and preposition usage"
+    },
+    {
+      "position": 74,
+      "stem_md": "Which transition provides the most logical opening for the sentence: \"<u>Similarly,</u> the park's trail map now hangs above my desk, a reminder that the best days often begin where the pavement ends.\"?",
+      "choices": [
+        "NO CHANGE",
+        "Even so,",
+        "As a result,",
+        "In the same way,"
+      ],
+      "correct_index": 1,
+      "explanation_md": "The previous sentence describes the hike's costs—aching legs and ruined boots—while this sentence shows the writer treasuring the memory anyway, so the concessive transition \"Even so,\" fits best. \"Similarly\" and \"In the same way\" wrongly signal a comparison, and \"As a result\" wrongly claims the map hangs on the wall because the writer's legs ached.",
+      "difficulty": "medium",
+      "topic": "transitions"
+    },
+    {
+      "position": 75,
+      "stem_md": "Suppose the writer's goal had been to convey a personal experience that reveals both the harshness and the hidden vitality of a desert landscape. Would the passage as a whole accomplish that goal?",
+      "choices": [
+        "Yes, because it recounts a single day's hike while describing both the punishing heat and the life sustained by the spring.",
+        "Yes, because it presents a comprehensive survey of the plant and animal species found in the park.",
+        "No, because it focuses primarily on the writer's relationship with Dana rather than on the landscape itself.",
+        "No, because it never describes any living creatures the hikers encountered along the trail."
+      ],
+      "correct_index": 0,
+      "explanation_md": "The passage narrates one day at Ocotillo Flats, balancing the desert's severity—the climbing heat, the vanishing shade—with signs of hidden life such as the canyon wren, the dragonflies, and the animal tracks at the spring, so it fulfills the stated goal. It is a personal narrative, not a comprehensive species survey; Dana appears only briefly in service of the landscape's story; and the passage clearly does describe living creatures, including the wren and the tracks in the mud.",
+      "difficulty": "hard",
+      "topic": "writer's purpose"
+    }
+  ]
+}

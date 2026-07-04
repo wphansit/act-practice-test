@@ -1,0 +1,151 @@
+{
+  "section": "reading",
+  "passage": {
+    "position": 4,
+    "title": "Light in the Lightless Deep",
+    "kind": "natural_science",
+    "body_md": "Below roughly one thousand meters, the ocean receives no sunlight at all. In this permanent darkness, one might expect an absence of light, yet the deep sea is arguably the most luminous environment on Earth. Scientists estimate that a majority of the animals living in the open ocean below the sunlit zone can produce their own light, a phenomenon called bioluminescence. The glow of a firefly on a summer lawn is a familiar version of the same chemistry, but in the deep sea light-making is not a rarity; it is the rule.\n\nThe reaction that generates the light is deceptively simple to describe. A light-emitting molecule, generically called a luciferin, is oxidized in a reaction catalyzed by an enzyme called a luciferase. As the luciferin combines with oxygen, it enters a high-energy, or \"excited,\" state, and when it settles back to its resting state it releases the surplus energy as a photon of visible light. Because almost none of the energy is lost as heat, biologists sometimes call the result \"cold light.\" A firefly's lantern is barely warm to the touch.\n\nWhat makes the phenomenon so striking is that it has evolved not once but independently many times. The luciferins and luciferases of a firefly, a jellyfish, and a deep-sea fish are chemically distinct molecules; they are not modified versions of a single ancestral system. By one common estimate, bioluminescence has arisen separately more than forty times across the tree of life. When the same trait appears repeatedly in unrelated lineages, evolutionary biologists suspect that it confers an advantage substantial enough to be reinvented again and again. In the deep sea, that advantage takes several forms.\n\nThe most intuitive function is illumination. Certain fishes carry light organs beneath their eyes and use the beam much as a diver uses a flashlight, sweeping it across the water to reveal prey. A few species produce red light, which is invisible to most deep-sea animals because their eyes are tuned only to the blue-green wavelengths that travel farthest through seawater. A fish that can see its own red beam, then, illuminates its surroundings without alerting the very prey it is hunting—a private searchlight in a sea of animals blind to that color.\n\nDefense is a second, and perhaps more common, use. When startled, many small crustaceans and squid eject a cloud of glowing fluid, the luminous equivalent of an octopus's ink. The sudden burst can blind or distract a predator long enough for the prey to vanish into the dark. Other animals employ what researchers call the \"burglar alarm\" strategy: an animal seized by a predator lights up brilliantly, and the display attracts a still larger predator that may attack the attacker. Here light is not a shield but a summons for help, cast into the darkness in the hope that something bigger is listening.\n\nA subtler defensive tactic is counterillumination. To an animal looking upward from below, the faint light filtering down from the surface renders anything swimming overhead as a dark silhouette. Some fishes and squid neutralize this betrayal by studding their bellies with light organs and matching the brightness of the water above them, erasing their own shadow. Experiments show that certain squid can even adjust their glow as the ambient light changes, growing brighter at midday and dimmer at dusk, so that the disguise holds throughout the day.\n\nFinally, light serves communication, most obviously in courtship. Because the deep sea is vast and its inhabitants sparse, finding a mate is a formidable problem, and a distinctive pattern of flashes can advertise both a signaler's species and its readiness to mate. Some lanternfishes bear arrangements of light organs that differ between males and females, a difference that presumably helps them recognize a suitable partner in the gloom. The same signal that says \"here I am\" to a mate, however, risks saying it to a predator as well, and much of the diversity of deep-sea light—its colors, its rhythms, its precise anatomical placement—may reflect the long evolutionary compromise between being seen by the right eyes and hidden from the wrong ones."
+  },
+  "questions": [
+    {
+      "position": 31,
+      "stem_md": "The main purpose of the passage is to:",
+      "choices": [
+        "explain the chemistry of bioluminescence and describe the several functions it serves for deep-sea organisms.",
+        "argue that bioluminescence is more common in the deep sea than most biologists once believed.",
+        "compare the light-producing abilities of fireflies with those of deep-sea fishes and squid.",
+        "trace the history of scientific attempts to measure light in the deep ocean."
+      ],
+      "correct_index": 0,
+      "explanation_md": "The passage first explains how the light-making reaction works, then devotes several paragraphs to its functions (illumination, defense, communication), making choice A the best summary. B and C name topics the passage touches on only briefly, not its overall aim. D describes a history of measurement that the passage never provides.",
+      "difficulty": "medium",
+      "topic": "main idea"
+    },
+    {
+      "position": 32,
+      "stem_md": "According to the passage, the light produced by bioluminescent organisms is described as \"cold light\" because:",
+      "choices": [
+        "it is produced only in the cold water of the deep sea.",
+        "almost none of the reaction's energy is released as heat.",
+        "the light itself appears blue rather than warm-colored.",
+        "the reaction slows down as water temperature drops."
+      ],
+      "correct_index": 1,
+      "explanation_md": "The passage states that \"almost none of the energy is lost as heat,\" which is why biologists call the result \"cold light,\" and adds that a firefly's lantern is \"barely warm.\" A confuses the term with water temperature; C invents a color explanation the passage does not give; D refers to reaction speed, which is never discussed.",
+      "difficulty": "easy",
+      "topic": "detail"
+    },
+    {
+      "position": 33,
+      "stem_md": "The passage indicates that bioluminescence has evolved independently many times, and the author presents this fact primarily in order to:",
+      "choices": [
+        "demonstrate that unrelated animals often share identical luciferin molecules.",
+        "suggest that the trait provides an advantage significant enough to be repeatedly reinvented.",
+        "prove that the deep sea is older than the sunlit zone of the ocean.",
+        "question whether fireflies and jellyfish are as unrelated as they appear."
+      ],
+      "correct_index": 1,
+      "explanation_md": "The author explicitly reasons that when a trait \"appears repeatedly in unrelated lineages,\" it likely \"confers an advantage substantial enough to be reinvented.\" A is contradicted, since the passage stresses the molecules are chemically distinct. C and D introduce claims about ocean age and relatedness that the passage does not make.",
+      "difficulty": "medium",
+      "topic": "author purpose"
+    },
+    {
+      "position": 34,
+      "stem_md": "The passage suggests that a deep-sea fish producing red light gains an advantage because:",
+      "choices": [
+        "red light travels farther through seawater than blue-green light does.",
+        "most deep-sea animals cannot see red light and so are not warned of the hunter.",
+        "red light requires less energy to produce than other colors.",
+        "the red glow attracts prey toward the fish's mouth."
+      ],
+      "correct_index": 1,
+      "explanation_md": "The passage explains that red light is \"invisible to most deep-sea animals\" whose eyes are tuned to blue-green, giving the fish a \"private searchlight\" that does not alert prey. A reverses the passage, which says blue-green travels farthest; C invents an energy claim; D describes attraction, not the covert illumination the passage describes.",
+      "difficulty": "medium",
+      "topic": "inference"
+    },
+    {
+      "position": 35,
+      "stem_md": "As it is used in the passage, the phrase \"burglar alarm\" strategy refers to a situation in which an animal:",
+      "choices": [
+        "releases a cloud of glowing fluid to blind an approaching predator.",
+        "lights up when seized so as to attract a larger predator to attack its attacker.",
+        "matches the brightness of the water above it to erase its own silhouette.",
+        "flashes a distinctive pattern to advertise its species to a potential mate."
+      ],
+      "correct_index": 1,
+      "explanation_md": "The passage defines the \"burglar alarm\" strategy as an animal that, when \"seized by a predator,\" lights up to attract \"a still larger predator that may attack the attacker.\" A describes the glowing-fluid tactic, C describes counterillumination, and D describes courtship signaling—each a different function discussed elsewhere.",
+      "difficulty": "easy",
+      "topic": "vocabulary in context"
+    },
+    {
+      "position": 36,
+      "stem_md": "The experiments mentioned in the paragraph about counterillumination are cited mainly to support the point that some squid can:",
+      "choices": [
+        "produce red light that other animals cannot see.",
+        "adjust the brightness of their glow to match changing surface light.",
+        "eject glowing fluid faster than a predator can react.",
+        "recognize the light patterns of members of their own species."
+      ],
+      "correct_index": 1,
+      "explanation_md": "The passage says experiments show certain squid \"adjust their glow as the ambient light changes,\" brightening at midday and dimming at dusk to hold the disguise. A, C, and D refer to red-light hunting, defensive fluid ejection, and courtship recognition—functions described in other paragraphs, not what the cited experiments demonstrate.",
+      "difficulty": "medium",
+      "topic": "function of detail"
+    },
+    {
+      "position": 37,
+      "stem_md": "The passage most strongly suggests that counterillumination is effective against a predator that is:",
+      "choices": [
+        "looking upward from below at a prey animal silhouetted against faint surface light.",
+        "hunting with a red beam that its prey cannot detect.",
+        "attracted to bright flashes given off by startled crustaceans.",
+        "unable to see any of the blue-green wavelengths of light."
+      ],
+      "correct_index": 0,
+      "explanation_md": "The passage explains that to an animal \"looking upward from below,\" prey appears as a dark silhouette against down-filtering light, and counterillumination erases that silhouette. B and C describe other tactics (red-light hunting, defensive flashes); D would make counterillumination pointless, since a predator blind to blue-green could not see the silhouette in the first place.",
+      "difficulty": "hard",
+      "topic": "inference"
+    },
+    {
+      "position": 38,
+      "stem_md": "According to the passage, one reason finding a mate is a \"formidable problem\" in the deep sea is that:",
+      "choices": [
+        "the animals there are widely scattered across an enormous space.",
+        "predators consume most individuals before they can reproduce.",
+        "the water is too dark for any light signal to travel far.",
+        "males and females of the same species look identical."
+      ],
+      "correct_index": 0,
+      "explanation_md": "The passage states that \"the deep sea is vast and its inhabitants sparse,\" making mate-finding formidable. B overstates predation, which the passage does not tie to reproduction rates; C is contradicted by the passage's emphasis on light signals working over distance; D reverses the passage, which notes that light organs often differ between males and females.",
+      "difficulty": "easy",
+      "topic": "detail"
+    },
+    {
+      "position": 39,
+      "stem_md": "The final paragraph suggests that the diversity of deep-sea light—its colors, rhythms, and placement—can best be understood as:",
+      "choices": [
+        "evidence that communication is the single most important use of bioluminescence.",
+        "a byproduct of the many separate times the trait has evolved.",
+        "the outcome of a tension between being seen by intended viewers and hidden from dangerous ones.",
+        "proof that deep-sea animals cannot distinguish among different species' signals."
+      ],
+      "correct_index": 2,
+      "explanation_md": "The last sentence frames the diversity of light as reflecting \"the long evolutionary compromise between being seen by the right eyes and hidden from the wrong ones.\" A overstates communication's rank; B attributes the diversity to independent origins rather than the stated compromise; D is contradicted by the passage's claim that flash patterns help identify species.",
+      "difficulty": "hard",
+      "topic": "inference"
+    },
+    {
+      "position": 40,
+      "stem_md": "The passage draws a comparison between a deep-sea fish's light organ and a diver's flashlight primarily to help the reader understand:",
+      "choices": [
+        "how much energy a light organ consumes.",
+        "the way a fish sweeps a beam of light to reveal prey.",
+        "why deep-sea fishes prefer blue-green light.",
+        "how bioluminescence differs from the light of a firefly."
+      ],
+      "correct_index": 1,
+      "explanation_md": "The passage says a fish uses its beam \"much as a diver uses a flashlight, sweeping it across the water to reveal prey,\" so the comparison illustrates the searching motion. A introduces energy consumption, which is not the point of the comparison; C and D concern color preference and the firefly contrast, neither of which the flashlight image is meant to explain.",
+      "difficulty": "medium",
+      "topic": "function of detail"
+    }
+  ]
+}

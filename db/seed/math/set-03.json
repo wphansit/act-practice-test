@@ -1,0 +1,306 @@
+{
+  "section": "math",
+  "passage": null,
+  "questions": [
+    {
+      "position": 41,
+      "stem_md": "In the standard (x,y) coordinate plane, a triangle has vertices at (0,0), (8,0), and (3,6). What is the area, in square units, of the triangle?",
+      "choices": [
+        "21",
+        "24",
+        "27",
+        "48",
+        "54"
+      ],
+      "correct_index": 1,
+      "explanation_md": "The side from (0,0) to (8,0) is a base of length 8, and the height is the y-coordinate of the third vertex, 6. Area = (1/2)(8)(6) = 24. Choosing 48 comes from forgetting the factor of 1/2; 21 and 27 come from using an incorrect base or height, and 54 uses 9 × 6 rather than the true base.",
+      "difficulty": "easy",
+      "topic": "coordinate geometry"
+    },
+    {
+      "position": 42,
+      "stem_md": "A circle has an area of 49π square centimeters. What is the circumference of the circle, in centimeters?",
+      "choices": [
+        "7π",
+        "14π",
+        "24.5π",
+        "49π",
+        "98π"
+      ],
+      "correct_index": 1,
+      "explanation_md": "Since area = πr<sup>2</sup> = 49π, the radius is 7, so the circumference is 2πr = 14π. The answer 7π uses r instead of 2r; 49π confuses circumference with area; 24.5π and 98π come from halving or doubling the area instead of applying the circumference formula.",
+      "difficulty": "easy",
+      "topic": "circles"
+    },
+    {
+      "position": 43,
+      "stem_md": "A trapezoid has parallel sides of lengths 10 inches and 16 inches, and the distance between the parallel sides is 7 inches. What is the area of the trapezoid, in square inches?",
+      "choices": [
+        "56",
+        "78",
+        "91",
+        "112",
+        "182"
+      ],
+      "correct_index": 2,
+      "explanation_md": "The area of a trapezoid is the average of the parallel sides times the height: ((10 + 16)/2)(7) = (13)(7) = 91. The answer 182 forgets to average the bases; 112 uses only the longer base (16 × 7); 56 uses a rectangle formula with the wrong base; 78 comes from an arithmetic slip in averaging.",
+      "difficulty": "easy",
+      "topic": "plane geometry"
+    },
+    {
+      "position": 44,
+      "stem_md": "In triangle ABC, the measure of angle A is 40°, and the measure of angle B is 3 times the measure of angle C. What is the measure of angle B?",
+      "choices": [
+        "35°",
+        "70°",
+        "95°",
+        "105°",
+        "120°"
+      ],
+      "correct_index": 3,
+      "explanation_md": "The angles of a triangle sum to 180°, so B + C = 140°. Since B = 3C, then 4C = 140°, giving C = 35° and B = 105°. The answer 35° is angle C, not B; 70° treats B as 2C; 95° and 120° result from setting up the equation with an incorrect angle sum.",
+      "difficulty": "medium",
+      "topic": "angles"
+    },
+    {
+      "position": 45,
+      "stem_md": "In a right triangle, the hypotenuse is 13 units long and one leg is 5 units long. What is the tangent of the angle opposite the 5-unit leg?",
+      "choices": [
+        "5/13",
+        "5/12",
+        "12/13",
+        "12/5",
+        "13/5"
+      ],
+      "correct_index": 1,
+      "explanation_md": "By the Pythagorean theorem the other leg is √(13<sup>2</sup> - 5<sup>2</sup>) = 12. Tangent = opposite/adjacent = 5/12. The answer 5/13 is the sine of the angle, 12/13 is the cosine, 12/5 is the tangent of the other acute angle, and 13/5 is the reciprocal of the sine.",
+      "difficulty": "medium",
+      "topic": "trigonometry"
+    },
+    {
+      "position": 46,
+      "stem_md": "A circle has a radius of 9 inches. What is the length, in inches, of an arc intercepted by a central angle measuring 80°?",
+      "choices": [
+        "2π",
+        "4π",
+        "8π",
+        "9π",
+        "18π"
+      ],
+      "correct_index": 1,
+      "explanation_md": "Arc length is the fraction of the circumference: (80/360)(2π · 9) = (2/9)(18π) = 4π. The answer 2π halves the correct result; 8π comes from using the diameter 18 in place of the radius 9 in (80/360)(2πr); 18π is the full circumference; 9π is half the circumference, not the 80° arc.",
+      "difficulty": "medium",
+      "topic": "circles"
+    },
+    {
+      "position": 47,
+      "stem_md": "In an arithmetic sequence, the 4th term is 17 and the 9th term is 42. What is the first term of the sequence?",
+      "choices": [
+        "2",
+        "5",
+        "7",
+        "12",
+        "15"
+      ],
+      "correct_index": 0,
+      "explanation_md": "From the 4th to the 9th term there are 5 steps, so the common difference is (42 - 17)/5 = 5. The first term is 17 - 3(5) = 2. The answer 5 is the common difference itself; 7 subtracts only 2 steps; 12 subtracts only 1 step; 15 is the total decrease 3(5) that must be subtracted from 17, mistakenly reported as the first term.",
+      "difficulty": "medium",
+      "topic": "sequences"
+    },
+    {
+      "position": 48,
+      "stem_md": "What is the value of log<sub>2</sub> 32 + log<sub>3</sub> (1/9)?",
+      "choices": [
+        "-3",
+        "1",
+        "3",
+        "5",
+        "7"
+      ],
+      "correct_index": 2,
+      "explanation_md": "Since 2<sup>5</sup> = 32, log<sub>2</sub> 32 = 5; since 3<sup>-2</sup> = 1/9, log<sub>3</sub> (1/9) = -2. The sum is 5 + (-2) = 3. The answer 5 ignores the second term; 7 treats log<sub>3</sub> (1/9) as +2; -3 reverses the signs; 1 comes from computing log<sub>2</sub> 32 as 3.",
+      "difficulty": "medium",
+      "topic": "logarithms"
+    },
+    {
+      "position": 49,
+      "stem_md": "Let A be the 2×2 matrix with first row (3, -1) and second row (2, 4), and let B be the 2×2 matrix with first row (1, 5) and second row (-2, 0). What is the entry in the first row, second column of the matrix 2A - B?",
+      "choices": [
+        "-7",
+        "-6",
+        "3",
+        "7",
+        "8"
+      ],
+      "correct_index": 0,
+      "explanation_md": "The first-row, second-column entry of 2A is 2(-1) = -2, and the corresponding entry of B is 5, so the result is -2 - 5 = -7. The answer -6 forgets to double the entry of A; 3 adds instead of subtracts; 7 drops the negative sign; 8 uses the second-row, second-column entries instead.",
+      "difficulty": "medium",
+      "topic": "matrices"
+    },
+    {
+      "position": 50,
+      "stem_md": "For all values of θ such that sin θ ≠ 0, the expression (1 - cos<sup>2</sup>θ)/(sin θ) is equivalent to:",
+      "choices": [
+        "sin θ",
+        "cos θ",
+        "tan θ",
+        "sec θ",
+        "csc θ"
+      ],
+      "correct_index": 0,
+      "explanation_md": "By the Pythagorean identity, 1 - cos<sup>2</sup>θ = sin<sup>2</sup>θ, so the expression equals sin<sup>2</sup>θ/sin θ = sin θ. The other choices do not follow: cos θ and tan θ would require different numerators (such as sin θ cos θ), and sec θ and csc θ are reciprocal functions that would arise only from dividing 1 by cos θ or sin θ.",
+      "difficulty": "medium",
+      "topic": "trig identities"
+    },
+    {
+      "position": 51,
+      "stem_md": "The first term of a geometric sequence is 4, and the common ratio is 3. Which term of the sequence is equal to 972?",
+      "choices": [
+        "The 4th term",
+        "The 5th term",
+        "The 6th term",
+        "The 7th term",
+        "The 8th term"
+      ],
+      "correct_index": 2,
+      "explanation_md": "The nth term is 4 · 3<sup>n-1</sup>. Setting 4 · 3<sup>n-1</sup> = 972 gives 3<sup>n-1</sup> = 243 = 3<sup>5</sup>, so n - 1 = 5 and n = 6. Choosing the 5th term confuses the exponent with the term number; the 4th, 7th, and 8th terms give 108, 2916, and 8748, none of which equal 972.",
+      "difficulty": "medium",
+      "topic": "sequences"
+    },
+    {
+      "position": 52,
+      "stem_md": "A triangle has sides of lengths 6, 8, and 10 centimeters. A similar triangle has its shortest side of length 15 centimeters. What is the perimeter, in centimeters, of the larger triangle?",
+      "choices": [
+        "37.5",
+        "45",
+        "54",
+        "60",
+        "72"
+      ],
+      "correct_index": 3,
+      "explanation_md": "The scale factor is 15/6 = 2.5, and the smaller triangle's perimeter is 6 + 8 + 10 = 24, so the larger perimeter is 24(2.5) = 60. The answer 45 scales by 15/8; 37.5 comes from applying the scale factor 2.5 to the given side 15 (15 × 2.5) instead of to the perimeter; 54 adds 30 to 24 instead of scaling; 72 triples the perimeter.",
+      "difficulty": "medium",
+      "topic": "plane geometry"
+    },
+    {
+      "position": 53,
+      "stem_md": "What is the period of the function y = 4 cos(3x)?",
+      "choices": [
+        "π/3",
+        "2π/3",
+        "3π/2",
+        "2π",
+        "6π"
+      ],
+      "correct_index": 1,
+      "explanation_md": "For y = a cos(bx), the period is 2π/b, so here it is 2π/3. The answer π/3 halves the period; 3π/2 inverts the fraction; 2π ignores the coefficient 3; 6π multiplies by 3 instead of dividing. The coefficient 4 affects only the amplitude, not the period.",
+      "difficulty": "medium",
+      "topic": "trigonometry"
+    },
+    {
+      "position": 54,
+      "stem_md": "What is the value of cos(5π/6)?",
+      "choices": [
+        "-√3/2",
+        "-1/2",
+        "1/2",
+        "√2/2",
+        "√3/2"
+      ],
+      "correct_index": 0,
+      "explanation_md": "The angle 5π/6 (150°) lies in the second quadrant, where cosine is negative, and its reference angle is π/6 (30°). Since cos(π/6) = √3/2, cos(5π/6) = -√3/2. The answer √3/2 ignores the sign; -1/2 and 1/2 confuse cosine with sine of the reference angle; √2/2 uses a 45° reference angle instead.",
+      "difficulty": "hard",
+      "topic": "unit circle"
+    },
+    {
+      "position": 55,
+      "stem_md": "If log x = a and log y = b, then log(x<sup>3</sup>/√y) = ?",
+      "choices": [
+        "3a - (1/2)b",
+        "3a - 2b",
+        "(3/2)(a - b)",
+        "3a/(2b)",
+        "a<sup>3</sup> - √b"
+      ],
+      "correct_index": 0,
+      "explanation_md": "Using log properties: log(x<sup>3</sup>/√y) = log x<sup>3</sup> - log y<sup>1/2</sup> = 3 log x - (1/2) log y = 3a - (1/2)b. The answer 3a - 2b inverts the square-root exponent; 3a/(2b) divides logs instead of subtracting them; a<sup>3</sup> - √b applies the powers to the log values themselves; (3/2)(a - b) misapplies both exponents.",
+      "difficulty": "hard",
+      "topic": "logarithms"
+    },
+    {
+      "position": 56,
+      "stem_md": "Let M be the 2×2 matrix with first row (2, 1) and second row (0, 3), and let N be the 2×2 matrix with first row (1, -1) and second row (4, 2). What is the entry in the second row, first column of the matrix product MN?",
+      "choices": [
+        "0",
+        "4",
+        "6",
+        "12",
+        "14"
+      ],
+      "correct_index": 3,
+      "explanation_md": "The second-row, first-column entry of MN is the dot product of M's second row (0, 3) with N's first column (1, 4): (0)(1) + (3)(4) = 12. The answer 0 is the first-row, second-column entry of MN; 6 is the first-row, first-column entry and also the second-row, second-column entry; 4 and 14 come from pairing the wrong row and column.",
+      "difficulty": "hard",
+      "topic": "matrices"
+    },
+    {
+      "position": 57,
+      "stem_md": "In the standard (x,y) coordinate plane, a circle is tangent to the x-axis and has its center at (5, -4). Which of the following is an equation of the circle?",
+      "choices": [
+        "(x - 5)<sup>2</sup> + (y + 4)<sup>2</sup> = 16",
+        "(x - 5)<sup>2</sup> + (y + 4)<sup>2</sup> = 25",
+        "(x + 5)<sup>2</sup> + (y - 4)<sup>2</sup> = 16",
+        "(x - 5)<sup>2</sup> + (y + 4)<sup>2</sup> = 4",
+        "(x + 5)<sup>2</sup> + (y - 4)<sup>2</sup> = 25"
+      ],
+      "correct_index": 0,
+      "explanation_md": "A circle tangent to the x-axis has radius equal to the distance from its center to that axis, which is |-4| = 4, so r<sup>2</sup> = 16, and the equation is (x - 5)<sup>2</sup> + (y + 4)<sup>2</sup> = 16. The choices with 25 use the x-coordinate 5 as the radius; the choices with (x + 5) and (y - 4) reverse the signs of the center; the choice with 4 uses r instead of r<sup>2</sup>.",
+      "difficulty": "hard",
+      "topic": "coordinate geometry"
+    },
+    {
+      "position": 58,
+      "stem_md": "What is the solution to the equation log<sub>2</sub>(x + 3) + log<sub>2</sub>(x - 3) = 4?",
+      "choices": [
+        "-5",
+        "3",
+        "4",
+        "5",
+        "25"
+      ],
+      "correct_index": 3,
+      "explanation_md": "Combining the logs gives log<sub>2</sub>[(x + 3)(x - 3)] = 4, so x<sup>2</sup> - 9 = 2<sup>4</sup> = 16, which gives x<sup>2</sup> = 25 and x = ±5. Only x = 5 keeps both arguments positive, so it is the solution. The answer -5 fails the domain check (x - 3 would be negative); 25 is x<sup>2</sup>, not x; 3 makes log<sub>2</sub>(x - 3) undefined; 4 confuses the answer with the right-hand side of the equation.",
+      "difficulty": "hard",
+      "topic": "logarithms"
+    },
+    {
+      "position": 59,
+      "stem_md": "What is the sum of all the integers from 12 to 60, inclusive?",
+      "choices": [
+        "1,728",
+        "1,764",
+        "1,800",
+        "1,836",
+        "3,528"
+      ],
+      "correct_index": 1,
+      "explanation_md": "There are 60 - 12 + 1 = 49 integers, and the average of the first and last is (12 + 60)/2 = 36, so the sum is 49 × 36 = 1,764. The answer 1,728 uses 48 terms by forgetting to add 1 when counting; 1,800 and 1,836 use 50 or 51 terms; 3,528 forgets to divide (12 + 60) by 2.",
+      "difficulty": "hard",
+      "topic": "sequences"
+    },
+    {
+      "position": 60,
+      "stem_md": "In a triangle, two sides have lengths 8 meters and 5 meters, and the angle between them measures 60°. What is the area of the triangle, in square meters?",
+      "choices": [
+        "10",
+        "10√3",
+        "20",
+        "20√3",
+        "40"
+      ],
+      "correct_index": 1,
+      "explanation_md": "The area of a triangle with two sides and the included angle is (1/2)ab sin C = (1/2)(8)(5) sin 60° = 20(√3/2) = 10√3. The answer 10 uses sin 60° = 1/2 (the value of cos 60°); 20 omits the sine factor after halving; 20√3 forgets the factor of 1/2; 40 is simply the product of the two sides without the sine or the 1/2.",
+      "difficulty": "hard",
+      "topic": "trigonometry"
+    }
+  ]
+}

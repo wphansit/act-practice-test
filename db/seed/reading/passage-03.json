@@ -1,0 +1,151 @@
+{
+  "section": "reading",
+  "passage": {
+    "position": 3,
+    "title": "The Horn in the Margin: How Jazz Taught American Poets to Breathe",
+    "kind": "humanities",
+    "body_md": "**HUMANITIES:** This passage is adapted from an essay on the relationship between jazz improvisation and twentieth-century American poetry.\n\nWhen the tenor saxophonist steps forward to take a solo, something curious happens to time. The written melody—the \"head,\" as musicians call it—dissolves, and in its place the player composes aloud, phrase by phrase, in front of witnesses. Nothing is erased; nothing can be. Every hesitation, every reached-for note that lands slightly flat, becomes part of the finished work. It was this quality of jazz—composition as public risk—that seized the imagination of American poets in the decades after the First World War, and that would quietly reorganize the way many of them thought about the poetic line.\n\nThe earliest borrowings were largely thematic. Poets of the 1920s wrote *about* jazz: its dance halls, its late hours, its associations with urban modernity. But a smaller number of writers, most notably Langston Hughes, understood that the music offered something more useful than subject matter. Hughes listened to the blues singers and stride pianists of Harlem and heard a structural principle: the twelve-bar blues, with its statement, restatement, and turn—a line sung, sung again with a difference, then answered. He built poems on that chassis. The repetition was not redundancy but revision in real time, the verbal equivalent of a soloist circling back to a phrase to worry it, bend it, and finally release it transformed.\n\nWhat Hughes began, the poets of midcentury extended into a full-blown poetics. By the 1950s, bebop had replaced swing as the music's cutting edge, and bebop's long, asymmetrical melodic lines—rushing ahead of the beat, pausing in unexpected places—suggested to a new generation that the poetic line need not be a unit of grammar or of meter. It could instead be a unit of *breath*. When these poets defended their irregular lines, they reached instinctively for musical analogies: the line break was where the horn player paused to inhale; the poem on the page was less a finished artifact than a score, a set of instructions for a performance.\n\nSkeptics, then and now, have found the analogy loose. A saxophonist improvising over chord changes genuinely cannot take anything back; a poet revising at a desk manifestly can, and most did. Critics have pointed out, fairly, that many so-called spontaneous poems of the era went through draft after painstaking draft, their improvisatory feel as carefully constructed as a film's single continuous shot. If jazz gave poetry anything, these critics argue, it was a *rhetoric* of spontaneity rather than the thing itself—a set of gestures signaling immediacy to the reader.\n\nBut this objection, though accurate, may miss what the poets actually took from the bandstand. The lesson of improvisation was never that revision is dishonest. It was that a work of art could make its own process audible—could dramatize the mind moving, rather than presenting only the polished residue of thought. A bebop solo is thrilling in part because the listener hears decisions being made: a phrase attempted, abandoned, recovered at a higher pitch. The midcentury poem, at its best, offers the same drama on the page. Its stumbles and swerves may be rehearsed, but they keep faith with an aesthetic in which discovery, not perfection, is the highest value.\n\nThere was, moreover, a dimension of the borrowing that was not formal at all. Jazz was Black American music, and for African American poets from Hughes onward, invoking it was a way of claiming a homegrown artistic lineage—an alternative to inherited European models of what a poem should sound like. The call-and-response patterns Hughes adapted came out of church and work song traditions older than the nation's concert halls. When later poets set their verse to the rhythms of a horn section, they were not merely decorating their stanzas; they were arguing, implicitly, that American speech had its own music, and that this music had been composed, in large part, by people long excluded from the official culture.\n\nBy the century's end, the exchange had become so thorough that it ran in both directions. Musicians set poems to improvised accompaniment; poets performed with rhythm sections; the spoken-word movements of the 1980s and 1990s treated the poem as an event rather than a text, completing a circle that Hughes had begun sketching decades earlier. One can still find purists on either side—musicians who consider words a distraction, poets who consider the saxophone a gimmick. Yet the deeper legacy is by now inseparable from American poetry itself: the conviction that a poem, like a solo, is a way of thinking out loud, and that the risk of the attempt is part of the meaning."
+  },
+  "questions": [
+    {
+      "position": 21,
+      "stem_md": "The main purpose of the passage is to:",
+      "choices": [
+        "argue that midcentury poets deceived readers by disguising heavily revised poems as spontaneous works.",
+        "trace how jazz improvisation shaped the forms, values, and cultural claims of twentieth-century American poetry.",
+        "explain the technical structure of the twelve-bar blues and its origins in church and work song traditions.",
+        "compare the artistic achievements of jazz musicians with those of the poets who imitated them."
+      ],
+      "correct_index": 1,
+      "explanation_md": "The passage moves chronologically from the 1920s to the century's end, showing how jazz influenced poetic form (the breath-based line), aesthetic values (discovery over perfection), and cultural identity (a homegrown Black artistic lineage)—so the second choice captures the whole. The first choice reflects only the skeptics' view, which the author partly rejects; the third describes one paragraph's detail, not the purpose; the fourth suggests a ranking of achievements the passage never makes.",
+      "difficulty": "easy",
+      "topic": "main idea"
+    },
+    {
+      "position": 22,
+      "stem_md": "According to the passage, poets of the 1920s primarily engaged with jazz by:",
+      "choices": [
+        "writing about its settings and cultural associations rather than adopting its structures.",
+        "performing their poems with rhythm sections in Harlem dance halls.",
+        "modeling their line breaks on the breathing patterns of horn players.",
+        "rejecting it as incompatible with inherited European poetic models."
+      ],
+      "correct_index": 0,
+      "explanation_md": "The second paragraph states that \"the earliest borrowings were largely thematic\" and that 1920s poets wrote about jazz's \"dance halls, its late hours, its associations with urban modernity.\" Performing with rhythm sections is attributed to later poets near the century's end; breath-based line breaks belong to the midcentury bebop generation; and rejecting European models describes what jazz-influenced poets argued against, not a rejection of jazz itself.",
+      "difficulty": "easy",
+      "topic": "explicit detail"
+    },
+    {
+      "position": 23,
+      "stem_md": "The passage indicates that Langston Hughes differed from most jazz-influenced poets of his decade in that he:",
+      "choices": [
+        "refused to write poems that mentioned dance halls or urban nightlife.",
+        "recognized in the music a structural principle he could build poems on, not just subject matter.",
+        "was the first poet to perform his work with live musical accompaniment.",
+        "preferred bebop's asymmetrical melodic lines to the twelve-bar blues."
+      ],
+      "correct_index": 1,
+      "explanation_md": "The passage says a \"smaller number of writers, most notably Langston Hughes, understood that the music offered something more useful than subject matter,\" namely \"a structural principle\" drawn from the twelve-bar blues. Nothing says Hughes refused nightlife subjects; the passage never credits him with the first musical performances; and bebop is associated with the 1950s generation, after Hughes's borrowing from blues and stride piano.",
+      "difficulty": "easy",
+      "topic": "comparative detail"
+    },
+    {
+      "position": 24,
+      "stem_md": "As it is used in the passage, the phrase \"built poems on that chassis\" most nearly means that Hughes:",
+      "choices": [
+        "wrote poems celebrating automobiles and other emblems of modernity.",
+        "used the blues form's pattern of statement, restatement, and answer as an underlying framework.",
+        "constructed his poems hastily, welcoming flaws as part of the finished work.",
+        "abandoned repetition in favor of continuous, unbroken melodic lines."
+      ],
+      "correct_index": 1,
+      "explanation_md": "\"Chassis\" is a metaphor for the twelve-bar blues structure just described—\"a line sung, sung again with a difference, then answered\"—which Hughes used as a poem's frame. The automobile reading takes the metaphor literally; hastiness confuses Hughes with the passage's later point about audible process; and Hughes embraced repetition (\"not redundancy but revision in real time\") rather than abandoning it.",
+      "difficulty": "medium",
+      "topic": "vocabulary in context"
+    },
+    {
+      "position": 25,
+      "stem_md": "According to the passage, midcentury poets influenced by bebop came to regard the poetic line as a unit of:",
+      "choices": [
+        "grammar, matching each line to a complete sentence.",
+        "meter, measured in regular stressed and unstressed syllables.",
+        "breath, analogous to a horn player's pauses to inhale.",
+        "harmony, corresponding to the chord changes of a song."
+      ],
+      "correct_index": 2,
+      "explanation_md": "The third paragraph states that the poetic line \"need not be a unit of grammar or of meter\" but \"could instead be a unit of *breath*,\" with the line break compared to where \"the horn player paused to inhale.\" Grammar and meter are the two conventions the passage says these poets moved away from, and harmony/chord changes appear only in the skeptics' paragraph about what improvisers cannot take back.",
+      "difficulty": "easy",
+      "topic": "explicit detail"
+    },
+    {
+      "position": 26,
+      "stem_md": "The author most likely includes the comparison to \"a film's single continuous shot\" in order to:",
+      "choices": [
+        "illustrate the critics' point that an effect of spontaneity can be the product of careful construction.",
+        "prove that midcentury poets borrowed their techniques from cinema as much as from jazz.",
+        "suggest that film directors were more honest about their methods than poets were.",
+        "demonstrate that improvised saxophone solos were often edited before being released."
+      ],
+      "correct_index": 0,
+      "explanation_md": "The comparison appears within the skeptics' argument: seemingly spontaneous poems \"went through draft after painstaking draft, their improvisatory feel as carefully constructed as a film's single continuous shot.\" It is an analogy for engineered immediacy, not a claim that poets borrowed from cinema, a judgment about directors' honesty, or a statement about editing recorded solos—none of which the passage asserts.",
+      "difficulty": "medium",
+      "topic": "author's purpose"
+    },
+    {
+      "position": 27,
+      "stem_md": "The author's response to the skeptics discussed in the passage can best be described as:",
+      "choices": [
+        "conceding that their observation is accurate while arguing that it overlooks the poets' real debt to improvisation.",
+        "dismissing their argument as founded on a misreading of how chord changes work.",
+        "agreeing fully that jazz gave poetry nothing more than a set of empty gestures.",
+        "insisting that midcentury poems were in fact composed without any revision."
+      ],
+      "correct_index": 0,
+      "explanation_md": "The author calls the objection \"accurate\" but says it \"may miss what the poets actually took from the bandstand\": an aesthetic of making the creative process audible. The author never disputes the skeptics' facts about revision, so the second and fourth choices fail; and rather than agreeing the influence was empty, the author defends its substance, so the third choice reverses the author's position.",
+      "difficulty": "hard",
+      "topic": "author's perspective"
+    },
+    {
+      "position": 28,
+      "stem_md": "Based on the passage, the \"highest value\" of the aesthetic that midcentury poets adopted from jazz is best described as:",
+      "choices": [
+        "technical perfection achieved through painstaking rehearsal.",
+        "fidelity to inherited European models of poetic sound.",
+        "the drama of discovery, in which the mind's movement remains audible in the work.",
+        "strict adherence to the twelve-bar structure of the blues."
+      ],
+      "correct_index": 2,
+      "explanation_md": "The fifth paragraph says these works \"keep faith with an aesthetic in which discovery, not perfection, is the highest value\" and prize art that \"dramatize[s] the mind moving.\" Perfection is explicitly named as what this aesthetic subordinates; European models are what jazz-influenced poets positioned themselves against; and the twelve-bar blues was Hughes's earlier framework, not the midcentury generation's governing value.",
+      "difficulty": "medium",
+      "topic": "inference"
+    },
+    {
+      "position": 29,
+      "stem_md": "The passage suggests that for African American poets, invoking jazz served a purpose beyond formal experimentation because it:",
+      "choices": [
+        "guaranteed their work would be performed in the nation's concert halls.",
+        "allowed them to claim an artistic lineage rooted in Black American traditions rather than in European models.",
+        "helped them avoid the call-and-response patterns of church and work songs.",
+        "proved that spoken-word performance was superior to poetry printed on the page."
+      ],
+      "correct_index": 1,
+      "explanation_md": "The sixth paragraph states that invoking jazz \"was a way of claiming a homegrown artistic lineage—an alternative to inherited European models,\" tied to traditions \"composed, in large part, by people long excluded from the official culture.\" The passage says those traditions were older than the concert halls, not that they granted access to them; call-and-response is something Hughes adapted, not avoided; and the passage describes spoken word as completing a circle, not as superior to print.",
+      "difficulty": "medium",
+      "topic": "inference"
+    },
+    {
+      "position": 30,
+      "stem_md": "The statement that by the century's end \"the exchange had become so thorough that it ran in both directions\" most strongly implies that:",
+      "choices": [
+        "poets stopped writing about jazz once musicians began setting poems to music.",
+        "purists on both sides succeeded in keeping the two art forms largely separate.",
+        "jazz and poetry each came to influence the other, rather than influence flowing only from music to verse.",
+        "the spoken-word movements of the 1980s and 1990s abandoned improvisation entirely."
+      ],
+      "correct_index": 2,
+      "explanation_md": "\"Ran in both directions\" signals mutual influence, illustrated by musicians setting poems to improvised accompaniment while poets performed with rhythm sections. The passage never says poets stopped writing about jazz; it notes that purists still exist but presents them as exceptions to an otherwise \"inseparable\" legacy; and the spoken-word movements are described as treating the poem \"as an event,\" extending the improvisatory spirit rather than abandoning it.",
+      "difficulty": "hard",
+      "topic": "meaning of statement"
+    }
+  ]
+}

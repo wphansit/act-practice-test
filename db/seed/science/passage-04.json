@@ -1,0 +1,74 @@
+{
+  "section": "science",
+  "passage": {
+    "position": 4,
+    "title": "The Breaking Point of an Enzyme",
+    "kind": "research_summary",
+    "body_md": "Students investigated the activity of *catalase*, an enzyme that speeds the breakdown of hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) into water and oxygen gas (O<sub>2</sub>):\n\n2 H<sub>2</sub>O<sub>2</sub> &#8594; 2 H<sub>2</sub>O + O<sub>2</sub>\n\nCatalase extracted from beef liver was added to a fixed volume of H<sub>2</sub>O<sub>2</sub> solution, and the volume of O<sub>2</sub> gas released in 2 minutes was collected and measured. A greater volume of O<sub>2</sub> indicates greater catalase activity. The same mass of catalase and the same starting amount of H<sub>2</sub>O<sub>2</sub> were used in every trial.\n\n**Experiment 1**\n\nThe pH of the H<sub>2</sub>O<sub>2</sub> solution was held constant at 7.0. The temperature of the solution was varied, and the O<sub>2</sub> released was measured.\n\n| Temperature (°C) | O<sub>2</sub> produced in 2 min (mL) |\n|---|---|\n| 10 | 8 |\n| 20 | 16 |\n| 30 | 28 |\n| 40 | 42 |\n| 50 | 24 |\n| 60 | 6 |\n\n**Experiment 2**\n\nThe temperature was held constant at 40°C. The pH of the H<sub>2</sub>O<sub>2</sub> solution was varied, and the O<sub>2</sub> released was measured.\n\n| pH | O<sub>2</sub> produced in 2 min (mL) |\n|---|---|\n| 3 | 5 |\n| 5 | 20 |\n| 7 | 42 |\n| 9 | 22 |\n| 11 | 4 |\n\n**Experiment 3**\n\nSeparate catalase samples were each pre-incubated (held) for 10 minutes at one of four temperatures. Each sample was then brought to 40°C and added to H<sub>2</sub>O<sub>2</sub> solution at pH 7.0, and the O<sub>2</sub> released in 2 minutes was measured.\n\n| Pre-incubation temperature (°C) | O<sub>2</sub> produced at 40°C in 2 min (mL) |\n|---|---|\n| 10 | 42 |\n| 40 | 42 |\n| 50 | 30 |\n| 60 | 8 |"
+  },
+  "questions": [
+    {
+      "position": 21,
+      "stem_md": "According to the results of Experiment 1, catalase activity, as measured by the volume of O<sub>2</sub> produced, was greatest at which temperature?",
+      "choices": ["20°C", "30°C", "40°C", "50°C"],
+      "correct_index": 2,
+      "explanation_md": "The table for Experiment 1 shows the largest O<sub>2</sub> volume, 42 mL, at 40°C. At 20°C only 16 mL was produced, at 30°C only 28 mL, and at 50°C the volume had fallen to 24 mL, so none of those temperatures gave the greatest activity.",
+      "difficulty": "easy",
+      "topic": "data reading"
+    },
+    {
+      "position": 22,
+      "stem_md": "In Experiment 2, as the pH of the H<sub>2</sub>O<sub>2</sub> solution was increased from 3 to 7, the volume of O<sub>2</sub> produced:",
+      "choices": ["increased only", "decreased only", "increased, then decreased", "remained constant"],
+      "correct_index": 0,
+      "explanation_md": "Over the range from pH 3 to pH 7 the volume rose steadily from 5 mL to 20 mL to 42 mL, so it increased only. It did not decrease or stay constant, and the decrease (to 22 mL and then 4 mL) happened only after pH 7, which is outside the range asked about.",
+      "difficulty": "easy",
+      "topic": "trend identification"
+    },
+    {
+      "position": 23,
+      "stem_md": "Based on the results of Experiment 1, if a trial had been performed at 35°C, the volume of O<sub>2</sub> produced in 2 minutes would most likely have been closest to:",
+      "choices": ["8 mL", "20 mL", "35 mL", "50 mL"],
+      "correct_index": 2,
+      "explanation_md": "A temperature of 35°C lies between 30°C (28 mL) and 40°C (42 mL), so the expected value falls between those, near 35 mL. Values of 8 mL and 20 mL correspond to much lower temperatures, and 50 mL is greater than any volume actually recorded in the experiment.",
+      "difficulty": "medium",
+      "topic": "interpolation"
+    },
+    {
+      "position": 24,
+      "stem_md": "In Experiment 2 the temperature was held constant at 40°C. The most likely reason the students chose 40°C is that this temperature:",
+      "choices": ["produced the greatest catalase activity in Experiment 1, making effects of pH easier to detect", "was the lowest temperature tested in Experiment 1", "was equal to the pH used in Experiment 1", "prevented the enzyme from working at any pH"],
+      "correct_index": 0,
+      "explanation_md": "Experiment 1 showed activity peaked at 40°C, so running Experiment 2 there gives the strongest response and makes pH effects clearest. 40°C was the peak, not the lowest, temperature tested; temperature (°C) and pH are different quantities, so they cannot be \"equal\"; and the enzyme clearly did work at 40°C, producing up to 42 mL of O<sub>2</sub>.",
+      "difficulty": "medium",
+      "topic": "experimental design"
+    },
+    {
+      "position": 25,
+      "stem_md": "A student claims that catalase functions best under conditions similar to those inside the human body (about 37°C and near pH 7). Do the results of Experiments 1 and 2 support this claim?",
+      "choices": ["Yes; peak activity occurred near 40°C and near pH 7, close to body conditions", "Yes; peak activity occurred near 10°C and near pH 3", "No; peak activity occurred near 60°C and near pH 11", "No; activity was the same at every temperature and pH tested"],
+      "correct_index": 0,
+      "explanation_md": "Activity peaked at 40°C in Experiment 1 and at pH 7 in Experiment 2, both close to the stated body conditions, so the data support the claim. Activity was low, not peak, at 10°C, pH 3, 60°C, and pH 11, and it clearly varied with both temperature and pH rather than staying the same.",
+      "difficulty": "medium",
+      "topic": "combining experiments"
+    },
+    {
+      "position": 26,
+      "stem_md": "In Experiment 3 the samples were pre-incubated at different temperatures but all tested at 40°C. These results best support which conclusion about the drop in activity seen at 50°C and 60°C in Experiment 1?",
+      "choices": ["The high temperatures caused permanent damage to the enzyme (denaturation)", "The reaction was simply too slow because 50°C and 60°C are too cold", "The H<sub>2</sub>O<sub>2</sub> was completely used up before the enzyme was added", "Catalase works equally well at all temperatures"],
+      "correct_index": 0,
+      "explanation_md": "Samples pre-incubated at 60°C produced only 8 mL even when later tested at the optimal 40°C, showing the high temperature permanently damaged (denatured) the enzyme rather than just slowing it temporarily. 50°C and 60°C are hot, not cold; the same H<sub>2</sub>O<sub>2</sub> starting amount was used each time; and activity clearly differed across temperatures, so catalase does not work equally well at all of them.",
+      "difficulty": "hard",
+      "topic": "inference"
+    },
+    {
+      "position": 27,
+      "stem_md": "Suppose a fresh catalase sample is first heated to 60°C for 10 minutes and then placed in H<sub>2</sub>O<sub>2</sub> solution at 40°C and pH 7. Based on all three experiments, the volume of O<sub>2</sub> produced in 2 minutes would most likely be closest to:",
+      "choices": ["42 mL", "30 mL", "8 mL", "0 mL"],
+      "correct_index": 2,
+      "explanation_md": "Experiment 3 shows that a sample pre-heated to 60°C produced only 8 mL even when later tested at the ideal 40°C and pH 7, because the heat had already denatured it. The 42 mL and 30 mL values correspond to samples that were never pre-heated to 60°C, and 0 mL is too low, since the damaged enzyme still produced a small, measurable amount of O<sub>2</sub>.",
+      "difficulty": "hard",
+      "topic": "synthesis and prediction"
+    }
+  ]
+}

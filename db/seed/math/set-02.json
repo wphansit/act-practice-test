@@ -1,0 +1,306 @@
+{
+  "section": "math",
+  "passage": null,
+  "questions": [
+    {
+      "position": 21,
+      "stem_md": "What is the slope of the line that passes through the points (2, 5) and (6, 13) in the standard (x, y) coordinate plane?",
+      "choices": [
+        "1/2",
+        "2",
+        "4",
+        "8",
+        "-2"
+      ],
+      "correct_index": 1,
+      "explanation_md": "Slope is the change in y divided by the change in x: (13 - 5)/(6 - 2) = 8/4 = 2. Choosing 1/2 comes from inverting the ratio (Δx over Δy), 8 uses only the change in y, 4 uses only the change in x, and -2 results from subtracting the coordinates in inconsistent orders.",
+      "difficulty": "easy",
+      "topic": "slope"
+    },
+    {
+      "position": 22,
+      "stem_md": "Which of the following values of x is a solution to the equation x<sup>2</sup> - 7x + 12 = 0?",
+      "choices": [
+        "-4",
+        "-3",
+        "2",
+        "3",
+        "6"
+      ],
+      "correct_index": 3,
+      "explanation_md": "Factoring gives (x - 3)(x - 4) = 0, so x = 3 or x = 4; only 3 appears among the choices. The values -3 and -4 come from a sign error when reading the factors, while 2 and 6 do not satisfy the equation (for example, 6<sup>2</sup> - 7(6) + 12 = 6, not 0).",
+      "difficulty": "easy",
+      "topic": "quadratic-factoring"
+    },
+    {
+      "position": 23,
+      "stem_md": "If f(x) = 3x<sup>2</sup> - 2x + 1, what is the value of f(-2)?",
+      "choices": [
+        "-7",
+        "9",
+        "13",
+        "17",
+        "21"
+      ],
+      "correct_index": 3,
+      "explanation_md": "Substitute -2 for x: 3(-2)<sup>2</sup> - 2(-2) + 1 = 3(4) + 4 + 1 = 17. The answer 9 comes from computing -2(-2) as -4 instead of +4, and -7 comes from treating (-2)<sup>2</sup> as -4. The choices 13 and 21 result from other arithmetic slips when combining the three terms.",
+      "difficulty": "easy",
+      "topic": "function-evaluation"
+    },
+    {
+      "position": 24,
+      "stem_md": "In the standard (x, y) coordinate plane, what is the midpoint of the segment with endpoints (-3, 4) and (7, -2)?",
+      "choices": [
+        "(2, 1)",
+        "(5, 1)",
+        "(2, 3)",
+        "(4, 2)",
+        "(5, 3)"
+      ],
+      "correct_index": 0,
+      "explanation_md": "The midpoint averages the coordinates: x = (-3 + 7)/2 = 2 and y = (4 + (-2))/2 = 1, giving (2, 1). Choices with 5 or 3 come from averaging distances instead of coordinates or from dropping the negative signs, and (4, 2) results from halving the differences of the coordinates rather than their sums.",
+      "difficulty": "easy",
+      "topic": "midpoint"
+    },
+    {
+      "position": 25,
+      "stem_md": "Which of the following expressions is equivalent to (2x<sup>3</sup>)<sup>4</sup>?",
+      "choices": [
+        "2x<sup>12</sup>",
+        "8x<sup>7</sup>",
+        "8x<sup>12</sup>",
+        "16x<sup>7</sup>",
+        "16x<sup>12</sup>"
+      ],
+      "correct_index": 4,
+      "explanation_md": "Raise each factor to the 4th power: 2<sup>4</sup> = 16 and (x<sup>3</sup>)<sup>4</sup> = x<sup>12</sup>, so the result is 16x<sup>12</sup>. Answers with x<sup>7</sup> come from adding the exponents 3 and 4 instead of multiplying them, answers with 8 come from cubing 2 instead of raising it to the 4th power, and 2x<sup>12</sup> forgets to apply the power to the coefficient.",
+      "difficulty": "easy",
+      "topic": "exponents"
+    },
+    {
+      "position": 26,
+      "stem_md": "Which of the following describes the solution set of the inequality -3x + 5 > 14?",
+      "choices": [
+        "x < -3",
+        "x > -3",
+        "x < 3",
+        "x > 3",
+        "x < -19/3"
+      ],
+      "correct_index": 0,
+      "explanation_md": "Subtract 5 from both sides to get -3x > 9, then divide by -3 and reverse the inequality sign: x < -3. Choosing x > -3 forgets to flip the inequality when dividing by a negative, x < 3 and x > 3 drop the negative sign, and x < -19/3 comes from adding 5 instead of subtracting it.",
+      "difficulty": "easy",
+      "topic": "linear-inequality"
+    },
+    {
+      "position": 27,
+      "stem_md": "If 2x + 3y = 12 and x - y = 1, what is the value of x?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "5",
+        "6"
+      ],
+      "correct_index": 2,
+      "explanation_md": "From the second equation, x = y + 1. Substituting into the first gives 2(y + 1) + 3y = 12, so 5y = 10 and y = 2, which makes x = 3. The choice 2 is the value of y, 5 is x + y, and 1 and 6 come from substitution errors.",
+      "difficulty": "medium",
+      "topic": "systems-of-equations"
+    },
+    {
+      "position": 28,
+      "stem_md": "In the standard (x, y) coordinate plane, what is the distance between the points (-1, 2) and (5, 10)?",
+      "choices": [
+        "2√7",
+        "8",
+        "10",
+        "14",
+        "100"
+      ],
+      "correct_index": 2,
+      "explanation_md": "The horizontal change is 6 and the vertical change is 8, so the distance is √(6<sup>2</sup> + 8<sup>2</sup>) = √100 = 10. The choice 14 adds the two changes instead of using the distance formula, 100 forgets to take the square root, 8 uses only the vertical change, and 2√7 comes from subtracting 36 from 64 instead of adding.",
+      "difficulty": "medium",
+      "topic": "distance-formula"
+    },
+    {
+      "position": 29,
+      "stem_md": "Which of the following expressions is equal to √48 + √27?",
+      "choices": [
+        "5√3",
+        "7√3",
+        "7√6",
+        "12√3",
+        "5√6"
+      ],
+      "correct_index": 1,
+      "explanation_md": "Simplify each radical: √48 = 4√3 and √27 = 3√3, so the sum is 7√3. 5√3 comes from mis-simplifying √48 as 2√3 before adding, and 5√6 and 7√6 both wrongly change the radicand when combining terms. 12√3 multiplies the coefficients 4 and 3 instead of adding them.",
+      "difficulty": "medium",
+      "topic": "radicals"
+    },
+    {
+      "position": 30,
+      "stem_md": "What is the minimum value of the function y = x<sup>2</sup> - 6x + 11?",
+      "choices": [
+        "-7",
+        "-2",
+        "2",
+        "3",
+        "11"
+      ],
+      "correct_index": 2,
+      "explanation_md": "The vertex occurs at x = -(-6)/(2·1) = 3, and y(3) = 9 - 18 + 11 = 2, so the minimum value is 2. The choice 3 is the x-coordinate of the vertex, not the minimum value; 11 is the y-intercept; and -7 and -2 come from sign errors when evaluating at x = 3.",
+      "difficulty": "medium",
+      "topic": "quadratic-vertex"
+    },
+    {
+      "position": 31,
+      "stem_md": "In the standard (x, y) coordinate plane, which of the following is an equation of the line that passes through (4, -1) and is perpendicular to the line y = 2x + 3?",
+      "choices": [
+        "y = 2x - 9",
+        "y = -2x + 7",
+        "y = (1/2)x - 3",
+        "y = -(1/2)x + 1",
+        "y = -(1/2)x - 1"
+      ],
+      "correct_index": 3,
+      "explanation_md": "A perpendicular line has slope equal to the negative reciprocal of 2, which is -1/2. Using point-slope form through (4, -1): y + 1 = -(1/2)(x - 4), which simplifies to y = -(1/2)x + 1. The choice y = 2x - 9 is parallel rather than perpendicular, y = -2x + 7 negates the slope without taking the reciprocal, y = (1/2)x - 3 forgets the sign change, and y = -(1/2)x - 1 does not pass through (4, -1).",
+      "difficulty": "medium",
+      "topic": "perpendicular-lines"
+    },
+    {
+      "position": 32,
+      "stem_md": "Which of the following describes all real numbers x that satisfy |2x - 5| ≤ 7?",
+      "choices": [
+        "-7 ≤ x ≤ 7",
+        "-6 ≤ x ≤ 1",
+        "-1 ≤ x ≤ 6",
+        "1 ≤ x ≤ 6",
+        "x ≤ -1 or x ≥ 6"
+      ],
+      "correct_index": 2,
+      "explanation_md": "The inequality is equivalent to -7 ≤ 2x - 5 ≤ 7. Adding 5 throughout gives -2 ≤ 2x ≤ 12, and dividing by 2 gives -1 ≤ x ≤ 6. The choice -7 ≤ x ≤ 7 stops before solving for x, the choice with \"or\" describes |2x - 5| ≥ 7 instead, and the other two intervals come from arithmetic errors when isolating x.",
+      "difficulty": "medium",
+      "topic": "absolute-value-inequality"
+    },
+    {
+      "position": 33,
+      "stem_md": "In the standard (x, y) coordinate plane, a circle has the equation x<sup>2</sup> + y<sup>2</sup> - 4x + 6y - 12 = 0. What is the radius of the circle?",
+      "choices": [
+        "2√3",
+        "5",
+        "6",
+        "13",
+        "25"
+      ],
+      "correct_index": 1,
+      "explanation_md": "Completing the square gives (x - 2)<sup>2</sup> + (y + 3)<sup>2</sup> = 12 + 4 + 9 = 25, so the radius is √25 = 5. The choice 25 is the radius squared, 2√3 comes from taking √12 without completing the square, and 6 and 13 come from misusing the coefficients of the equation.",
+      "difficulty": "medium",
+      "topic": "circle-equation"
+    },
+    {
+      "position": 34,
+      "stem_md": "If 3<sup>2x-1</sup> = 27, what is the value of x?",
+      "choices": [
+        "1",
+        "3/2",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_index": 2,
+      "explanation_md": "Since 27 = 3<sup>3</sup>, the exponents must be equal: 2x - 1 = 3, so x = 2. The choice 3/2 comes from solving 2x = 3 after dropping the -1, the choice 3 sets x equal to the exponent of 27 directly, and 1 and 4 come from sign or arithmetic errors when solving 2x - 1 = 3.",
+      "difficulty": "medium",
+      "topic": "exponential-equation"
+    },
+    {
+      "position": 35,
+      "stem_md": "For the functions f(x) = 2x + 1 and g(x) = x<sup>2</sup> - 3, what is the value of f(g(2))?",
+      "choices": [
+        "-1",
+        "1",
+        "3",
+        "5",
+        "22"
+      ],
+      "correct_index": 2,
+      "explanation_md": "Work from the inside out: g(2) = 2<sup>2</sup> - 3 = 1, then f(1) = 2(1) + 1 = 3. The choice 22 is g(f(2)), the composition in the wrong order; 1 stops after finding g(2); 5 is f(2) alone; and -1 comes from a sign error in g(2).",
+      "difficulty": "medium",
+      "topic": "function-composition"
+    },
+    {
+      "position": 36,
+      "stem_md": "In the standard (x, y) coordinate plane, a circle has its center at (-3, 4) and passes through the origin. Which of the following is an equation of the circle?",
+      "choices": [
+        "x<sup>2</sup> + y<sup>2</sup> = 25",
+        "(x - 3)<sup>2</sup> + (y + 4)<sup>2</sup> = 25",
+        "(x + 3)<sup>2</sup> + (y - 4)<sup>2</sup> = 5",
+        "(x + 3)<sup>2</sup> + (y - 4)<sup>2</sup> = 25",
+        "(x - 3)<sup>2</sup> + (y + 4)<sup>2</sup> = 5"
+      ],
+      "correct_index": 3,
+      "explanation_md": "The radius is the distance from (-3, 4) to (0, 0), which is √(9 + 16) = 5, so r<sup>2</sup> = 25 and the equation is (x + 3)<sup>2</sup> + (y - 4)<sup>2</sup> = 25. The choices with (x - 3) and (y + 4) flip the signs of the center incorrectly, the choices equal to 5 use the radius instead of the radius squared, and x<sup>2</sup> + y<sup>2</sup> = 25 is a circle centered at the origin, not at (-3, 4).",
+      "difficulty": "hard",
+      "topic": "circle-equation"
+    },
+    {
+      "position": 37,
+      "stem_md": "For what positive value of k does the equation x<sup>2</sup> + kx + 9 = 0 have exactly one real solution?",
+      "choices": [
+        "3",
+        "6",
+        "9",
+        "12",
+        "18"
+      ],
+      "correct_index": 1,
+      "explanation_md": "A quadratic has exactly one real solution when its discriminant is zero: k<sup>2</sup> - 4(1)(9) = 0, so k<sup>2</sup> = 36 and k = 6. The choice 3 is √9 rather than √36, 9 repeats the constant term, 18 is 2·9, and 12 comes from computing 4·9/3 or a similar discriminant error.",
+      "difficulty": "hard",
+      "topic": "discriminant"
+    },
+    {
+      "position": 38,
+      "stem_md": "For all x > 0, which of the following expressions is equivalent to (16x<sup>8</sup>)<sup>3/4</sup>?",
+      "choices": [
+        "4x<sup>6</sup>",
+        "8x<sup>2</sup>",
+        "8x<sup>6</sup>",
+        "12x<sup>6</sup>",
+        "64x<sup>6</sup>"
+      ],
+      "correct_index": 2,
+      "explanation_md": "Apply the exponent to each factor: 16<sup>3/4</sup> = (2<sup>4</sup>)<sup>3/4</sup> = 2<sup>3</sup> = 8, and (x<sup>8</sup>)<sup>3/4</sup> = x<sup>6</sup>, so the expression equals 8x<sup>6</sup>. The choice 12x<sup>6</sup> multiplies 16 by 3/4 instead of raising it to that power, 4x<sup>6</sup> takes only the fourth root of 16, 64x<sup>6</sup> cubes without taking the fourth root, and 8x<sup>2</sup> divides the exponent 8 by 4 without multiplying by 3.",
+      "difficulty": "hard",
+      "topic": "rational-exponents"
+    },
+    {
+      "position": 39,
+      "stem_md": "A ball is launched upward so that its height, in feet, after t seconds is given by h(t) = -16t<sup>2</sup> + 64t + 80. What is the maximum height, in feet, that the ball reaches?",
+      "choices": [
+        "80",
+        "96",
+        "128",
+        "144",
+        "160"
+      ],
+      "correct_index": 3,
+      "explanation_md": "The maximum occurs at the vertex, where t = -64/(2·(-16)) = 2 seconds, and h(2) = -16(4) + 64(2) + 80 = -64 + 128 + 80 = 144 feet. The choice 80 is the initial height at t = 0, 128 is only the 64t term at t = 2, and 96 and 160 come from arithmetic errors when combining the three terms at the vertex.",
+      "difficulty": "hard",
+      "topic": "quadratic-maximum"
+    },
+    {
+      "position": 40,
+      "stem_md": "In the standard (x, y) coordinate plane, at how many points do the graphs of y = x<sup>2</sup> - 4x + 7 and y = 2x - 2 intersect?",
+      "choices": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "Infinitely many"
+      ],
+      "correct_index": 1,
+      "explanation_md": "Set the expressions equal: x<sup>2</sup> - 4x + 7 = 2x - 2 gives x<sup>2</sup> - 6x + 9 = 0, which factors as (x - 3)<sup>2</sup> = 0. The double root x = 3 means the line is tangent to the parabola, touching it at exactly one point. The choice 2 assumes every line crossing a parabola hits it twice, 0 assumes they miss entirely, and a line and a parabola can never share 3 or infinitely many points.",
+      "difficulty": "hard",
+      "topic": "line-parabola-intersection"
+    }
+  ]
+}

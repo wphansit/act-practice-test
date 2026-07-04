@@ -1,0 +1,95 @@
+{
+  "section": "science",
+  "passage": {
+    "position": 5,
+    "title": "Shrapnel or Sibling: The Contested Birth of the Moon",
+    "kind": "conflicting_viewpoints",
+    "body_md": "The Moon is unusually large relative to its planet, and several of its properties constrain hypotheses about how it formed. The Moon's bulk density (3.3 g/cm<sup>3</sup>) is far lower than Earth's (5.5 g/cm<sup>3</sup>), and its iron core makes up only about 2% of its mass, compared with roughly 30% for Earth. Lunar rocks returned by spacecraft have oxygen-isotope ratios indistinguishable from those of Earth's mantle, yet the rocks are strongly depleted in *volatiles*—easily vaporized substances such as water, potassium, and zinc. Finally, the Earth–Moon system carries a large amount of angular momentum (a measure of the total spin and orbital motion of the system). Two scientists debate the Moon's origin.\n\n## Scientist 1\n\nThe Moon formed from a giant impact. About 4.5 billion years ago, a Mars-sized body, Theia, struck the proto-Earth at an oblique angle. The collision ejected molten and vaporized rock—drawn mostly from the rocky outer layers of both bodies—into a disk orbiting Earth, and this debris coalesced into the Moon within about 100 years. Because the dense iron of both bodies had already sunk to their centers, and Theia's core merged with Earth's during the collision, the debris disk contained little iron; this explains the Moon's small core and low density. The disk was hot enough to vaporize rock, so volatiles escaped to space before the Moon solidified, explaining the depletion of water, potassium, and zinc. Vigorous mixing between the vapor disk and Earth's molten outer layers homogenized their compositions, which is why lunar and terrestrial oxygen-isotope ratios match. A single oblique impact of a Mars-sized body also naturally delivers the large angular momentum observed in the Earth–Moon system today.\n\n## Scientist 2\n\nThe Moon and Earth formed together. Both bodies accreted side by side from the same narrow zone of the solar nebula, the disk of gas and dust that surrounded the young Sun. Bodies that grow from the same feeding zone inherit the same isotopic composition, so the identical oxygen-isotope ratios of Earth and the Moon require no special mixing event. In contrast, computer simulations of giant impacts indicate that the resulting debris disk should be composed largely of impactor material, and a body like Theia that formed elsewhere in the nebula should have had measurably different isotope ratios—Martian meteorites, for example, differ clearly from Earth rocks in oxygen isotopes. The Moon's small iron core is explained by co-formation: as the two bodies grew, dense, metal-rich grains were preferentially swept up by the more massive proto-Earth, leaving mostly rocky, iron-poor material to build the Moon. The Moon's volatile depletion reflects its small size: heat released during accretion drove off volatiles, and the Moon's weak gravity could not hold them. The giant-impact hypothesis, by contrast, requires an improbably fine-tuned collision—one with just the right impactor mass, speed, and angle—to reproduce the Moon we observe."
+  },
+  "questions": [
+    {
+      "position": 28,
+      "stem_md": "According to Scientist 1, most of the material that eventually formed the Moon came from:",
+      "choices": [
+        "the rocky outer layers of the proto-Earth and Theia.",
+        "the iron cores of the proto-Earth and Theia.",
+        "an asteroid that was captured intact by Earth's gravity.",
+        "gas and dust remaining in the solar nebula after Earth formed."
+      ],
+      "correct_index": 0,
+      "explanation_md": "Scientist 1 states that the impact ejected debris \"drawn mostly from the rocky outer layers of both bodies.\" The iron cores are explicitly excluded—Scientist 1 says the iron had sunk to the bodies' centers and Theia's core merged with Earth's. Capture of an intact asteroid is not proposed by either scientist, and formation from leftover nebular gas and dust is Scientist 2's view, not Scientist 1's.",
+      "difficulty": "easy",
+      "topic": "conflicting viewpoints: detail"
+    },
+    {
+      "position": 29,
+      "stem_md": "Scientist 2 accounts for the identical oxygen-isotope ratios of lunar rocks and Earth's mantle by proposing that the Moon and Earth:",
+      "choices": [
+        "were homogenized by mixing within a vapor disk after a collision.",
+        "accreted from the same zone of the solar nebula.",
+        "exchanged material through repeated smaller impacts over billions of years.",
+        "both lost their volatile elements at the same time."
+      ],
+      "correct_index": 1,
+      "explanation_md": "Scientist 2 argues that bodies growing from the same feeding zone of the nebula \"inherit the same isotopic composition,\" so no mixing event is needed. Homogenization in a vapor disk is Scientist 1's explanation. Neither scientist mentions repeated smaller impacts, and volatile loss concerns elements like water and zinc, not oxygen-isotope ratios.",
+      "difficulty": "easy",
+      "topic": "conflicting viewpoints: detail"
+    },
+    {
+      "position": 30,
+      "stem_md": "The two scientists would most likely agree with which of the following statements about the Moon?",
+      "choices": [
+        "It contains proportionally far less iron than Earth does.",
+        "It formed from debris produced by a collision with a Mars-sized body.",
+        "It lost its volatiles because a vaporized debris disk was too hot to retain them.",
+        "It formed in a different region of the solar nebula than Earth did."
+      ],
+      "correct_index": 0,
+      "explanation_md": "Both scientists take the Moon's small iron core (about 2% of its mass versus about 30% for Earth) as an observation that any hypothesis must explain; they disagree only about the cause. A collision origin is held by Scientist 1 alone, and the hot-disk explanation for volatile loss is also Scientist 1's alone. Neither scientist claims the Moon formed in a different nebular region—Scientist 2 explicitly places it in the same zone as Earth.",
+      "difficulty": "medium",
+      "topic": "conflicting viewpoints: point of agreement"
+    },
+    {
+      "position": 31,
+      "stem_md": "Suppose new, high-precision analyses revealed that lunar samples differ slightly but measurably from Earth's mantle in the isotope ratios of a trace metal. This finding would be most consistent with the position of:",
+      "choices": [
+        "Scientist 1, because incomplete mixing could leave a trace of Theia's distinct composition in the Moon.",
+        "Scientist 1, because volatile loss from the debris disk would have altered every isotope ratio equally.",
+        "Scientist 2, because bodies formed in the same feeding zone must have identical compositions.",
+        "Scientist 2, because dense metal grains were preferentially swept up by the proto-Earth."
+      ],
+      "correct_index": 0,
+      "explanation_md": "A small compositional difference is what the giant-impact hypothesis would predict if mixing between the disk and Earth were vigorous but not perfectly complete: a remnant of Theia's foreign material could survive in the Moon. Scientist 2's same-feeding-zone model predicts identical compositions, so a measurable difference undercuts that view rather than supporting it. The second choice is wrong because volatile loss affects volatile abundances, and nothing in the passage says it would shift all isotope ratios equally; the fourth choice describes how the Moon got less iron overall, not why its isotope ratios would differ.",
+      "difficulty": "medium",
+      "topic": "conflicting viewpoints: evaluating new evidence"
+    },
+    {
+      "position": 32,
+      "stem_md": "Scientist 2 would most likely respond to Scientist 1's explanation of the Moon's volatile depletion by arguing that the depletion:",
+      "choices": [
+        "does not require a giant impact, because accretional heating and the Moon's weak gravity could also drive off volatiles.",
+        "did not actually occur, because lunar rocks contain abundant water, potassium, and zinc.",
+        "occurred only after the Moon's iron core had finished forming.",
+        "proves that Theia was much smaller than a Mars-sized body."
+      ],
+      "correct_index": 0,
+      "explanation_md": "Scientist 2 explicitly attributes the volatile depletion to heat released during accretion plus the Moon's inability to gravitationally retain volatiles—an explanation that makes the impact unnecessary. The second choice contradicts the passage, which states that lunar rocks are strongly depleted in water, potassium, and zinc. Neither scientist links the timing of volatile loss to core formation, and Scientist 2 questions the impact's plausibility rather than Theia's exact size.",
+      "difficulty": "medium",
+      "topic": "conflicting viewpoints: counterargument"
+    },
+    {
+      "position": 33,
+      "stem_md": "Which of the following findings, if confirmed, would be most difficult for Scientist 2 to explain?",
+      "choices": [
+        "The oxygen-isotope ratios of lunar rocks are indistinguishable from those of Earth's mantle.",
+        "The Moon's iron core makes up only about 2% of its mass.",
+        "The Earth–Moon system's angular momentum matches the value delivered by a single oblique impact of a Mars-sized body and greatly exceeds what side-by-side accretion can produce.",
+        "Lunar rocks are strongly depleted in water, potassium, and zinc."
+      ],
+      "correct_index": 2,
+      "explanation_md": "Scientist 2's model offers explanations for the isotope match (same feeding zone), the small core (metal grains swept up by the proto-Earth), and the volatile depletion (accretional heating plus weak gravity), so the first, second, and fourth choices pose no problem for that view. Angular momentum is the one observation Scientist 2 never addresses, and Scientist 1 notes that an oblique giant impact \"naturally delivers\" it; a confirmed match to the impact value that exceeds what co-accretion can produce would therefore directly favor the impact hypothesis over co-formation.",
+      "difficulty": "hard",
+      "topic": "conflicting viewpoints: evaluating hypotheses"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "section": "english",
+  "passage": {
+    "position": 4,
+    "title": "Pressed to Last",
+    "kind": null,
+    "body_md": "In a converted garage on the edge of Cincinnati, a cast-iron press built in 1893 <u data-q=\"46\">groans, shudders, and settles</u> into its evening rhythm. Its operator, a former web designer named Dana Ruiz, feeds sheets of cotton paper into the machine one at a time. <u data-q=\"47\">Each sheet emerges carrying a wedding invitation, the letters pressed so deeply into the fiber that a fingertip can trace every word.</u>\n\nFifty years ago, presses like this one were being hauled to scrapyards by the truckload. Offset lithography and, later, digital printing could produce thousands of flawless pages in the time a letterpress operator needed to arrange a single tray of metal type. Printers who had spent decades <u data-q=\"48\">mastering the trade, they watched</u> it dissolve within a generation. By the 1980s, letterpress survived mainly in museums, where docents cranked the old machines for schoolchildren on field trips.\n\nYet the very qualities that doomed letterpress as an industry — its slowness, its physical demands, its refusal to hide the maker's hand — <u data-q=\"49\">has become</u> the source of its revival. In the early 2000s, small studios started rescuing abandoned equipment, often paying little more than the cost of hauling machines that weigh as much as a pickup truck. The internet, oddly enough, sped the recovery of this pre-digital craft: scattered revivalists traded rollers, spare parts, and <u data-q=\"50\">hard-won</u> advice on message boards, and a trade once passed down through formal apprenticeships rebuilt itself through video tutorials. Much of the early press coverage treated these printers as hobbyists chasing a quaint, outdated pastime.\n\n<u data-q=\"51\">Therefore,</u> the revival is not simply nostalgia. Designers who spend their working days nudging pixels describe the press as a corrective — a machine whose work <u data-q=\"52\">refuses and declines</u> to be undone with a keystroke. Every decision is physical and final. If a line of type is set crooked, the printer must unlock the metal form, reset the letters, and start again. Ruiz, <u data-q=\"53\">whose studio now employs three assistants,</u> says that this finality is precisely what her clients are buying. \"A file can be duplicated forever,\" she told a design conference last spring. \"An impression happens once.\"\n\nThe economics of the revival remain modest but real. A typical studio prints wedding suites, concert posters, and limited-edition books; when one lands a commission too large for its own presses, <u data-q=\"54\">they often subcontract</u> the overflow to a nearby shop rather than turn the work away. Trade organizations that had dwindled to a handful of aging members now <u data-q=\"55\">reported</u> waiting lists for their weekend workshops.\n\nUniversities have noticed, too. A decade ago, most design programs had scrapped their type shops to free up floor space. <u data-q=\"56\">Today, several schools have reinstalled presses, arguing that students who set type by hand internalize spacing and proportion in a way no screen can teach.</u> At some schools, the letterpress elective fills within hours of registration opening.\n\nSkeptics wonder how long the movement can last. The machines themselves demand patience of a different order. <u data-q=\"57\">Weighing nearly a ton, Ruiz needed borrowed rigging gear and four strong friends to move her press</u> into the garage, and replacement parts often must be machined by hand. Metal type, meanwhile, is no longer manufactured at scale, and <u data-q=\"58\">each impression slightly wears the letters that remain.</u>\n\nYet scarcity may be part of the appeal. In an age when most words flicker onto screens and vanish, a letterpress page insists on staying put. <u data-q=\"59\">Ruiz, for her part, still takes an occasional web-design job to smooth out her cash flow.</u> Late in the evening, after her assistants have gone home, she often prints a single keepsake card for no client at all — a line of poetry, set in type older than her grandmother, pressed into paper she trimmed by hand. The garage smells of ink and machine oil, and the old press waits for morning."
+  },
+  "questions": [
+    {
+      "position": 46,
+      "stem_md": "Choose the best version of the underlined portion.",
+      "choices": [
+        "NO CHANGE",
+        "groans shudders and settles",
+        "groans, shudders, and, settles",
+        "groans, shudders and, settles"
+      ],
+      "correct_index": 0,
+      "explanation_md": "Three verbs in a series are correctly separated by commas, with a comma before the conjunction: \"groans, shudders, and settles.\" The second choice omits all commas, and the third and fourth choices insert an unnecessary comma after \"and,\" which incorrectly separates the conjunction from the final verb.",
+      "difficulty": "easy",
+      "topic": "commas in a series"
+    },
+    {
+      "position": 47,
+      "stem_md": "The writer is considering adding the following sentence immediately after the underlined sentence: \"Printers call the bite of type into paper an 'impression,' and Ruiz's customers pay extra for a deep one.\" Should the writer make this addition?",
+      "choices": [
+        "Yes, because it identifies the price of a typical wedding invitation.",
+        "Yes, because it defines a key term and explains why the deep lettering described in the paragraph matters to Ruiz's business.",
+        "No, because it introduces technical vocabulary that contradicts the paragraph's informal tone.",
+        "No, because the paragraph is about Ruiz's garage, not about her customers."
+      ],
+      "correct_index": 1,
+      "explanation_md": "The underlined sentence describes letters \"pressed so deeply into the fiber that a fingertip can trace every word\"; the new sentence names that effect (an \"impression\") and links it to customer demand, so it directly extends the paragraph's point. The first choice is wrong because no price is given. The third is wrong because a single defined term does not clash with the tone, and the fourth misstates the paragraph's focus, which is Ruiz's printing work, not the garage itself.",
+      "difficulty": "medium",
+      "topic": "adding a sentence"
+    },
+    {
+      "position": 48,
+      "stem_md": "Choose the best version of the underlined portion.",
+      "choices": [
+        "NO CHANGE",
+        "mastering the trade, watching",
+        "mastering the trade watched",
+        "mastering the trade; they watched"
+      ],
+      "correct_index": 2,
+      "explanation_md": "The subject of the sentence is \"Printers who had spent decades mastering the trade,\" so the main verb \"watched\" must follow directly: \"Printers ... watched it dissolve.\" The original version inserts the redundant pronoun \"they,\" creating an ungrammatical double subject. \"Watching\" leaves the sentence without a main verb, and the semicolon strands an incomplete clause before it.",
+      "difficulty": "medium",
+      "topic": "sentence structure"
+    },
+    {
+      "position": 49,
+      "stem_md": "Choose the best version of the underlined portion.",
+      "choices": [
+        "NO CHANGE",
+        "have become",
+        "has became",
+        "becoming"
+      ],
+      "correct_index": 1,
+      "explanation_md": "The subject of the verb is the plural noun \"qualities\" (\"the very qualities that doomed letterpress ... have become\"), so the plural verb \"have become\" is required. The singular \"has become\" does not agree with the subject; \"has became\" pairs a helping verb with the wrong past form; and \"becoming\" leaves the sentence without a main verb.",
+      "difficulty": "medium",
+      "topic": "subject-verb agreement"
+    },
+    {
+      "position": 50,
+      "stem_md": "Choose the best version of the underlined portion.",
+      "choices": [
+        "NO CHANGE",
+        "difficultly earned",
+        "strenuous",
+        "problematic"
+      ],
+      "correct_index": 0,
+      "explanation_md": "\"Hard-won advice\" idiomatically conveys knowledge gained through long effort, which fits the context of revivalists sharing what they learned the hard way. \"Difficultly earned\" is awkward and unidiomatic, \"strenuous\" describes physical exertion rather than advice, and \"problematic\" would wrongly suggest the advice itself was flawed.",
+      "difficulty": "easy",
+      "topic": "word choice"
+    },
+    {
+      "position": 51,
+      "stem_md": "Choose the best version of the underlined portion.",
+      "choices": [
+        "NO CHANGE",
+        "Similarly,",
+        "For instance,",
+        "However,"
+      ],
+      "correct_index": 3,
+      "explanation_md": "The previous sentence says early coverage dismissed the printers as hobbyists chasing a \"quaint, outdated pastime,\" while this sentence asserts that the revival \"is not simply nostalgia\" — a contrast, so \"However,\" is correct. \"Therefore\" wrongly signals a conclusion drawn from the dismissal, \"Similarly\" wrongly signals agreement, and \"For instance\" wrongly signals an example of the dismissive view.",
+      "difficulty": "easy",
+      "topic": "transitions"
+    },
+    {
+      "position": 52,
+      "stem_md": "Choose the best version of the underlined portion.",
+      "choices": [
+        "NO CHANGE",
+        "refuses",
+        "refuses, and it also declines,",
+        "refuses, declining"
+      ],
+      "correct_index": 1,
+      "explanation_md": "\"Refuses\" and \"declines\" mean the same thing here, so using both is redundant; the single verb \"refuses\" is the most concise correct choice. The original and the third choice repeat the same idea in two words, and \"refuses, declining\" adds a dangling participle that restates the verb without adding meaning.",
+      "difficulty": "easy",
+      "topic": "redundancy"
+    },
+    {
+      "position": 53,
+      "stem_md": "Choose the best version of the underlined portion.",
+      "choices": [
+        "NO CHANGE",
+        "whose studio, now employs three assistants,",
+        "whose studio now employs three assistants",
+        "whose studio now employs, three assistants,"
+      ],
+      "correct_index": 0,
+      "explanation_md": "The clause \"whose studio now employs three assistants\" is nonessential information about Ruiz, so it must be set off by commas on both sides — the original punctuation is correct. The second choice splits the subject \"studio\" from its verb with a comma, the third drops the required closing comma, and the fourth separates the verb \"employs\" from its object.",
+      "difficulty": "medium",
+      "topic": "nonessential clauses"
+    },
+    {
+      "position": 54,
+      "stem_md": "Choose the best version of the underlined portion.",
+      "choices": [
+        "NO CHANGE",
+        "they often subcontracts",
+        "it often subcontracts",
+        "it often subcontract"
+      ],
+      "correct_index": 2,
+      "explanation_md": "The pronoun refers to \"one\" (a single studio), so the singular pronoun \"it\" with the singular verb \"subcontracts\" is required. \"They\" does not agree with the singular antecedent, \"they ... subcontracts\" mismatches a plural pronoun with a singular verb, and \"it ... subcontract\" mismatches a singular pronoun with a plural verb.",
+      "difficulty": "medium",
+      "topic": "pronoun agreement"
+    },
+    {
+      "position": 55,
+      "stem_md": "Choose the best version of the underlined portion.",
+      "choices": [
+        "NO CHANGE",
+        "report",
+        "will have reported",
+        "had reported"
+      ],
+      "correct_index": 1,
+      "explanation_md": "The word \"now\" signals the present, and the sentence contrasts the organizations' past decline (\"had dwindled\") with their current state, so the present-tense \"report\" is correct. The past tense \"reported\" clashes with \"now,\" while \"will have reported\" and \"had reported\" shift to future-perfect and past-perfect time frames the sentence does not describe.",
+      "difficulty": "easy",
+      "topic": "verb tense"
+    },
+    {
+      "position": 56,
+      "stem_md": "The writer wants to add the following sentence to the paragraph containing the underlined sentence: \"Letterpress-trained alumni, some of whom now run their own studios, began urging their former departments to bring the machines back.\" The sentence would most logically be placed:",
+      "choices": [
+        "at the beginning of the paragraph, before \"Universities have noticed, too.\"",
+        "after \"Universities have noticed, too.\" and before the sentence beginning \"A decade ago.\"",
+        "immediately before the underlined sentence.",
+        "immediately after the underlined sentence."
+      ],
+      "correct_index": 2,
+      "explanation_md": "The added sentence explains what caused schools to reverse course, so it belongs after the statement that programs \"had scrapped their type shops\" and immediately before the underlined sentence reporting that schools \"have reinstalled presses.\" At the beginning of the paragraph or before the sentence beginning \"A decade ago,\" the alumni's urging would come before the reader learns the shops were removed, and immediately after the underlined sentence it would arrive after the reinstallation it is meant to explain.",
+      "difficulty": "hard",
+      "topic": "sentence placement"
+    },
+    {
+      "position": 57,
+      "stem_md": "Choose the best version of the underlined portion.",
+      "choices": [
+        "NO CHANGE",
+        "Weighing nearly a ton, four strong friends and borrowed rigging gear were needed by Ruiz to move her press",
+        "Ruiz, weighing nearly a ton, needed borrowed rigging gear and four strong friends to move her press",
+        "Because the press weighs nearly a ton, Ruiz needed borrowed rigging gear and four strong friends to move it"
+      ],
+      "correct_index": 3,
+      "explanation_md": "Only the last choice makes clear that the press, not a person, weighs nearly a ton. The original dangling modifier says Ruiz weighs a ton; the second choice attaches the weight to the four friends and the rigging gear; and the third choice explicitly (and absurdly) describes Ruiz as weighing nearly a ton.",
+      "difficulty": "medium",
+      "topic": "misplaced modifiers"
+    },
+    {
+      "position": 58,
+      "stem_md": "The writer wants to add a sentence immediately after the underlined portion, emphasizing how scarce traditional letterpress materials have become. Which choice best accomplishes that goal?",
+      "choices": [
+        "Many printers also enjoy collecting antique bookbinding tools.",
+        "Some typefaces survive in only a handful of complete sets, and printers trade them as carefully as rare coins.",
+        "Metal type is measured in points, a unit equal to about 1/72 of an inch.",
+        "Wood type, an alternative to metal, is considerably lighter to handle."
+      ],
+      "correct_index": 1,
+      "explanation_md": "The detail that some typefaces \"survive in only a handful of complete sets\" and are traded like rare coins directly dramatizes scarcity, extending the sentence about type no longer being manufactured. Collecting bookbinding tools is off topic, the definition of a point describes measurement rather than scarcity, and the weight of wood type addresses handling, not supply.",
+      "difficulty": "medium",
+      "topic": "supporting detail"
+    },
+    {
+      "position": 59,
+      "stem_md": "The writer is considering deleting the underlined sentence. Should the sentence be kept or deleted?",
+      "choices": [
+        "Kept, because it shows that letterpress printing alone cannot support a studio.",
+        "Kept, because it reminds readers of Ruiz's earlier career mentioned in the first paragraph.",
+        "Deleted, because it interrupts the paragraph's focus on the lasting, physical appeal of letterpress work.",
+        "Deleted, because it contradicts the essay's earlier claim that the revival's economics are modest but real."
+      ],
+      "correct_index": 2,
+      "explanation_md": "The final paragraph is a closing meditation on permanence — pages that \"insist on staying put\" and a keepsake card printed for no client — so a detail about supplemental web-design income breaks the paragraph's focus and should be deleted. The first choice overstates what one anecdote shows, the callback to her earlier career does not serve this paragraph's purpose, and the sentence is consistent with, not contradictory to, the essay's claim of modest economics.",
+      "difficulty": "hard",
+      "topic": "deleting a sentence"
+    },
+    {
+      "position": 60,
+      "stem_md": "This question asks about the passage as a whole. Suppose the writer's goal had been to write an essay showing how a craft once considered obsolete can find new life. Would this essay accomplish that goal?",
+      "choices": [
+        "Yes, because it traces letterpress printing from near extinction to a revival driven by the craft's distinctive qualities.",
+        "Yes, because it proves that letterpress printing is now more profitable than digital printing.",
+        "No, because it focuses on a single printer rather than on the craft as a whole.",
+        "No, because it concludes that scarcity of materials will soon end the revival."
+      ],
+      "correct_index": 0,
+      "explanation_md": "The essay follows letterpress from scrapyards and museum demonstrations through studio rescues, growing workshops, and university type shops, explaining that the craft's slowness and physicality fueled its return — exactly the arc of an obsolete craft finding new life. The essay never claims letterpress outearns digital printing; Ruiz is an illustrative example within a broader account, not the sole focus; and the conclusion presents scarcity as part of the appeal, not as the revival's end.",
+      "difficulty": "hard",
+      "topic": "writer's goal"
+    }
+  ]
+}

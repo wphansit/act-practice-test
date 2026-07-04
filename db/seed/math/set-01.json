@@ -1,0 +1,186 @@
+{
+  "section": "math",
+  "passage": null,
+  "questions": [
+    {
+      "position": 1,
+      "stem_md": "What is the value of 7 − 3 × (−4)?",
+      "choices": ["−16", "−5", "4", "12", "19"],
+      "correct_index": 4,
+      "explanation_md": "By order of operations, multiply first: 3 × (−4) = −12, so the expression is 7 − (−12) = 7 + 12 = 19. Choosing −5 comes from computing 7 − 12, dropping the negative sign; −16 comes from subtracting first, (7 − 3) × (−4). The answers 4 and 12 use only part of the expression.",
+      "difficulty": "easy",
+      "topic": "integer operations"
+    },
+    {
+      "position": 2,
+      "stem_md": "A jacket originally priced at $80 is on sale for 25% off the original price. What is the sale price of the jacket?",
+      "choices": ["$20", "$55", "$60", "$65", "$75"],
+      "correct_index": 2,
+      "explanation_md": "The discount is 25% of $80, which is 0.25 × 80 = $20, so the sale price is 80 − 20 = $60. The choice $20 is the discount amount, not the price. Choices $55 and $65 subtract the wrong discount, and $75 subtracts 25 dollars' worth of the percent as if it were $5.",
+      "difficulty": "easy",
+      "topic": "percentages"
+    },
+    {
+      "position": 3,
+      "stem_md": "If 3x + 7 = 22, then x = ?",
+      "choices": ["3", "5", "7", "9", "15"],
+      "correct_index": 1,
+      "explanation_md": "Subtract 7 from both sides to get 3x = 15, then divide by 3 to get x = 5. The choice 15 stops after subtracting 7 without dividing. Choosing 3 or 9 comes from dividing incorrectly, and 7 simply repeats a number in the equation.",
+      "difficulty": "easy",
+      "topic": "linear equations"
+    },
+    {
+      "position": 4,
+      "stem_md": "A bag contains 4 red marbles, 5 blue marbles, and 3 green marbles. If one marble is drawn at random from the bag, what is the probability that it is blue?",
+      "choices": ["1/12", "1/4", "1/3", "5/12", "7/12"],
+      "correct_index": 3,
+      "explanation_md": "There are 4 + 5 + 3 = 12 marbles in all, and 5 of them are blue, so the probability is 5/12. The fraction 1/4 (= 3/12) is the probability of green, and 1/3 (= 4/12) is the probability of red. The fraction 7/12 is the probability of NOT drawing blue, and 1/12 would apply only if a single marble were blue.",
+      "difficulty": "easy",
+      "topic": "probability"
+    },
+    {
+      "position": 5,
+      "stem_md": "In a science club, the ratio of boys to girls is 3:5. If the club has 24 members in all, how many girls are in the club?",
+      "choices": ["9", "12", "15", "18", "21"],
+      "correct_index": 2,
+      "explanation_md": "The ratio 3:5 means each group of 3 + 5 = 8 members contains 5 girls. Since 24 ÷ 8 = 3, there are 5 × 3 = 15 girls. The choice 9 is the number of boys, and 12 assumes an even split. Choices 18 and 21 do not fit the 3:5 ratio with 24 total members.",
+      "difficulty": "easy",
+      "topic": "ratios"
+    },
+    {
+      "position": 6,
+      "stem_md": "Kayla answered 85% of the 60 questions on a test correctly. How many questions did she answer correctly?",
+      "choices": ["42", "45", "48", "51", "57"],
+      "correct_index": 3,
+      "explanation_md": "Multiply: 0.85 × 60 = 51. The choice 45 is 75% of 60 and 48 is 80% of 60, both from misreading the percent. The choice 57 is 95% of 60, and 42 is 70% of 60.",
+      "difficulty": "easy",
+      "topic": "percentages"
+    },
+    {
+      "position": 7,
+      "stem_md": "The average (arithmetic mean) of 5 numbers is 12. Four of the numbers are 10, 11, 14, and 15. What is the fifth number?",
+      "choices": ["8", "10", "12", "14", "50"],
+      "correct_index": 1,
+      "explanation_md": "If the mean of 5 numbers is 12, their sum is 5 × 12 = 60. The four known numbers add to 10 + 11 + 14 + 15 = 50, so the fifth number is 60 − 50 = 10. Choosing 12 assumes the fifth number must equal the mean, and 50 is the sum of the four given numbers, not the missing one.",
+      "difficulty": "easy",
+      "topic": "mean"
+    },
+    {
+      "position": 8,
+      "stem_md": "At a farm stand, 3 pounds of apples cost $4.50. At this rate, how much do 8 pounds of apples cost?",
+      "choices": ["$9.00", "$10.50", "$12.00", "$13.50", "$36.00"],
+      "correct_index": 2,
+      "explanation_md": "The unit price is $4.50 ÷ 3 = $1.50 per pound, so 8 pounds cost 8 × $1.50 = $12.00. The choice $13.50 is the cost of 9 pounds, and $9.00 is the cost of 6 pounds. The choice $36.00 comes from multiplying $4.50 by 8 without dividing by 3 first.",
+      "difficulty": "easy",
+      "topic": "proportions"
+    },
+    {
+      "position": 9,
+      "stem_md": "If a = 4 and b = −3, what is the value of 2a − b<sup>2</sup>?",
+      "choices": ["−17", "−1", "5", "11", "17"],
+      "correct_index": 1,
+      "explanation_md": "Substitute: 2(4) − (−3)<sup>2</sup> = 8 − 9 = −1, because (−3)<sup>2</sup> = 9 and the whole square is subtracted. The choice 17 treats −b<sup>2</sup> as +9, and 5 forgets to square b (8 − 3). The choice 11 adds 3 instead of subtracting 9, and −17 flips the sign of the entire expression.",
+      "difficulty": "medium",
+      "topic": "substitution"
+    },
+    {
+      "position": 10,
+      "stem_md": "Which of the following expressions is equivalent to 5(2x − 3) + 4x?",
+      "choices": ["6x − 15", "10x − 15", "14x − 15", "14x − 3", "14x + 15"],
+      "correct_index": 2,
+      "explanation_md": "Distribute the 5 to get 10x − 15, then add 4x: 10x − 15 + 4x = 14x − 15. The choice 10x − 15 forgets to add the 4x, and 14x − 3 fails to multiply −3 by 5. The choice 14x + 15 makes a sign error, and 6x − 15 mishandles the distribution of 5 across 2x.",
+      "difficulty": "medium",
+      "topic": "distributive property"
+    },
+    {
+      "position": 11,
+      "stem_md": "If x/3 − 2 = 7, then x = ?",
+      "choices": ["15", "21", "24", "27", "30"],
+      "correct_index": 3,
+      "explanation_md": "Add 2 to both sides to get x/3 = 9, then multiply both sides by 3 to get x = 27. The choice 15 comes from subtracting 2 instead of adding (x/3 = 5), and 21 multiplies 7 by 3 before adding 2. Choices 24 and 30 result from adding or subtracting incorrectly after multiplying.",
+      "difficulty": "medium",
+      "topic": "linear equations"
+    },
+    {
+      "position": 12,
+      "stem_md": "A car travels 180 miles using 6 gallons of gasoline. At this rate, how many gallons of gasoline will the car use to travel 420 miles?",
+      "choices": ["11", "12", "13", "14", "16"],
+      "correct_index": 3,
+      "explanation_md": "The car gets 180 ÷ 6 = 30 miles per gallon, so 420 miles requires 420 ÷ 30 = 14 gallons. The other choices come from arithmetic slips: for example, 12 results from rounding the rate to 35 miles per gallon, and 16 from using a rate near 26 miles per gallon. Setting up the proportion 180/6 = 420/x also gives x = 14.",
+      "difficulty": "medium",
+      "topic": "rates"
+    },
+    {
+      "position": 13,
+      "stem_md": "The population of a town grew from 2,500 to 2,900 over one decade. By what percent did the population increase?",
+      "choices": ["4%", "13.8%", "16%", "40%", "116%"],
+      "correct_index": 2,
+      "explanation_md": "Percent increase equals the change divided by the ORIGINAL amount: (2,900 − 2,500)/2,500 = 400/2,500 = 0.16 = 16%. The choice 13.8% divides the change by the new population, 2,900, instead of the original. The choice 4% misplaces the decimal, 40% drops a zero from the denominator, and 116% is the new population as a percent of the old, not the increase.",
+      "difficulty": "medium",
+      "topic": "percent change"
+    },
+    {
+      "position": 14,
+      "stem_md": "Which of the following expressions is equivalent to (x + 6)(x − 4)?",
+      "choices": ["x<sup>2</sup> − 24", "x<sup>2</sup> − 2x − 24", "x<sup>2</sup> + 2x − 24", "x<sup>2</sup> + 2x + 24", "x<sup>2</sup> + 10x − 24"],
+      "correct_index": 2,
+      "explanation_md": "Using FOIL: x·x + x·(−4) + 6·x + 6·(−4) = x<sup>2</sup> − 4x + 6x − 24 = x<sup>2</sup> + 2x − 24. The choice x<sup>2</sup> − 24 omits the middle terms, and x<sup>2</sup> − 2x − 24 gets the sign of the middle term wrong. The choice x<sup>2</sup> + 10x − 24 adds 6 and 4 instead of combining −4x and +6x, and x<sup>2</sup> + 2x + 24 has the wrong sign on the constant.",
+      "difficulty": "medium",
+      "topic": "FOIL"
+    },
+    {
+      "position": 15,
+      "stem_md": "After 4 tests, Marco's average (arithmetic mean) score is 82. What score must he earn on his 5th test so that his average for all 5 tests is exactly 85?",
+      "choices": ["85", "88", "91", "94", "97"],
+      "correct_index": 4,
+      "explanation_md": "To average 85 on 5 tests, Marco needs a total of 5 × 85 = 425 points. His current total is 4 × 82 = 328, so he needs 425 − 328 = 97. Choosing 85 ignores that his earlier scores drag the average down, and 88 (85 + 3) underestimates because the 3-point gap applies to all 5 tests, not just one.",
+      "difficulty": "medium",
+      "topic": "mean"
+    },
+    {
+      "position": 16,
+      "stem_md": "The average (arithmetic mean) of 6 numbers is 9. When a 7th number is added to the list, the average of all 7 numbers is 10. What is the 7th number?",
+      "choices": ["13", "16", "19", "24", "70"],
+      "correct_index": 1,
+      "explanation_md": "The original 6 numbers sum to 6 × 9 = 54, and the 7 numbers must sum to 7 × 10 = 70, so the new number is 70 − 54 = 16. The choice 70 is the new total, not the added number. Choices 13 and 19 come from adding or subtracting the two means incorrectly, and 24 uses 6 × 13 in error.",
+      "difficulty": "medium",
+      "topic": "mean"
+    },
+    {
+      "position": 17,
+      "stem_md": "A jar contains 6 red buttons and some white buttons. If the probability of randomly drawing a red button from the jar is 3/5, how many white buttons are in the jar?",
+      "choices": ["2", "4", "6", "9", "10"],
+      "correct_index": 1,
+      "explanation_md": "Let w be the number of white buttons; then 6/(6 + w) = 3/5. Cross-multiplying gives 30 = 18 + 3w, so 3w = 12 and w = 4. The choice 10 is the TOTAL number of buttons, and 6 assumes equal numbers of each color. Choices 2 and 9 do not make the red fraction equal 3/5.",
+      "difficulty": "medium",
+      "topic": "probability"
+    },
+    {
+      "position": 18,
+      "stem_md": "What is the value of x<sup>3</sup> − 2x<sup>2</sup> + 5 when x = −2?",
+      "choices": ["−11", "−3", "1", "5", "21"],
+      "correct_index": 0,
+      "explanation_md": "Substitute x = −2: (−2)<sup>3</sup> = −8 and 2(−2)<sup>2</sup> = 2(4) = 8, so the value is −8 − 8 + 5 = −11. The choice 21 treats both terms as positive (8 + 8 + 5), and 5 comes from the sign error −8 + 8 + 5. The choice 1 computes 2x<sup>2</sup> as 4 instead of 8, and −3 mixes up the middle term's sign and value.",
+      "difficulty": "hard",
+      "topic": "substitution"
+    },
+    {
+      "position": 19,
+      "stem_md": "Which of the following expressions is equivalent to (2x − 3)<sup>2</sup>?",
+      "choices": ["4x<sup>2</sup> + 9", "4x<sup>2</sup> − 9", "2x<sup>2</sup> − 12x + 9", "4x<sup>2</sup> − 6x + 9", "4x<sup>2</sup> − 12x + 9"],
+      "correct_index": 4,
+      "explanation_md": "Expand (2x − 3)(2x − 3) with FOIL: 4x<sup>2</sup> − 6x − 6x + 9 = 4x<sup>2</sup> − 12x + 9. The choices 4x<sup>2</sup> + 9 and 4x<sup>2</sup> − 9 come from squaring each term separately and omitting the middle term; 4x<sup>2</sup> − 9 is actually (2x + 3)(2x − 3). The choice 4x<sup>2</sup> − 6x + 9 only counts the middle term once, and 2x<sup>2</sup> − 12x + 9 fails to square the coefficient 2.",
+      "difficulty": "hard",
+      "topic": "FOIL"
+    },
+    {
+      "position": 20,
+      "stem_md": "Nadia has $5 more than twice the amount of money Owen has. Together they have $47. How much money does Nadia have?",
+      "choices": ["$14", "$21", "$28", "$33", "$42"],
+      "correct_index": 3,
+      "explanation_md": "Let v be Owen's amount; then Nadia has 2v + 5, and v + (2v + 5) = 47. Solving gives 3v = 42, so v = 14 and Nadia has 2(14) + 5 = $33. The choice $14 is Owen's amount, not Nadia's. The choice $28 is twice Owen's amount without the extra $5, $42 is the value of 3v before dividing, and $21 misreads the relationship as $5 more than half of 47 minus Owen's share.",
+      "difficulty": "hard",
+      "topic": "linear word problems"
+    }
+  ]
+}

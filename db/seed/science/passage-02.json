@@ -1,0 +1,65 @@
+{
+  "section": "science",
+  "passage": {
+    "position": 2,
+    "title": "Painting the Garden with Light",
+    "kind": "research_summary",
+    "body_md": "Radish (*Raphanus sativus*) seedlings were used to study how the color (wavelength) and brightness (intensity) of light affect plant growth. Intensity was measured in micromoles of photons per square meter per second (μmol/m²/s). After each 14-day trial, students measured average final stem height (cm) and average dry mass (mg) per seedling. All seedlings received identical water, soil, temperature, and 16 hours of light per day.\n\n**Experiment 1**\n\nSeedlings were grown under light-emitting diodes (LEDs) of four different colors, each set to the same intensity of 200 μmol/m²/s.\n\n| Light color | Wavelength (nm) | Stem height (cm) | Dry mass (mg) |\n|---|---|---|---|\n| Blue | 450 | 6.8 | 52 |\n| Green | 530 | 10.2 | 21 |\n| Red | 660 | 12.4 | 38 |\n| White | 400–700 (mixed) | 8.5 | 61 |\n\n**Experiment 2**\n\nSeedlings were grown under white LEDs (400–700 nm) at five different intensities. Only dry mass was recorded.\n\n| Intensity (μmol/m²/s) | Dry mass (mg) |\n|---|---|\n| 50 | 22 |\n| 100 | 41 |\n| 200 | 61 |\n| 400 | 78 |\n| 800 | 80 |\n\n**Experiment 3**\n\nSeedlings were grown under a blend of red (660 nm) and blue (450 nm) LEDs. The total intensity was held constant at 200 μmol/m²/s, but the ratio of red light to blue light was varied. Dry mass and leaf chlorophyll content (mg per gram of fresh leaf) were recorded.\n\n| Red : Blue ratio | Dry mass (mg) | Chlorophyll (mg/g) |\n|---|---|---|\n| 100 : 0 | 39 | 1.2 |\n| 75 : 25 | 58 | 1.8 |\n| 50 : 50 | 67 | 2.3 |\n| 25 : 75 | 63 | 2.6 |\n| 0 : 100 | 51 | 2.8 |"
+  },
+  "questions": [
+    {
+      "position": 8,
+      "stem_md": "In Experiment 1, which light color produced seedlings with the greatest dry mass?",
+      "choices": ["Blue", "Green", "Red", "White"],
+      "correct_index": 3,
+      "explanation_md": "The dry-mass column of Experiment 1 lists 52, 21, 38, and 61 mg; the largest value, 61 mg, corresponds to white light. Blue (52), red (38), and green (21) each produced less dry mass, so they are incorrect.",
+      "difficulty": "easy",
+      "topic": "data reading"
+    },
+    {
+      "position": 9,
+      "stem_md": "According to Experiment 2, as the light intensity was increased from 50 to 400 μmol/m²/s, the dry mass of the seedlings:",
+      "choices": ["increased only.", "decreased only.", "increased, then decreased.", "remained constant."],
+      "correct_index": 0,
+      "explanation_md": "From 50 to 400 μmol/m²/s the dry mass rose steadily: 22, 41, 61, and 78 mg. It never fell, so \"decreased only\" and \"increased, then decreased\" are wrong, and the changing values rule out \"remained constant.\"",
+      "difficulty": "easy",
+      "topic": "trend identification"
+    },
+    {
+      "position": 10,
+      "stem_md": "In Experiment 3, the greatest dry mass was recorded at which red : blue ratio?",
+      "choices": ["100 : 0", "75 : 25", "50 : 50", "0 : 100"],
+      "correct_index": 2,
+      "explanation_md": "The dry-mass values in Experiment 3 were 39, 58, 67, 63, and 51 mg; the maximum, 67 mg, occurred at the 50 : 50 ratio. The all-red (39), 75 : 25 (58), and all-blue (51) mixtures each yielded less mass.",
+      "difficulty": "medium",
+      "topic": "data reading"
+    },
+    {
+      "position": 11,
+      "stem_md": "Based on the results of Experiment 2, if a seedling had been grown at an intensity of 300 μmol/m²/s, its dry mass would most likely have been closest to:",
+      "choices": ["45 mg", "61 mg", "70 mg", "85 mg"],
+      "correct_index": 2,
+      "explanation_md": "An intensity of 300 μmol/m²/s lies between the tested 200 (61 mg) and 400 (78 mg) values, so the dry mass should fall between them, near 70 mg. 45 mg and 61 mg are at or below the 200 value, and 85 mg exceeds every measured mass, including the 800-level plateau of 80 mg.",
+      "difficulty": "medium",
+      "topic": "interpolation"
+    },
+    {
+      "position": 12,
+      "stem_md": "A student hypothesized that increasing the proportion of blue light raises the chlorophyll content of radish leaves. Do the results of Experiment 3 support this hypothesis?",
+      "choices": ["Yes; as the blue proportion increased, chlorophyll content rose from 1.2 to 2.8 mg/g.", "Yes; as the blue proportion increased, chlorophyll content fell from 2.8 to 1.2 mg/g.", "No; chlorophyll content stayed constant as the blue proportion increased.", "No; chlorophyll content was highest at the 50 : 50 ratio."],
+      "correct_index": 0,
+      "explanation_md": "Moving from all-red to all-blue increased the blue proportion, and chlorophyll rose steadily: 1.2, 1.8, 2.3, 2.6, and 2.8 mg/g, which supports the hypothesis. The values did not fall or stay constant, and the maximum chlorophyll (2.8) was at the all-blue ratio, not at 50 : 50, so the other options misread the data.",
+      "difficulty": "medium",
+      "topic": "hypothesis support"
+    },
+    {
+      "position": 13,
+      "stem_md": "Considering the results of both Experiment 1 and Experiment 3 together, which conclusion is best supported?",
+      "choices": ["A 50 : 50 blend of red and blue light produces greater dry mass than either red or blue light alone.", "Red light alone produces greater dry mass than any red-and-blue blend.", "Blue light alone produces the greatest dry mass of any treatment tested.", "Green light produces greater dry mass than a 50 : 50 red-and-blue blend."],
+      "correct_index": 0,
+      "explanation_md": "Both experiments agree that single colors give modest mass (blue ≈ 51–52 mg, red ≈ 38–39 mg), while the 50 : 50 blend in Experiment 3 reached 67 mg, exceeding either color alone. Red alone (38–39) was among the lowest, blue alone (51–52) was below the blend, and green (21 mg in Experiment 1) was far lower than the 67 mg blend, so the other choices contradict the data.",
+      "difficulty": "hard",
+      "topic": "cross-experiment synthesis"
+    }
+  ]
+}

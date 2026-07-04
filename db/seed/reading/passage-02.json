@@ -1,0 +1,151 @@
+{
+  "section": "reading",
+  "passage": {
+    "position": 2,
+    "title": "The Commons Under a Roof: Public Markets and the American City",
+    "kind": "social_science",
+    "body_md": "For much of the nineteenth century, the public market house was the beating heart of the American city. Municipalities from Boston to New Orleans built and operated these great sheds and halls, leasing stalls to butchers, fishmongers, and farmers who carted produce in from the surrounding countryside. The market was not merely a place to buy dinner; it was a piece of civic infrastructure, as deliberately planned as a courthouse or a reservoir. City councils fixed the hours of trade, inspected scales and meat, and set stall rents low enough that a family of modest means could count on affordable food within walking distance of home.\n\nThe economic logic behind municipal ownership was straightforward. Fresh food in an era before refrigeration was perishable and prices were volatile; by concentrating buyers and sellers in one regulated place, the city reduced the ability of middlemen to corner supplies and drive up prices. Market laws in many cities went so far as to prohibit \"forestalling\"—the practice of intercepting farmers on the road and buying their goods before they reached the public stalls. Officials reasoned that food, like water, was too essential to be left entirely to private dealing. Stall rents, meanwhile, flowed back into municipal treasuries; in some cities the market house was among the most reliable sources of public revenue, funding everything from street paving to fire companies.\n\nThe market also shaped the physical city around it. Planners of the early republic often reserved the most prominent sites—a central square, the foot of a main street, a landing along the wharf—for the market house, and commerce clustered accordingly. Boardinghouses, taverns, and dry-goods stores rose within a block or two of the stalls, and omnibus lines later bent their routes to serve them. Historians of urban form have argued that in many American downtowns, the street grid still bears the imprint of a market square that vanished generations ago.\n\nBy the late nineteenth century, however, the municipal market system began to erode. Railroads and refrigerated cars unstitched the old geography of supply, allowing wholesalers to ship beef from Chicago or oranges from California directly to private grocers scattered through the neighborhoods. Corner groceries offered credit and home delivery, conveniences the market stall could not match. Reform-minded administrators, increasingly persuaded that government should not compete with private enterprise, let market buildings decay or sold them outright. Between roughly 1880 and 1930, hundreds of public markets closed, and the arrival of the self-service supermarket—pioneered in the 1910s and spread widely by the automobile—seemed to render the old sheds obsolete. What had been understood as essential public infrastructure was reclassified, in the span of two generations, as an inefficient relic.\n\nYet the story did not end there. During the Great Depression, some cities rediscovered the market as a tool of relief, opening curb markets where struggling farmers could sell directly to struggling households. And beginning in the 1970s, a broader revival took hold. Preservationists fought to save surviving halls—Seattle's Pike Place Market was rescued by a citizen ballot initiative in 1971—while planners came to see markets as engines of downtown revitalization, incubators for immigrant-owned food businesses, and remedies for neighborhoods that supermarkets had abandoned. Today's public markets rarely anchor a city's food supply the way their ancestors did; a market hall now competes with grocery chains, delivery apps, and restaurants. But their advocates make a claim the nineteenth-century alderman would have recognized: that a city benefits when it maintains common ground where small sellers can reach the public on fair terms. The market house, in this view, was never just about food. It was about who gets a stall in the life of the city—a question urban planners have never stopped answering, one way or another."
+  },
+  "questions": [
+    {
+      "position": 11,
+      "stem_md": "The main purpose of the passage is to:",
+      "choices": [
+        "argue that self-service supermarkets should be replaced by municipally operated market halls in modern downtowns.",
+        "compare the food distribution systems of nineteenth-century Boston and New Orleans in order to identify the more efficient model.",
+        "trace the rise, decline, and revival of publicly owned markets in American cities and explain the economic and civic reasoning behind each phase.",
+        "describe the architectural features of nineteenth-century market houses and the preservation campaigns that saved them."
+      ],
+      "correct_index": 2,
+      "explanation_md": "The passage moves chronologically from the market's nineteenth-century centrality, through its late-century erosion, to its twentieth-century revival, explaining the reasoning at each stage—so tracing the rise, decline, and revival of public markets fits. The passage reports advocates' claims but never argues that supermarkets should be replaced. Boston and New Orleans are mentioned only in passing, not compared, and architecture and preservation are minor details rather than the passage's focus.",
+      "difficulty": "easy",
+      "topic": "main idea"
+    },
+    {
+      "position": 12,
+      "stem_md": "As it is used in the passage, the phrase \"civic infrastructure\" most nearly emphasizes that nineteenth-century public markets were:",
+      "choices": [
+        "constructed with the same building materials as courthouses and reservoirs.",
+        "planned and maintained by city governments as essential public facilities.",
+        "financed entirely through private donations from wealthy merchants.",
+        "designed primarily to showcase a city's architectural ambitions."
+      ],
+      "correct_index": 1,
+      "explanation_md": "The passage calls the market \"a piece of civic infrastructure, as deliberately planned as a courthouse or a reservoir\" and describes city councils regulating and operating it, so the phrase stresses governmental planning and essential public purpose. The comparison to courthouses concerns deliberate planning, not shared building materials. The passage says stall rents flowed into municipal treasuries, not that private donors financed the markets, and nothing suggests architectural display was the primary aim.",
+      "difficulty": "easy",
+      "topic": "vocabulary in context"
+    },
+    {
+      "position": 13,
+      "stem_md": "According to the passage, laws against \"forestalling\" were intended to:",
+      "choices": [
+        "require farmers to sell their produce at prices fixed each morning by city councils.",
+        "keep railroads from shipping perishable food directly to private grocers.",
+        "bar butchers and fishmongers from renting more than one stall at a time.",
+        "prevent dealers from buying up farmers' goods before those goods reached the public market."
+      ],
+      "correct_index": 3,
+      "explanation_md": "The passage defines forestalling as \"intercepting farmers on the road and buying their goods before they reached the public stalls,\" so the prohibition targeted middlemen buying goods en route. The passage says cities fixed hours of trade and inspected scales, not that they fixed daily prices. Railroads belong to the later era of the market's decline, not to forestalling laws, and stall-rental limits are never mentioned.",
+      "difficulty": "easy",
+      "topic": "explicit detail"
+    },
+    {
+      "position": 14,
+      "stem_md": "The passage indicates that the economic rationale for concentrating buyers and sellers in one regulated marketplace was that doing so:",
+      "choices": [
+        "limited the power of middlemen to corner supplies and inflate food prices.",
+        "guaranteed farmers a higher profit than they could earn selling to grocers.",
+        "eliminated price volatility by allowing cities to store surplus food.",
+        "allowed cities to tax food sales at a higher rate than other commerce."
+      ],
+      "correct_index": 0,
+      "explanation_md": "The passage states that \"by concentrating buyers and sellers in one regulated place, the city reduced the ability of middlemen to corner supplies and drive up prices.\" It never claims farmers earned more at markets than elsewhere. Prices are described as volatile in that era, but the passage attributes the remedy to concentrated, regulated exchange, not municipal food storage. Revenue came from stall rents, not a special tax rate on food sales.",
+      "difficulty": "medium",
+      "topic": "explicit detail"
+    },
+    {
+      "position": 15,
+      "stem_md": "The passage most strongly suggests that the location of early American market houses influenced urban development by:",
+      "choices": [
+        "forcing residential neighborhoods to relocate away from noisy commercial squares.",
+        "requiring planners to widen streets so that refrigerated rail cars could reach the stalls.",
+        "drawing businesses and transportation routes toward the prominent sites the markets occupied.",
+        "concentrating all of a city's commerce inside the market building itself."
+      ],
+      "correct_index": 2,
+      "explanation_md": "The passage says boardinghouses, taverns, and stores \"rose within a block or two of the stalls\" and omnibus lines \"bent their routes to serve them,\" showing that markets drew businesses and transportation routes toward the sites they occupied. Nothing indicates residents were pushed away from market squares. Refrigerated cars are tied to railroads and the market's later decline, not to street design, and the passage describes commerce clustering around the market, not contained entirely within it.",
+      "difficulty": "medium",
+      "topic": "inference"
+    },
+    {
+      "position": 16,
+      "stem_md": "According to the passage, all of the following contributed to the decline of municipal markets between roughly 1880 and 1930 EXCEPT:",
+      "choices": [
+        "refrigerated rail shipping that let wholesalers supply grocers directly.",
+        "citizen ballot initiatives that redirected public funds away from market buildings.",
+        "corner groceries that offered credit and home delivery.",
+        "administrators who believed government should not compete with private enterprise."
+      ],
+      "correct_index": 1,
+      "explanation_md": "The ballot initiative mentioned in the passage is the 1971 campaign that saved Seattle's Pike Place Market—part of the revival, not the decline—so it is the exception. Refrigerated rail cars \"unstitched the old geography of supply,\" corner groceries offered \"credit and home delivery, conveniences the market stall could not match,\" and reform-minded administrators \"let market buildings decay or sold them outright\"; all three are explicitly named as causes of the decline.",
+      "difficulty": "medium",
+      "topic": "explicit detail (EXCEPT)"
+    },
+    {
+      "position": 17,
+      "stem_md": "The author most likely mentions that food was regarded as being \"like water\" in order to:",
+      "choices": [
+        "explain why market houses were typically built along wharves and river landings.",
+        "suggest that nineteenth-century cities supplied food to residents free of charge.",
+        "illustrate the difficulty of keeping perishable goods fresh before refrigeration.",
+        "convey how essential officials considered food to be when justifying public regulation of its sale."
+      ],
+      "correct_index": 3,
+      "explanation_md": "The comparison appears in the sentence \"food, like water, was too essential to be left entirely to private dealing,\" which explains officials' justification for regulation. The waterfront siting of some markets is discussed elsewhere and is unrelated to this analogy. The passage describes affordable food, not free food, and the analogy concerns essentialness, not perishability or refrigeration.",
+      "difficulty": "medium",
+      "topic": "author's purpose"
+    },
+    {
+      "position": 18,
+      "stem_md": "Based on the passage, the Depression-era curb markets and the market revival that began in the 1970s are similar in that both:",
+      "choices": [
+        "reflected a renewed belief that markets could serve public purposes beyond ordinary retail.",
+        "restored public markets to their former role as cities' primary source of food.",
+        "were initiated by federal legislation aimed at supporting small farmers.",
+        "arose from preservationists' campaigns to protect historic buildings."
+      ],
+      "correct_index": 0,
+      "explanation_md": "The curb markets served as \"a tool of relief,\" and the later revival cast markets as engines of revitalization, business incubators, and remedies for underserved neighborhoods—both are public purposes beyond ordinary retail. The passage says today's markets \"rarely anchor a city's food supply the way their ancestors did,\" contradicting the second choice. No federal legislation is mentioned for either era, and preservation campaigns are tied only to the 1970s revival, not the Depression-era markets.",
+      "difficulty": "medium",
+      "topic": "comparative inference"
+    },
+    {
+      "position": 19,
+      "stem_md": "It can most reasonably be inferred that the author regards the reclassification of public markets as \"an inefficient relic\" as:",
+      "choices": [
+        "an accurate assessment that modern advocates of public markets have failed to refute.",
+        "a deliberate scheme by supermarket owners to eliminate their municipal competitors.",
+        "proof that nineteenth-century officials had exaggerated the markets' economic benefits all along.",
+        "a judgment shaped by its historical moment rather than a final verdict, since later generations found new value in markets."
+      ],
+      "correct_index": 3,
+      "explanation_md": "Immediately after describing the reclassification, the author pivots with \"Yet the story did not end there\" and details the Depression-era and 1970s revivals, framing the \"relic\" judgment as historically contingent rather than final. The passage presents modern advocates' claims sympathetically rather than as failed refutations. No conspiracy by supermarket owners is suggested—the causes given are technological and ideological—and the author never implies the original economic benefits were exaggerated.",
+      "difficulty": "hard",
+      "topic": "author's perspective"
+    },
+    {
+      "position": 20,
+      "stem_md": "The passage's concluding claim that the market house \"was never just about food\" primarily serves to:",
+      "choices": [
+        "concede that public markets were never economically significant to municipal budgets.",
+        "frame the public market as part of an enduring debate over who gets access to a city's shared commercial life.",
+        "predict that grocery chains and delivery apps will soon make market halls obsolete again.",
+        "summarize the technological innovations that transformed food distribution after 1880."
+      ],
+      "correct_index": 1,
+      "explanation_md": "The final sentences link the market to \"who gets a stall in the life of the city—a question urban planners have never stopped answering,\" presenting the market as part of a continuing debate about access to common ground. This does not concede economic insignificance; earlier the passage calls markets \"among the most reliable sources of public revenue.\" The author notes competition from chains and apps but makes no prediction of renewed obsolescence, and the conclusion is about civic meaning, not a summary of distribution technology.",
+      "difficulty": "hard",
+      "topic": "function of conclusion"
+    }
+  ]
+}

@@ -1,26 +1,95 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #f8fafc; /* slate-50 — calm, paper-like exam feel */
+  --foreground: #0f172a; /* slate-900 */
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --font-sans: var(--font-noto-thai), var(--font-inter), ui-sans-serif, system-ui, sans-serif;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
+}
+
+/* Passage & question content — authentic serif ACT reading feel */
+.act-serif {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+.act-content p {
+  margin-bottom: 0.9em;
+}
+
+.act-content u[data-q] {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1.5px;
+}
+
+.act-content u.act-active {
+  background: #fef08a; /* soft yellow highlight for the current question */
+  border-radius: 2px;
+  padding: 0 1px;
+}
+
+/* Markdown tables (Science data) */
+.act-content table {
+  border-collapse: collapse;
+  margin: 0.75em 0;
+  font-size: 0.92em;
+  font-family: var(--font-sans);
+}
+
+.act-content th,
+.act-content td {
+  border: 1px solid #cbd5e1; /* slate-300 */
+  padding: 4px 10px;
+  text-align: center;
+}
+
+.act-content th {
+  background: #f1f5f9; /* slate-100 */
+  font-weight: 600;
+}
+
+.act-content sup {
+  font-size: 0.72em;
+}
+
+/* Gentle pulse for the ≤1-minute timer state */
+@keyframes act-pulse {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.55;
+  }
+}
+
+.act-timer-danger {
+  animation: act-pulse 1.2s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .act-timer-danger {
+    animation: none;
+  }
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  body {
+    background: white;
+  }
 }

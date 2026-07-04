@@ -1,0 +1,221 @@
+{
+  "section": "english",
+  "passage": {
+    "position": 3,
+    "title": "The Patient Dark: An Astronomer on the Hill",
+    "kind": null,
+    "body_md": "On clear autumn nights in the 1890s, residents of Marlowe, Ohio, often noticed a lantern bobbing up the hill behind the schoolhouse. The lantern belonged to Eliza Hartwell, <u data-q=\"31\">a schoolteacher by day, and, an astronomer by night</u>. At the top of the hill stood a wooden shed whose roof rolled back on iron rails—a structure Hartwell had built herself from scrap lumber and secondhand hardware. Inside sat her prized <u data-q=\"32\">possession:</u> a six-inch refracting telescope purchased with three years of savings.\n\n[A] Hartwell's first love was variable stars—stars whose brightness rises and falls over days or months. [B] Astronomers at the time knew of only a few hundred such stars, and cataloging them required patience that most professionals <u data-q=\"33\">was unwilling</u> to spare. [C] Night after night, Hartwell compared each suspect star against its steadier neighbors, recording changes in brightness that others had overlooked. [D] By 1902, she had documented forty-two previously unknown variables, a total that exceeded the combined output of two well-funded university observatories.\n\nHartwell's most famous discovery came almost by accident. While photographing the constellation Perseus in November 1904, she noticed a faint smudge <u data-q=\"35\">that had not appeared</u> on her plates from the previous week. Suspecting a comet, she telegraphed the national observatory in Washington, <u data-q=\"36\">which</u> astronomers confirmed the object within days. Newspapers across the country hailed \"the schoolteacher's <u data-q=\"37\">comet,\" Hartwell</u> suddenly found herself fielding sacks of mail from readers eager to know what she would spot next.\n\nIn 1906, the director of the Perkins Observatory offered Hartwell a job as a \"computer\"—one of the assistants, nearly all of them women, who measured star positions on photographic plates. The salary was modest, and the title carried little prestige. <u data-q=\"38\">Therefore,</u> Hartwell accepted at once: the position came with two nights a week at the eyepiece of the <u data-q=\"39\">observatory's</u> great refractor.\n\nAt Perkins, Hartwell turned her attention to a class of stars that seemed to pulse in two overlapping rhythms. Other astronomers had dismissed the doubled flicker as an error in measurement. Hartwell, <u data-q=\"40\">whom</u> had spent a decade training her eye on the hill in Marlowe, trusted the data. Poring over more than a thousand photographic plates, <u data-q=\"41\">the two rhythms were charted by her</u> with painstaking care. Her 1911 paper on \"twin-pulse\" variables showed that the pattern was real, and it gave later scientists a tool for probing the interiors of distant stars—<u data-q=\"42\">regions no telescope could see directly</u>.\n\nHartwell never earned an advanced degree, and for years her name appeared in footnotes <u data-q=\"43\">more often then</u> in headlines. Yet her catalogs <u data-q=\"44\">remained in use and continued to be consulted</u> for decades after her death in 1940. Two years before she died, the National Astronomical Union awarded her its highest medal. Accepting it, she thanked neither a university nor a famous mentor but, as she put it, \"the patient dark over an Ohio hill.\""
+  },
+  "questions": [
+    {
+      "position": 31,
+      "stem_md": "Which is the best version of the underlined portion \"<u>a schoolteacher by day, and, an astronomer by night</u>\" (31)?",
+      "choices": [
+        "NO CHANGE",
+        "a schoolteacher, by day, and an astronomer by night",
+        "a schoolteacher by day and an astronomer by night",
+        "a schoolteacher by day and an astronomer, by night"
+      ],
+      "correct_index": 2,
+      "explanation_md": "The phrase is a single compound appositive joined by \"and,\" so no internal commas are needed. The original wrongly splits the pair with commas around \"and.\" The other options insert commas that separate elements (\"schoolteacher\" from \"by day,\" \"astronomer\" from \"by night\") that belong together.",
+      "difficulty": "easy",
+      "topic": "comma usage"
+    },
+    {
+      "position": 32,
+      "stem_md": "Which is the best version of the underlined portion \"prized <u>possession:</u>\" (32)?",
+      "choices": [
+        "NO CHANGE",
+        "possession;",
+        "possession, it was",
+        "possession"
+      ],
+      "correct_index": 0,
+      "explanation_md": "A colon correctly introduces the appositive that names the possession—the telescope. A semicolon must join two independent clauses, but what follows is only a noun phrase. \"possession, it was\" creates a comma splice, and omitting punctuation runs the noun phrase into the sentence ungrammatically.",
+      "difficulty": "medium",
+      "topic": "colons"
+    },
+    {
+      "position": 33,
+      "stem_md": "Which is the best version of the underlined portion \"most professionals <u>was unwilling</u> to spare\" (33)?",
+      "choices": [
+        "NO CHANGE",
+        "were unwilling",
+        "is unwilling",
+        "has been unwilling"
+      ],
+      "correct_index": 1,
+      "explanation_md": "The plural subject \"most professionals\" requires the plural past-tense verb \"were.\" \"Was\" and \"is\" are singular, and \"has been\" is both singular and in a present-perfect tense that clashes with the paragraph's past-time narration.",
+      "difficulty": "easy",
+      "topic": "subject-verb agreement"
+    },
+    {
+      "position": 34,
+      "stem_md": "The writer wants to add the following sentence to the second paragraph:\n\n*\"To confirm a single discovery, she sometimes waited through weeks of cloudy skies for one more measurement.\"*\n\nIn the context of the passage as a whole, the sentence would most logically be placed at:",
+      "choices": [
+        "Point A.",
+        "Point B.",
+        "Point C.",
+        "Point D."
+      ],
+      "correct_index": 3,
+      "explanation_md": "The new sentence elaborates on Hartwell's painstaking nightly verification work, so it belongs right after the \"Night after night\" sentence describing that routine—at Point D, just before the paragraph tallies her results. At Points A and B, no observing work has been described yet, so \"confirm a single discovery\" has no referent. At Point C, the sentence would interrupt the move from professionals' impatience to Hartwell's contrasting method.",
+      "difficulty": "hard",
+      "topic": "sentence placement"
+    },
+    {
+      "position": 35,
+      "stem_md": "Which is the best version of the underlined portion \"a faint smudge <u>that had not appeared</u> on her plates\" (35)?",
+      "choices": [
+        "NO CHANGE",
+        "that has not appeared",
+        "that would not appear",
+        "that was not appearing"
+      ],
+      "correct_index": 0,
+      "explanation_md": "The past perfect \"had not appeared\" correctly places the smudge's absence before the past-tense moment when Hartwell noticed it in 1904. \"Has not appeared\" shifts to the present perfect, clashing with the past narration. \"Would not appear\" wrongly suggests future time, and \"was not appearing\" loses the earlier-than-past sequence.",
+      "difficulty": "medium",
+      "topic": "verb tense"
+    },
+    {
+      "position": 36,
+      "stem_md": "Which is the best version of the underlined portion \"the national observatory in Washington, <u>which</u> astronomers confirmed the object within days\" (36)?",
+      "choices": [
+        "NO CHANGE",
+        "whom",
+        "where",
+        "that"
+      ],
+      "correct_index": 2,
+      "explanation_md": "The clause describes the place at which astronomers confirmed the object, so the relative adverb \"where\" is needed. \"Which\" and \"that\" would need to serve a grammatical role inside the clause, but the clause already has a complete subject and object. \"Whom\" refers to people and cannot refer to an observatory.",
+      "difficulty": "medium",
+      "topic": "relative pronouns"
+    },
+    {
+      "position": 37,
+      "stem_md": "Which is the best version of the underlined portion \"the schoolteacher's <u>comet,\" Hartwell</u> suddenly found herself\" (37)?",
+      "choices": [
+        "NO CHANGE",
+        "comet\"; and Hartwell",
+        "comet,\" and Hartwell",
+        "comet,\" Hartwell,"
+      ],
+      "correct_index": 2,
+      "explanation_md": "Two independent clauses—the newspapers' reaction and Hartwell's flood of mail—need a comma plus a coordinating conjunction, so \"comet,\" and Hartwell\" is correct. The original is a comma splice, and adding a comma after \"Hartwell\" only compounds that error. A semicolon should not be paired with \"and,\" and in American usage the comma belongs inside the closing quotation mark.",
+      "difficulty": "hard",
+      "topic": "comma splices"
+    },
+    {
+      "position": 38,
+      "stem_md": "Which transition word is the best version of the underlined portion \"<u>Therefore,</u> Hartwell accepted at once\" (38)?",
+      "choices": [
+        "NO CHANGE",
+        "For example,",
+        "Likewise,",
+        "Nevertheless,"
+      ],
+      "correct_index": 3,
+      "explanation_md": "The previous sentence lists drawbacks—modest salary, little prestige—so her immediate acceptance is a contrast, signaled by \"Nevertheless.\" \"Therefore\" wrongly presents the acceptance as a logical result of the drawbacks. \"For example\" and \"Likewise\" signal illustration and similarity, neither of which fits.",
+      "difficulty": "easy",
+      "topic": "transitions"
+    },
+    {
+      "position": 39,
+      "stem_md": "Which is the best version of the underlined portion \"the eyepiece of the <u>observatory's</u> great refractor\" (39)?",
+      "choices": [
+        "NO CHANGE",
+        "observatories",
+        "observatorys'",
+        "observatories'"
+      ],
+      "correct_index": 0,
+      "explanation_md": "One observatory possesses the refractor, so the singular possessive \"observatory's\" is correct. \"Observatories\" is a plural with no apostrophe and shows no possession. \"Observatorys'\" is not a word, and \"observatories'\" is a plural possessive even though only one observatory is discussed.",
+      "difficulty": "easy",
+      "topic": "apostrophes"
+    },
+    {
+      "position": 40,
+      "stem_md": "Which is the best version of the underlined portion \"Hartwell, <u>whom</u> had spent a decade training her eye\" (40)?",
+      "choices": [
+        "NO CHANGE",
+        "which",
+        "who",
+        "and she"
+      ],
+      "correct_index": 2,
+      "explanation_md": "The pronoun is the subject of the verb \"had spent,\" so the subject form \"who\" is required; \"whom\" is an object form. \"Which\" cannot refer to a person. \"And she\" would leave the main clause without a subject performing \"trusted,\" breaking the sentence's structure.",
+      "difficulty": "medium",
+      "topic": "who vs. whom"
+    },
+    {
+      "position": 41,
+      "stem_md": "Which is the best version of the underlined portion \"Poring over more than a thousand photographic plates, <u>the two rhythms were charted by her</u> with painstaking care\" (41)?",
+      "choices": [
+        "NO CHANGE",
+        "the two rhythms she charted",
+        "she charted the two rhythms",
+        "her chart of the two rhythms was made"
+      ],
+      "correct_index": 2,
+      "explanation_md": "The opening modifier \"Poring over more than a thousand photographic plates\" must be followed immediately by the person doing the poring—Hartwell—so \"she charted the two rhythms\" is correct. In the original, the modifier dangles, absurdly suggesting the rhythms pored over the plates. The other options likewise place \"the two rhythms\" or \"her chart\" next to the modifier instead of \"she.\"",
+      "difficulty": "medium",
+      "topic": "misplaced modifiers"
+    },
+    {
+      "position": 42,
+      "stem_md": "The writer is considering deleting the underlined phrase \"<u>regions no telescope could see directly</u>\" (42) (and the dash preceding it). Should the phrase be kept or deleted?",
+      "choices": [
+        "Kept, because it identifies the telescope Hartwell used at the Perkins Observatory.",
+        "Kept, because it clarifies why a tool for probing stellar interiors was so valuable to later scientists.",
+        "Deleted, because it repeats information stated earlier in the paragraph.",
+        "Deleted, because it contradicts the essay's claim that Hartwell's data were reliable."
+      ],
+      "correct_index": 1,
+      "explanation_md": "The phrase explains that stellar interiors are invisible to direct observation, which is precisely why an indirect tool derived from Hartwell's \"twin-pulse\" work mattered—so it should be kept. It says nothing about Hartwell's own instrument, no earlier sentence conveys this information, and it in no way undercuts the reliability of her data.",
+      "difficulty": "hard",
+      "topic": "writer's purpose"
+    },
+    {
+      "position": 43,
+      "stem_md": "Which is the best version of the underlined portion \"in footnotes <u>more often then</u> in headlines\" (43)?",
+      "choices": [
+        "NO CHANGE",
+        "more often than",
+        "more often, then",
+        "more than often"
+      ],
+      "correct_index": 1,
+      "explanation_md": "A comparison requires \"than,\" not the time word \"then,\" so \"more often than\" is correct. The original confuses the two words, adding a comma before \"then\" does not fix that confusion, and \"more than often\" scrambles the comparison into nonsense.",
+      "difficulty": "easy",
+      "topic": "commonly confused words"
+    },
+    {
+      "position": 44,
+      "stem_md": "Which is the best version of the underlined portion \"her catalogs <u>remained in use and continued to be consulted</u> for decades\" (44)?",
+      "choices": [
+        "NO CHANGE",
+        "remained in use, being consulted continually,",
+        "continued to remain in constant use and consultation",
+        "remained in use"
+      ],
+      "correct_index": 3,
+      "explanation_md": "\"Remained in use\" says everything needed; \"continued to be consulted\" repeats the same idea, making the original redundant. The other two revisions pile on additional restatements (\"being consulted continually,\" \"constant use and consultation\") instead of trimming the wordiness.",
+      "difficulty": "medium",
+      "topic": "redundancy"
+    },
+    {
+      "position": 45,
+      "stem_md": "Suppose the writer's goal had been to profile a scientist whose achievements grew out of persistence pursued largely outside established institutions. Would the passage as a whole accomplish that goal?",
+      "choices": [
+        "Yes, because it shows Hartwell teaching herself astronomy, building her own observatory, and producing influential discoveries without an advanced degree.",
+        "Yes, because it provides a complete list of the awards and academic degrees Hartwell earned during her career.",
+        "No, because the essay focuses mainly on the daily operations of the Perkins Observatory rather than on Hartwell.",
+        "No, because the essay indicates that Hartwell abandoned astronomy soon after discovering her comet."
+      ],
+      "correct_index": 0,
+      "explanation_md": "The essay traces Hartwell from a self-built hilltop shed to major discoveries and a medal earned without an advanced degree, exactly matching the stated goal. It offers no list of degrees—indeed it says she never earned an advanced one. The Perkins Observatory appears only as a setting for her work, and far from abandoning astronomy, she continued it until late in her life.",
+      "difficulty": "hard",
+      "topic": "essay purpose"
+    }
+  ]
+}
