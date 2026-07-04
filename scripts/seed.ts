@@ -8,11 +8,10 @@
  * Refuses to run when attempts exist (reseeding replaces all questions and
  * would orphan them) unless --force is given.
  */
-import fs from "node:fs";
 import path from "node:path";
 import { getDb, nowIso } from "../src/lib/db";
 import { SECTIONS, SECTION_CODES, type SectionCode } from "../src/lib/exam/definition";
-import { seedFileSchema, type SeedFile } from "../src/lib/seed-schema";
+import { loadAndValidateSeedFiles } from "../src/lib/seed-validate";
 
 const args = new Set(process.argv.slice(2));
 const partial = args.has("--partial");
@@ -20,73 +19,17 @@ const force = args.has("--force");
 
 const seedRoot = path.join(process.cwd(), "db", "seed");
 
-interface LoadedFile {
-  relPath: string;
-  data: SeedFile;
-}
-
 function fail(message: string): never {
   console.error(`❌ ${message}`);
   process.exit(1);
 }
 
-// ---------- 1. Read + validate every file ----------
-const loaded: LoadedFile[] = [];
-for (const section of SECTION_CODES) {
-  const dir = path.join(seedRoot, section);
-  if (!fs.existsSync(dir)) continue;
-  for (const file of fs.readdirSync(dir).filter((f) => f.endsWith(".json")).sort()) {
-    const relPath = `${section}/${file}`;
-    let json: unknown;
-    try {
-      json = JSON.parse(fs.readFileSync(path.join(dir, file), "utf-8"));
-    } catch (e) {
-      fail(`${relPath}: invalid JSON — ${(e as Error).message}`);
-    }
-    const parsed = seedFileSchema.safeParse(json);
-    if (!parsed.success) {
-      const issues = parsed.error.issues
-        .map((i) => `  - ${i.path.join(".")}: ${i.message}`)
-        .join("\n");
-      fail(`${relPath}: schema validation failed\n${issues}`);
-    }
-    if (parsed.data.section !== section) {
-      fail(`${relPath}: section "${parsed.data.section}" does not match directory "${section}"`);
-    }
-    loaded.push({ relPath, data: parsed.data });
-  }
-}
-
-if (loaded.length === 0) fail(`no seed files found under ${seedRoot}`);
-
-// ---------- 2. Cross-file checks ----------
-for (const section of SECTION_CODES) {
-  const files = loaded.filter((f) => f.data.section === section);
-  if (files.length === 0) {
-    if (!partial) fail(`section "${section}" has no seed files (use --partial to allow)`);
-    continue;
-  }
-  const positions = files.flatMap((f) => f.data.questions.map((q) => q.position));
-  const seen = new Set<number>();
-  for (const p of positions) {
-    if (seen.has(p)) fail(`section "${section}": duplicate question position ${p} across files`);
-    seen.add(p);
-  }
-  const passagePositions = files
-    .map((f) => f.data.passage?.position)
-    .filter((p): p is number => p !== undefined && p !== null);
-  if (new Set(passagePositions).size !== passagePositions.length) {
-    fail(`section "${section}": duplicate passage positions across files`);
-  }
-  if (!partial) {
-    const expected = SECTIONS[section].questionCount;
-    if (positions.length !== expected) {
-      fail(`section "${section}": expected ${expected} questions total, got ${positions.length}`);
-    }
-    for (let p = 1; p <= expected; p++) {
-      if (!seen.has(p)) fail(`section "${section}": missing question position ${p}`);
-    }
-  }
+// ---------- 1+2. Read, schema-validate, and cross-check every file ----------
+let loaded;
+try {
+  loaded = loadAndValidateSeedFiles(seedRoot, { partial });
+} catch (e) {
+  fail((e as Error).message);
 }
 
 // ---------- 3. Attempts guard ----------

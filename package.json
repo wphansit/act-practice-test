@@ -9,6 +9,7 @@
     "lint": "eslint",
     "test": "vitest run",
     "seed": "tsx scripts/seed.ts",
+    "validate": "tsx scripts/validate-seed.ts",
     "postinstall": "node scripts/relink-node-modules.cjs"
   },
   "dependencies": {

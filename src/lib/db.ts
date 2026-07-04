@@ -3,9 +3,10 @@ import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
 
-// The database lives OUTSIDE OneDrive by default (~/.act-app/act.db) —
-// OneDrive syncing a WAL-mode SQLite file mid-write risks corruption.
-// Override with ACT_DB_PATH.
+// The database lives outside the project directory by default
+// (~/.act-app/act.db): a file-syncing client (OneDrive/Dropbox/etc.) copying a
+// WAL-mode SQLite file mid-write risks corruption, and it keeps generated data
+// out of the repo. Override with ACT_DB_PATH.
 function resolveDbPath(): string {
   const fromEnv = process.env.ACT_DB_PATH;
   if (fromEnv && fromEnv.trim() !== "") return fromEnv;
